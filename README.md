@@ -84,6 +84,75 @@ Convertirnos en la plataforma líder en el mercado de alquiler de vehículos en 
 
 
   - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+
+  <table style="text-align:center">
+    <thead>
+        <tr>
+            <th>Integrantes</th>
+            <th>Descripción</th>
+            <th>Conocimientos</th>
+        </tr>
+    </thead>
+    <body >
+        <tr>
+            <!-- DATOS del integrante 1-->
+            <td> 
+            <img src="/img/foto01.png" width="100" height="100">
+            <br>Daiki Oscar Oshiro Yamashita u20201f846
+            </td>
+            <!-- DESCRIPCIÓN del integrante 1-->
+            <td> Soy estudiante de la carrera de Ingenieria de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro. </td>
+            <!-- CONOCIMIENTOS del integrante 1-->
+            <td> Cuento con el conocimiento de diversos lenguajes HTML, Python, C++, C# y MySQL. </td>
+        </tr>
+        <tr>
+            <!-- DATOS del integrante 2-->
+            <td> 
+            <img src="/img/foto02.png" width="100" height="100">
+            <br>Sebastian Gabriel Zuniga Calle u20221b479
+            </td>
+            <!-- DESCRIPCIÓN del integrante 2-->
+            <td> Soy estudiante de la carrera de Ingenieria de Software. Mis intereses se basan en aprender nuevas tecnologías, desarrollo en web y aplicaciones. </td>
+            <!-- CONOCIMIENTOS del integrante 2-->
+            <td> Poseo conocimientos en los lenguajes de programación: C++, Python, JavaScript y C#. Listo para ayudar en el desarrollo y solucion de problemas. </td>
+        </tr>
+        <tr>
+            <!-- DATOS del integrante 3-->
+            <td> 
+            <img src="/img/foto03.png" width="100" height="100">
+            <br>Ario Joel Chavez Uribe u202213468
+            </td>
+            <!-- DESCRIPCIÓN del integrante 3-->
+            <td> Soy estudiante de la carrera de Ingenieria de Software. Tengo interés en aprender sobre nuevas tecnologías, el desarrollo web y de aplicaciones. </td>
+            <!-- CONOCIMIENTOS del integrante 3-->
+            <td> Poseo conocimientos en los lenguajes de programación: C++, Python, HTML y MySQL. Útiles para el desarrollo y solucion del proyecto. </td>
+        </tr>
+        <tr>
+            <!-- DATOS del integrante 4-->
+            <td> 
+            <img src="/img/foto04.png" width="100" height="100">
+            <br>Aaron Alejandro Cruz Ticona
+            </td>
+            <!-- DESCRIPCIÓN del integrante 4-->
+            <td> Me encuentro inmerso en la carrera de Ingenieria de Software. ,e considero una persona curiosa, lo que me lleva a tener constante interes en el aprender nuevas cosas y espero hacerlo en este curso. </td>
+            <!-- CONOCIMIENTOS del integrante 4-->
+            <td> Personalmente, poseo conocimientos en lo que a el mundo de la programación se refiere: En C++, Python, HTML, CSS, SQL, entre otros a futuro.</td>
+        </tr>
+        <tr>
+            <!-- DATOS del integrante 5-->
+            <td> 
+            <img src="/img/foto05.png" width="100" height="100">
+            <br>Gabriel Alejandro Rivera Ayala u202223279
+            </td>
+            <!-- DESCRIPCIÓN del integrante 5-->
+            <td> Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas.</td>
+            <!-- CONOCIMIENTOS del integrante 5-->
+            <td> He desarrollado proyectos en C++, Python, HTML, SQL y C#. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo.</td>
+        </tr>
+    </body>
+</table>
+<br>
+
 - [1.2. Solution Profile](#12-solution-profile)
   - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
   - [1.2.2 Lean UX Process](#122-lean-ux-process)
