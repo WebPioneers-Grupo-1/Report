@@ -525,6 +525,10 @@ Con el objetivo de comprender la necesidad y la demanda en nuestro sector por pa
 
 ### 2.3.4. Empathy Mapping
 
+ <img src="/img/image1.png" width="100" height="100">
+
+  <img src="/img/image3.png" width="100" height="100">
+
 ### 2.3.5. As-is Scenario Mapping
 
 ## 2.4. Ubiquitous Language
