@@ -525,7 +525,9 @@ Con el objetivo de comprender la necesidad y la demanda en nuestro sector por pa
 
 ### 2.3.4. Empathy Mapping
 
+<img src="/img/image2.png" width="1000" height="1000">
 
+<img src="/img/image4.png" width="1000" height="1000">
 
 ### 2.3.5. As-is Scenario Mapping
 
