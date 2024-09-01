@@ -467,9 +467,49 @@ Táctica: Incluir características como verificación de identidad, historial de
 
 ### 2.2.1. Diseño de entrevistas
 
-* **Preguntas Generales**:
+Con el objetivo de comprender la necesidad y la demanda en nuestro sector por parte de nuestro publico objetivo. Por ello, elaboramos las siguientes preguntas con el fin de recolectar información cualitativa y/o cuantitativa, la cual se verá divida por nuestros segmentos objetivos.
 
-* **Preguntas Específicas**:
+**Preguntas Generales**
+
+- ¿Cuál es su nombre?
+
+- ¿Cuántos años tiene usted?
+- ¿En que ciudad y distrito reside?
+- ¿A qué se dedica o cual es su ocupación?
+
+**Preguntas Específicas**
+
+**Segmento 1: Propietarios de vehículos**
+
+- ¿Cuántos vehículos posee usted?
+
+- ¿Con que frecuencia se transporta de su(s) vehículos(s)?
+- ¿Cuándo no utiliza su vehículo, donde permanece el mismo?
+- ¿Ha usted alquilado su vehículo anteriormente? Si la respuesta es: <br>
+ Si: ¿Qué dificultades presento alquilarlo? <br>
+ No: ¿Cuan dispuesto se encuentra usted a alquilar su vehículo?
+- ¿Conoce alguna plataforma para el alquiler de vehículos en su entorno?
+- ¿Qué tipo de garantías y compensación esperarías sobre alquilar tu vehículo?
+- ¿Considera una opción llamativa el no tener que preocuparse por su vehículo y además, recibir ingresos por ello?
+
+**Segmento 2: Usuarios arrendatarios**
+
+- ¿Con que frecuencia te transportas en el día a día?
+
+- ¿Cuánto dinero crees que gastas en movilizarte cada semana?
+- ¿Si tuvieras un auto, cuál sería el principal uso que le darías?
+- ¿Alguna vez pensaste en alquilar un auto? Si la respuesta es: <br> Si: ¿Nos podrías contar acerca de tu experiencia y tu opinión? <br> No: ¿Cuáles son los motivos por los que no opto por alquilar un vehículo?
+- ¿Qué aspectos negativos encuentra al alquilar un vehículo para uso propio?
+- ¿Conoce alguna plataforma de confianza donde puede hallar el vehículo adecuado a su necesidad?
+
+**Preguntas sobre la idea del proyecto**
+
+- ¿Qué opina acerca de TakeMyCar, una plataforma donde podrás alquilar y confiar tu vehículo de forma segura y confiable?
+
+- ¿Qué aspecto le llama más la atención?
+- ¿Nos podría brindan alguna recomendación para mejorar la idea de la plataforma?
+- ¿Recomendaría el uso de nuestra aplicación a sus conocidos?
+
 
 ### 2.2.2. Registro de entrevistas
 
