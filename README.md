@@ -526,8 +526,10 @@ Entrevista 3:
 
 Entrevista 4: 
 
-Entrevistado: Ernesto Ruiz 
+Entrevistado: Ernesto Ruiz
+
 Entrevistador: Daiki Oshiro  
+
 Link de la entrevista: https://www.youtube.com/watch?v=eoOJoZDcQu8 
 
 Entrevista 5:
@@ -535,6 +537,126 @@ Entrevista 5:
 Entrevista 6:
 
 ### 2.2.3. Análisis de entrevistas
+
+Preguntas específicas:
+
+¿Con qué frecuencia te transportas en el día a día?
+
+Respuesta del entrevistado:
+
+Me transporto diariamente para ir a la universidad, hacer compras y realizar otras actividades personales. En promedio, utilizo algún medio de transporte al menos una o dos veces al día.
+
+Análisis:
+
+La mayoría de las personas utilizan el transporte al menos una o dos veces al día para actividades cotidianas como ir a la universidad o hacer compras. Esto sugiere que un servicio de alquiler de vehículos podría ser útil para aquellos que necesitan transporte frecuente, especialmente si el costo de transporte diario es alto.
+
+Preguntas específicas:
+
+¿Cuánto dinero crees que gastas en movilizarte cada semana?
+
+Respuesta del entrevistado:
+
+Estimo que gasto alrededor de 50 a 70 soles en transporte cada semana, dependiendo de la distancia y el tipo de transporte que utilice.
+
+Análisis:
+
+El gasto semanal en transporte puede variar, pero el rango de 50 a 70 soles indica un gasto significativo en transporte. Esto refuerza la idea de que los consumidores podrían estar interesados en opciones más económicas como el alquiler de vehículos, especialmente si la plataforma ofrece precios competitivos.
+
+Preguntas específicas:
+
+Si tuvieras un auto, ¿cuál sería el principal uso que le darías?
+
+Respuesta del entrevistado:
+
+Si tuviera un auto, lo usaría principalmente para ir a la universidad, además de hacer viajes ocasionales los fines de semana.
+
+Análisis:
+
+El uso principal sería para actividades diarias como ir a la universidad y viajes ocasionales. Esto destaca la necesidad de que la plataforma ofrezca opciones flexibles y convenientes para alquileres a corto plazo y usos específicos.
+
+Preguntas específicas:
+
+¿Alguna vez pensaste en alquilar un auto?
+
+Respuesta del entrevistado:
+
+No, nunca he optado por alquilar un vehículo. Los principales motivos son que, por lo general, no necesito un auto para mis actividades diarias y también porque me preocupa la responsabilidad de manejar un vehículo que no es mío, así como los posibles cargos adicionales por daños o accidentes.
+
+Análisis:
+
+La preocupación por los costos, la responsabilidad y posibles cargos adicionales es común. Esto indica que hay una resistencia hacia el alquiler tradicional debido a estos factores, lo cual abre una oportunidad para que TakeMyCar ofrezca una solución más accesible y confiable.
+
+Preguntas específicas:
+
+¿Qué aspectos negativos encuentra al alquilar un vehículo para uso propio?
+
+Respuesta del entrevistado:
+
+Algunos aspectos negativos que encuentro al alquilar un vehículo son el costo relativamente alto en comparación con otras opciones de transporte, la preocupación por los daños al vehículo y las tarifas adicionales que podrían aplicarse.
+
+Análisis:
+
+Los costos altos, la preocupación por daños y tarifas adicionales son barreras importantes. TakeMyCar podría diferenciarse al ofrecer precios más bajos, una política clara sobre daños y una estructura de tarifas transparente.
+
+Preguntas específicas:
+
+¿Conoce alguna plataforma de confianza donde pueda hallar el vehículo adecuado a su necesidad?
+
+Respuesta del entrevistado:
+
+Conosco algunas plataformas de alquiler de vehículos, como Hertz. Sin embargo, muchas de estas plataformas tienen tarifas altas o requieren demasiados trámites para alquilar un vehículo.
+
+Análisis:
+
+La falta de plataformas accesibles y con tarifas razonables puede ser una oportunidad para TakeMyCar. La dificultad con las plataformas actuales puede ser una ventaja competitiva si TakeMyCar simplifica el proceso y ofrece mejores condiciones.
+
+Preguntas específicas:
+
+¿Qué opina acerca de TakeMyCar, una plataforma donde podrás alquilar y confiar tu vehículo de forma segura y confiable?
+
+Respuesta del entrevistado:
+
+Me parece una idea interesante y útil. Poder alquilar un vehículo de forma segura y confiable a través de una plataforma que facilite el proceso y ofrezca una alternativa más económica que las empresas tradicionales de alquiler es muy atractivo.
+
+Análisis:
+
+La percepción positiva sugiere que el mercado está abierto a nuevas alternativas, especialmente si se puede ofrecer una solución segura y económica que aborde las preocupaciones sobre el alquiler tradicional.
+
+Preguntas específicas:
+
+¿Qué aspecto le llama más la atención?
+
+Respuesta del entrevistado:
+
+Lo que más me llama la atención es la posibilidad de poder alquilar vehículos de otros particulares a través de una plataforma que garantice la seguridad tanto del arrendatario como del propietario, además de tener opciones de monitoreo del vehículo durante el alquiler.
+
+Análisis:
+
+La seguridad y la posibilidad de monitoreo del vehículo son aspectos clave. Responder a estas preocupaciones con características claras y efectivas en la plataforma puede aumentar la aceptación y la confianza en TakeMyCar.
+
+Preguntas específicas:
+
+¿Nos podría brindar alguna recomendación para mejorar la idea de la plataforma?
+
+Respuesta del entrevistado:
+
+Sería útil incluir opciones de seguros personalizados que cubran diferentes tipos de daños o situaciones, así como un sistema de calificación y comentarios para los propietarios y arrendatarios, lo que ayudaría a generar confianza en la plataforma.
+
+Análisis:
+
+Las sugerencias de seguros personalizados y un sistema de calificación y comentarios son muy valiosas. Estos elementos pueden ayudar a construir confianza y garantizar que tanto propietarios como arrendatarios se sientan seguros y satisfechos con la plataforma.
+
+Preguntas específicas:
+
+¿Recomendaría el uso de nuestra aplicación a sus conocidos?
+
+Respuesta del entrevistado:
+
+Sí, recomendaría el uso de la aplicación a mis conocidos, especialmente a aquellos que necesitan un vehículo por un corto período y buscan una alternativa más económica y flexible que las empresas de alquiler tradicionales.
+
+Análisis:
+
+La recomendación positiva indica que hay un interés genuino en el concepto de TakeMyCar. Asegúrate de que la plataforma cumpla con las expectativas y necesidades mencionadas para maximizar la recomendación y la adopción por parte de los usuarios.
 
 ## 2.3. Needfinding
 
