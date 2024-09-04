@@ -1,7 +1,7 @@
 <h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
 
 <h3 align="center"> Ingeniería de Software </h3>
-<h3 align="center"> Ciclo 2024 - 1 </h3>
+<h3 align="center"> Ciclo 2024 - 2 </h3>
 
 <br>
 
@@ -48,11 +48,11 @@
 
 </div>
 
-<br><br>
+---
 
 # Project Report Collaboration Insights
 
-<br><br>
+---
 
 # Contenido
 
@@ -66,92 +66,13 @@
 
 ### [Student Outcome](#student-outcome-1)
 
-### [Capítulo I: Introducción](#capc3adtulo-i-introduccic3b3n-1)
+### [Capítulo I: Introducción](#capitulo-i-introduccion)
 
 - [1.1. Startup Profile](#11-startup-profile)
 
-En el texto presente a continuación, vamos a describir de manera detallada nuestra idea de startup.
-
   - [1.1.1. Descripción de la Startup](#111-description-de-la-startup)
- 
-Esta empresa ha desarrollado una plataforma digital que funciona como intermediario entre propietarios de vehículos y posibles arrendatarios. La plataforma integra vehículos bajo nuestro nombre, actuando como una flota virtual, pero sin la necesidad de una inversión inicial en vehículos. Nuestro modelo de negocio se basa en conectar a propietarios con arrendatarios interesados, ofreciendo precios competitivos y beneficios para ambas partes. Los propietarios reciben una remuneración únicamente cuando su vehículo es alquilado, lo que garantiza un enfoque eficiente y rentable.
-
-### Misión: 
-Nuestra misión es facilitar el acceso a vehículos de alquiler de alta calidad, conectando a propietarios y arrendatarios de manera segura y eficiente. Nos esforzamos por ofrecer un servicio que maximice el valor para ambas partes, proporcionando una plataforma confiable y accesible para todos nuestros usuarios.
-
-### Visión: 
-Convertirnos en la plataforma líder en el mercado de alquiler de vehículos en Perú, reconocidos por nuestra innovación y eficiencia en conectar a propietarios y arrendatarios. Queremos ser la referencia principal para aquellos que buscan alquilar un vehículo sin complicaciones, ofreciendo un servicio integral y de alta calidad.
-
 
   - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-
-  <table style="text-align:center">
-    <thead>
-        <tr>
-            <th>Integrantes</th>
-            <th>Descripción</th>
-            <th>Conocimientos</th>
-        </tr>
-    </thead>
-    <body >
-        <tr>
-            <!-- DATOS del integrante 1-->
-            <td> 
-            <img src="/img/foto01.png" width="100" height="100">
-            <br>Daiki Oscar Oshiro Yamashita u20201f846
-            </td>
-            <!-- DESCRIPCIÓN del integrante 1-->
-            <td> Soy estudiante de la carrera de Ingenieria de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro. </td>
-            <!-- CONOCIMIENTOS del integrante 1-->
-            <td> Cuento con el conocimiento de diversos lenguajes HTML, Python, C++, C# y MySQL. </td>
-        </tr>
-        <tr>
-            <!-- DATOS del integrante 2-->
-            <td> 
-            <img src="/img/foto02.png" width="100" height="100">
-            <br>Sebastian Gabriel Zuniga Calle u20221b479
-            </td>
-            <!-- DESCRIPCIÓN del integrante 2-->
-            <td> Soy estudiante de la carrera de Ingenieria de Software. Mis intereses se basan en aprender nuevas tecnologías, desarrollo en web y aplicaciones. </td>
-            <!-- CONOCIMIENTOS del integrante 2-->
-            <td> Poseo conocimientos en los lenguajes de programación: C++, Python, JavaScript y C#. Listo para ayudar en el desarrollo y solucion de problemas. </td>
-        </tr>
-        <tr>
-            <!-- DATOS del integrante 3-->
-            <td> 
-            <img src="/img/foto03.png" width="100" height="100">
-            <br>Ario Joel Chavez Uribe u202213468
-            </td>
-            <!-- DESCRIPCIÓN del integrante 3-->
-            <td> Soy estudiante de la carrera de Ingenieria de Software. Tengo interés en aprender sobre nuevas tecnologías, el desarrollo web y de aplicaciones. </td>
-            <!-- CONOCIMIENTOS del integrante 3-->
-            <td> Poseo conocimientos en los lenguajes de programación: C++, Python, HTML y MySQL. Útiles para el desarrollo y solucion del proyecto. </td>
-        </tr>
-        <tr>
-            <!-- DATOS del integrante 4-->
-            <td> 
-            <img src="/img/foto04.png" width="100" height="100">
-            <br>Aaron Alejandro Cruz Ticona
-            </td>
-            <!-- DESCRIPCIÓN del integrante 4-->
-            <td> Me encuentro inmerso en la carrera de Ingenieria de Software. ,e considero una persona curiosa, lo que me lleva a tener constante interes en el aprender nuevas cosas y espero hacerlo en este curso. </td>
-            <!-- CONOCIMIENTOS del integrante 4-->
-            <td> Personalmente, poseo conocimientos en lo que a el mundo de la programación se refiere: En C++, Python, HTML, CSS, SQL, entre otros a futuro.</td>
-        </tr>
-        <tr>
-            <!-- DATOS del integrante 5-->
-            <td> 
-            <img src="/img/foto05.png" width="100" height="100">
-            <br>Gabriel Alejandro Rivera Ayala u202223279
-            </td>
-            <!-- DESCRIPCIÓN del integrante 5-->
-            <td> Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas.</td>
-            <!-- CONOCIMIENTOS del integrante 5-->
-            <td> He desarrollado proyectos en C++, Python, HTML, SQL y C#. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo.</td>
-        </tr>
-    </body>
-</table>
-<br>
 
 - [1.2. Solution Profile](#12-solution-profile)
   - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
@@ -162,7 +83,7 @@ Convertirnos en la plataforma líder en el mercado de alquiler de vehículos en 
     - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-### [Capítulo II: Requirements Elicitation & Analysis](#capc3adtulo-ii-requirements-elicitation--analysis-1)
+### [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis-1)
 
 - [2.1. Competidores](#21-competidores)
   - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
@@ -178,14 +99,14 @@ Convertirnos en la plataforma líder en el mercado de alquiler de vehículos en 
   - [2.3.4. Empathy Mapping](#234-empathy-mapping)
   - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 
-### [Capítulo III: Requirements Specification](#capc3adtulo-iii-requirements-specification-1)
+### [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification-1)
 
 - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
 - [3.2. User Stories](#32-user-stories)
 - [3.3. Impact Mapping](#33-impact-mapping)
 - [3.4. Product Backlog](#34-product-backlog)
 
-### [Capítulo IV: Product Design](#capc3adtulo-iv-product-design-1)
+### [Capítulo IV: Product Design](#capitulo-iv-product-design-1)
 
 - [4.1. Style Guidelines](#41-style-guidelines)
   - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
@@ -215,7 +136,7 @@ Convertirnos en la plataforma líder en el mercado de alquiler de vehículos en 
 - [4.8. Database Design](#48-database-design)
   - [4.8.1. Database Diagram](#481-database-diagram)
 
-### [Capítulo V: Product Implementation, Validation & Deployment](#capc3adtulo-v-product-implementation-validation--deployment-1)
+### [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment-1)
 
 - [5.1. Software Configuration Management](#51-software-configuration-management)
   - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
@@ -253,15 +174,33 @@ Convertirnos en la plataforma líder en el mercado de alquiler de vehículos en 
 |  |                     |              |
 
 </div>
-<br><br>
+---
 
-## Capítulo I: Introducción
+# Capitulo I: Introduccion
 
 ## 1.1. StartUp Profile
 
+En el texto presente a continuación, vamos a describir de manera detallada nuestra idea de startup. En ella se incluirá la misión y visión de la empresa, así como los perfiles de los integrantes del equipo.
+
 ### 1.1.1. Description de la StartUp
 
+Esta empresa ha desarrollado una plataforma digital que funciona como intermediario entre propietarios de vehículos y posibles arrendatarios. La plataforma integra vehículos bajo nuestro nombre, actuando como una flota virtual, pero sin la necesidad de una inversión inicial en vehículos. Nuestro modelo de negocio se basa en conectar a propietarios con arrendatarios interesados, ofreciendo precios competitivos y beneficios para ambas partes. Los propietarios reciben una remuneración únicamente cuando su vehículo es alquilado, lo que garantiza un enfoque eficiente y rentable.
+
+### Misión:
+Nuestra misión es facilitar el acceso a vehículos de alquiler de alta calidad, conectando a propietarios y arrendatarios de manera segura y eficiente. Nos esforzamos por ofrecer un servicio que maximice el valor para ambas partes, proporcionando una plataforma confiable y accesible para todos nuestros usuarios.
+
+### Visión:
+Convertirnos en la plataforma líder en el mercado de alquiler de vehículos en Perú, reconocidos por nuestra innovación y eficiencia en conectar a propietarios y arrendatarios. Queremos ser la referencia principal para aquellos que buscan alquilar un vehículo sin complicaciones, ofreciendo un servicio integral y de alta calidad.
+
 ### 1.1.2. Perfiles de integrantes del equipo
+
+| Integrantes | Descripción | Conocimientos |
+| :--- | :--- | :--- |
+| ![Daiki Oscar Oshiro Yamashita](/img/foto01.png) <br>Daiki Oscar Oshiro Yamashita u20201f846 | Soy estudiante de la carrera de Ingenieria de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro. | Cuento con el conocimiento de diversos lenguajes HTML, Python, C++, C# y MySQL. |
+| ![Sebastian Gabriel Zuniga Calle](/img/foto02.png) <br>Sebastian Gabriel Zuniga Calle u20221b479 | Soy estudiante de la carrera de Ingenieria de Software. Mis intereses se basan en aprender nuevas tecnologías, desarrollo en web y aplicaciones. | Poseo conocimientos en los lenguajes de programación: C++, Python, JavaScript y C#. Listo para ayudar en el desarrollo y solucion de problemas. |
+| ![Ario Joel Chavez Uribe](/img/foto03.png) <br>Ario Joel Chavez Uribe u202213468 | Soy estudiante de la carrera de Ingenieria de Software. Tengo interés en aprender sobre nuevas tecnologías, el desarrollo web y de aplicaciones. | Poseo conocimientos en los lenguajes de programación: C++, Python, HTML y MySQL. Útiles para el desarrollo y solucion del proyecto. |
+| ![Aaron Alejandro Cruz Ticona](/img/foto04.png) <br>Aaron Alejandro Cruz Ticona | Me encuentro inmerso en la carrera de Ingenieria de Software. ,e considero una persona curiosa, lo que me lleva a tener constante interes en el aprender nuevas cosas y espero hacerlo en este curso. | Personalmente, poseo conocimientos en lo que a el mundo de la programación se refiere: En C++, Python, HTML, CSS, SQL, entre otros a futuro. |
+| ![Gabriel Alejandro Rivera Ayala](/img/foto05.png) <br>Gabriel Alejandro Rivera Ayala u202223279 | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. | He desarrollado proyectos en C++, Python, HTML, SQL y C#. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo. |
 
 ## 1.2. Solution Profile
 
@@ -279,7 +218,7 @@ Convertirnos en la plataforma líder en el mercado de alquiler de vehículos en 
 
 # 1.3. Segmentos Objetivo
 
-<br><br>
+---
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -311,7 +250,7 @@ Convertirnos en la plataforma líder en el mercado de alquiler de vehículos en 
 
 ## 2.4. Ubiquitous Language
 
-<br><br>
+---
 
 # Capítulo III: Requirements Specification
 
@@ -323,11 +262,11 @@ Convertirnos en la plataforma líder en el mercado de alquiler de vehículos en 
 
 ## 3.4. Product Backlog
 
-<br><br>
+---
 
 # Capítulo IV: Product Design
 
-## 4.1. Style Guidelines.
+## 4.1. Style Guidelines
 
 ### 4.1.1. General Style Guidelines
 
@@ -381,7 +320,7 @@ Convertirnos en la plataforma líder en el mercado de alquiler de vehículos en 
 
 ### 4.8.1. Database Diagram
 
-<br><br>
+---
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -418,21 +357,23 @@ Convertirnos en la plataforma líder en el mercado de alquiler de vehículos en 
 ## 5.3. Validation Interviews 
 
 ### 5.3.1. Diseño de Entrrevistas
+
 ### 5.3.2. Registro de Entrevistas
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 ## 5.4. Video About-the-Product
 
-<br><br>
+---
 
 # Conclusiones
 
 ## Conclusiones y recomendaciones
 
-<br><br>
+---
 
 # Bibliografía
 
-<br><br>
+---
 
 # Anexos
