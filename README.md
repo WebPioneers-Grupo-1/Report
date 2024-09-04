@@ -206,6 +206,68 @@ Convertirnos en la plataforma líder en el mercado de alquiler de vehículos en 
 
 ### 1.2.1. Antecedentes y problemática
 
+Para describir nuestra startup de forma ordenada y organizada, emplearemos un técnica que responderá a preguntas básicas del 5W y 2H.
+
+### Antecedentes
+- Debido a un aumento significativo en la demanda de soluciones en cuanto a la movilidad temporal y flexible, existe la necesidad de una plataforma que simplifique las comunicaciones entre los dueños y los arrendatarios para el alquiler de vehículos mediante un aplicativo.
+### Problemática
+- El problema principal radica en la falta de plataformas que faciliten el alquiler de vehículos de manera directa entre propietarios y arrendatarios ha creado una barrera para aquellos que requieran dun automóvil de manera rápida y temporal. Lo que limita a los arrendatarios y perjudica a los propietarios al no poder rentabilizar sus vehículos
+
+#### Técnica de las 5 'W's y 2' H's
+
+### ¿Qué?
+*Refiere a la razón por la cual se está llevando a cabo este proyecto. Suele responder las siguientes preguntas:*
+* #### ¿Cuál es el problema?
+Falta de plataformas que faciliten el alquiler de vehículos de manera directa entre propietarios que desean rentabilizar sus vehículos y los arrendatarios que enfrentan dificultades para encontrar opciones accesibles y confiables de alquiler de vehículos.
+* #### ¿Cuál es la relación con la persona en cuestión?
+Se relaciona con los propietarios de vehículos, que no encuentran una manera eficiente para ofrecer sus vehículos en alquiler y a los arrendatarios que encuentran dificultades para encontrar opciones accesibles y confiables.
+
+### ¿Cuándo?
+*Refiere al momento o periodo de tiempo en el cual ocurra el evento. Suele responder las siguientes preguntas:*
+* #### ¿Cuándo sucede el problema?
+El problema ocurre cuando los propietarios desean alquilar sus vehículos pero no cuentan con un canal adecuado para hacerlo, y los arrendatarios necesitan de un vehículo para un uso momentáneo o de corta duración, pero no cuentan con opciones viables.
+* #### ¿Cuándo utiliza el cliente el producto?
+El producto se utiliza cuando los propietarios listan sus vehículos para alquiler y los arrendatarios buscan y reservan un vehículo que cumpla con sus especificaciones e indicando su utilidad, ya sea un viaje, una emergencia, o cualquier necesidad requerida.
+
+### ¿Dónde?
+*Refiere al lugar en el que se lleva a cabo el problema. Suele responder las siguientes preguntas:*
+* #### ¿Dónde está el cliente cuando usa el producto?
+Ya sea propietario o arrendatario, puede usar la plataforma desde cualquier lugar con acceso a internet como su hogar, lugar de trabajo, o mientras está en movimiento.
+* #### ¿A dónde se dirige?
+La aplicación se dirige a propietarios de vehículos que desean generar ingresos adicionales a través del alquiler y a arrendatarios que buscan opciones flexibles y seguras para alquilar un vehículo.
+* #### ¿Dónde surge el problema?
+El problema surge principalmente en zonas urbanas donde la necesidad de movilidad es alta, pero la oferta de plataformas de alquiler de vehículos es limitada.
+
+### ¿Quiénes?
+*Ayuda a obtener información importante de todas las personas involucradas debido a que es posible que haya varios tipos de cliente. Suele responder las siguientes preguntas:*
+* #### ¿Quiénes están involucrados?
+En nuestra plataforma están involucrados los propietarios de vehículos que desean alquilarlos y los arrendatarios que buscan alquilar un vehículo de manera rápida y sin complicaciones.
+* #### ¿A quiénes le sucede el problema?
+El problema afecta principalmente a los propietarios que no logran rentabilizar sus vehículos y a los arrendatarios que enfrentan dificultades para encontrar opciones de alquiler inmediatas y confiables.
+* #### ¿Quién lo utilizará?
+La plataforma será utilizada por propietarios de vehículos que desean poner en alquiler sus vehículos y por arrendatarios que necesitan una solución de movilidad temporal.
+
+### ¿Por qué?
+*Refiere al causante o desencadenante del problema abordado. Suele responder la siguiente pregunta:*
+* #### ¿Cuál es la causa del problema?
+La causa del problema es la falta de una plataforma que conecte de manera eficiente y segura a propietarios de vehículos con arrendatarios, limitando las opciones de alquiler y y rentabilidad para los propietarios.
+
+### ¿Cómo?
+*Refiere a cómo se llevan a cabo los hechos para explicar una situación. Suele responder las siguientes preguntas:*
+* #### ¿En qué condiciones los clientes usan nuestros productos?
+Nuestros clientes utilizan la plataforma cuando necesitan rentabilizar su vehículo (propietarios) o cuando necesitan acceder rápidamente a un vehículo para un uso específico (arrendatarios).
+* #### ¿Cómo nos conocieron los usuarios?
+Los usuarios conocieron la plataforma a través de publicidad en redes sociales, recomendaciones de otros usuarios, y campañas de marketing orientadas a los servicios de movilidad.
+* #### ¿Qué llevó al cliente a llegar a esta situación?
+Lo que llevó al cliente a esta situación fue la necesidad de una solución confiable y accesible para alquilar vehículos, ya sea para rentabilizar (propietarios) o para una necesidad temporal de movilidad (arrendatarios).
+
+### ¿Cuánto cuesta?
+*Refiere a los costos asociados con el uso de la plataforma.*
+* #### Costos para los propietarios:
+No hay costos iniciales para los propietarios; ellos solo pagan una comisión cuando su vehículo es alquilado.
+* #### Costos para los arrendatarios:
+Los precios de alquiler son variables, ofreciendo alternativas económicas y flexibles frente a las opciones tradicionales de alquiler de vehículos.
+
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
