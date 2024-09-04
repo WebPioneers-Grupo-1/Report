@@ -513,6 +513,27 @@ Con el objetivo de comprender la necesidad y la demanda en nuestro sector por pa
 
 ### 2.2.2. Registro de entrevistas
 
+
+**Segmento 1: Propietarios de vehículos**
+
+Entrevista 1:
+
+Entrevista 2:
+
+Entrevista 3:
+
+**Segmento 2: Usuarios arrendatarios**
+
+Entrevista 4: 
+
+Entrevistado: Ernesto Ruiz 
+Entrevistador: Daiki Oshiro  
+Link de la entrevista: https://www.youtube.com/watch?v=eoOJoZDcQu8 
+
+Entrevista 5:
+
+Entrevista 6:
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
