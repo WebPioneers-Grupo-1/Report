@@ -201,11 +201,15 @@
 
 # Capítulo II: Requirements Elicitation & Analysis
 
+En este capítulo se realizará el proceso de Análisis competitivo y Needfinding necesario para la identificación de las necesidades de nuestro segmento objetivo.
+
 ## 2.1. Competidores
 
 A continuacion realizaremos un análisis de los productos de software ofrecidos por la competencia en el mercado de nuestra solución y las técnicas que emplearíamos para destacar.
 
 ### 2.1.1. Análisis Competitivo
+
+A continuación se presenta un análisis competitivo de las empresas que ofrecen servicios similares a TakeMyCar.
 
 <table>
   <tr>
@@ -454,25 +458,28 @@ A continuacion realizaremos un análisis de los productos de software ofrecidos 
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
-Mejorar la experiencia de usuario a través de la tecnología: Mientras las grandes compañías cuentan con sistemas sofisticados, TakeMyCar puede enfocarse en mejorar la usabilidad y simplicidad de su plataforma digital, ofreciendo un proceso de alquiler más ágil.
-Táctica: Invertir en el desarrollo de una aplicación intuitiva y fácil de usar, con un proceso de reserva fluido. Agregar funcionalidades como la reserva en pocos clics y recomendaciones personalizadas basadas en el historial de alquileres.
 
-Foco en la comunidad: Las grandes empresas no suelen tener una conexión directa con sus clientes más allá del servicio. El servicio de TakeMyCar puede construir una comunidad activa entre los usuarios y propietarios, creando un sentido de pertenencia.
-Táctica: Fomentar reseñas y recomendaciones dentro de la plataforma.
+A continuación se muestran las tácticas que deberá aplicar nuestra startup para afrontar las fortalezas de la competencia.
 
-Construir confianza con los usuarios: La confianza es clave en el modelo P2P. Se debe crear un entorno seguro y confiable para todos los usuarios.
-Táctica: Incluir características como verificación de identidad, historial de alquileres, seguros integrados y monitoreo de vehículos por GPS. Además, fomentar las reseñas y calificaciones entre usuarios para crear un sistema de retroalimentación transparente.
+Táctica: Mientras las grandes compañías cuentan con sistemas sofisticados, TakeMyCar puede enfocarse en mejorar la usabilidad y simplicidad de su plataforma digital, ofreciendo un proceso de alquiler más ágil. Se debe invertir en el desarrollo de una aplicación intuitiva y fácil de usar, con un proceso de reserva fluido. Agregar funcionalidades como la reserva en pocos clics y recomendaciones personalizadas basadas en el historial de alquileres.
+
+Táctica: Fomentar reseñas y recomendaciones dentro de la plataforma. La confianza es clave en el modelo P2P. Se debe crear un entorno seguro y confiable para todos los usuarios.
+
+Táctica: Incluir características como verificación de identidad, historial de alquileres, seguros integrados y monitoreo de vehículos por GPS. 
 
 ## 2.2. Entrevistas
 
+En esta sección se elaborará una investigación con base en entrevistas a representantes del segmento objetivo.
+
 ### 2.2.1. Diseño de entrevistas
+
+A continuación se presentan las preguntas diseñadas para las entrevistas a los segmentos objetivo.
 
 Con el objetivo de comprender la necesidad y la demanda en nuestro sector por parte de nuestro publico objetivo. Por ello, elaboramos las siguientes preguntas con el fin de recolectar información cualitativa y/o cuantitativa, la cual se verá divida por nuestros segmentos objetivos.
 
 **Preguntas Generales**
 
 - ¿Cuál es su nombre?
-
 - ¿Cuántos años tiene usted?
 - ¿En que ciudad y distrito reside?
 - ¿A qué se dedica o cual es su ocupación?
@@ -482,7 +489,6 @@ Con el objetivo de comprender la necesidad y la demanda en nuestro sector por pa
 **Segmento 1: Propietarios de vehículos**
 
 - ¿Cuántos vehículos posee usted?
-
 - ¿Con que frecuencia se transporta de su(s) vehículos(s)?
 - ¿Cuándo no utiliza su vehículo, donde permanece el mismo?
 - ¿Ha usted alquilado su vehículo anteriormente? Si la respuesta es: <br>
@@ -495,7 +501,6 @@ Con el objetivo de comprender la necesidad y la demanda en nuestro sector por pa
 **Segmento 2: Usuarios arrendatarios**
 
 - ¿Con que frecuencia te transportas en el día a día?
-
 - ¿Cuánto dinero crees que gastas en movilizarte cada semana?
 - ¿Si tuvieras un auto, cuál sería el principal uso que le darías?
 - ¿Alguna vez pensaste en alquilar un auto? Si la respuesta es: <br> Si: ¿Nos podrías contar acerca de tu experiencia y tu opinión? <br> No: ¿Cuáles son los motivos por los que no opto por alquilar un vehículo?
@@ -505,18 +510,32 @@ Con el objetivo de comprender la necesidad y la demanda en nuestro sector por pa
 **Preguntas sobre la idea del proyecto**
 
 - ¿Qué opina acerca de TakeMyCar, una plataforma donde podrás alquilar y confiar tu vehículo de forma segura y confiable?
-
 - ¿Qué aspecto le llama más la atención?
 - ¿Nos podría brindan alguna recomendación para mejorar la idea de la plataforma?
 - ¿Recomendaría el uso de nuestra aplicación a sus conocidos?
 
-
 ### 2.2.2. Registro de entrevistas
 
+A continuación se presenta el registro de las entrevistas realizadas a los segmentos objetivo.
 
 **Segmento 1: Propietarios de vehículos**
 
-Entrevista 1:
+Entrevista 1: Alcides Gustavo Rivera Chipana, 54 años, Pueblo Libre
+
+![Screenshot Entrevista 1](./img/screenshot-entrevista-1.png "Screenshot Entrevista 1")
+
+Enlace: https://shorturl.at/3Na7u
+Inicio de la entrevista: 0:38
+Duracion: 5:46 minutos
+
+Resumen:
+
+- Suele utilizar su auto para movilizarse a su centro de trabajo, para ir al supermercado o pasear. No lo utiliza mucho por la congestión vehicular. Usualmente lo suele usar en los fines de semana.
+- Su mayor reto es viajar trayectos largos debido al estrés del tráfico.
+- Ha alquilado una vez su carro a otra persona de confianza, donde le ofrecieron seguridad y garantías.
+- Suele utilizar la aplicación P2P InDriver para su transporte porque le ofrece puntualidad, la identificación del taxista y por los diversos métodos de pago.
+- Para él es importante que TakeMyCar ofrezca seguridad y garantía respecto a su auto. Se debe saber que la persona alquilando sea responsable.
+- Suele aprender sobre nuevas aplicaciones y productos para su trabajo principalmente en Facebook.
 
 Entrevista 2:
 
@@ -524,7 +543,7 @@ Entrevista 3:
 
 **Segmento 2: Usuarios arrendatarios**
 
-Entrevista 4: 
+Entrevista 4:
 
 Entrevistado: Ernesto Ruiz
 
@@ -537,6 +556,8 @@ Entrevista 5:
 Entrevista 6:
 
 ### 2.2.3. Análisis de entrevistas
+
+A continuación se realizarán los análisis de las entrevistas realizadas a los segmentos objetivo.
 
 Preguntas específicas:
 
@@ -660,13 +681,23 @@ La recomendación positiva indica que hay un interés genuino en el concepto de 
 
 ## 2.3. Needfinding
 
+En esta sección se muestra el proceso de análisis de la información recolectada en las entrevistas. Se incluyen los User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping
+
 ### 2.3.1. User Personas
+
+A continuación brindamos las fichas de User Persona elaboradas a partir del análisis de las entrevistas realizadas.
 
 ### 2.3.2. User Task Matrix
 
+A continuación se muestra el proceso para la realizacion del User Task Matrix para comprender las tareas que realizan los User Persona para cumplir sus objetivos.
+
 ### 2.3.3. User Journey Mapping
 
+A continuación se muestra el proceso para la realización del User Journey Mapping para los User Persona con el fin de entender las experiencias del usuario sin nuestra solución.
+
 ### 2.3.4. Empathy Mapping
+
+A continuación se muestra el proceso para la realización del Empathy Mapping para los User Persona con el fin de entender lo que piensa, siente, oye, hace y observa.
 
 <img src="/img/image2.png" width="1000" height="1000">
 
@@ -674,14 +705,24 @@ La recomendación positiva indica que hay un interés genuino en el concepto de 
 
 ### 2.3.5. As-is Scenario Mapping
 
+A continuación se muestra el proceso para la realización del As-Is Scenario Mapping para los User Persona.
+
 <img src="/img/image1.png" width="1000" height="1000">
 
 <img src="/img/image3.png" width="1000" height="1000">
 
-
 ## 2.4. Ubiquitous Language
 
-<br><br>
+En esta sección definiremos los términos y conceptos que utilizaremos en nuestro business domain. Este glosario permitirá la comunicación entre los stakeholders y los miembros del equipo.
+
+- Car (auto)
+  Vehículo motorizado utilizado para el transporte.
+- Rental (alquiler)
+  Contrato en el cual dos partes se obligan de manera recíproca y por un tiempo determinado la cesión de un bien o servicio quedando obligada la parte que aprovecha la posesión a pagar un precio cierto.​
+- Peer to Peer
+  Plataforma en la que dos personas interactúan directamente entre sí, sin la intermediación de un tercero.
+
+---
 
 # Capítulo III: Requirements Specification
 
@@ -693,11 +734,11 @@ La recomendación positiva indica que hay un interés genuino en el concepto de 
 
 ## 3.4. Product Backlog
 
-<br><br>
+---
 
 # Capítulo IV: Product Design
 
-## 4.1. Style Guidelines.
+## 4.1. Style Guidelines
 
 ### 4.1.1. General Style Guidelines
 
