@@ -373,7 +373,7 @@ sino que también se integre de manera óptima en los procesos de negocio.
 A través del esquema de contexto, podemos entender cómo TakeMyCar se integra en un ecosistema más amplio,
 estableciendo relaciones con los distintos actores que influyen en su funcionamiento.
 
-<p align = "center"> <img  alt="context-diagram" src="img/context-diagram"> </p>
+<p align = "center"> <img  alt="context-diagram" src="img/context-diagram.png"> </p>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
