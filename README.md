@@ -243,6 +243,244 @@ A continuación se presenta la realizacion del To-Be Scenario Mapping por cada u
 
 ## 3.2. User Stories
 
+<table>
+    <thead>
+        <tr>
+            <th>Epic / Story ID</th>
+            <th>Título </th>
+            <th>Descripción</th>
+            <th>Criterios de Aceptación</th>
+            <th>Relacionado con (Epic ID)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="text-align:center">
+            <td>HU01</td>
+            <td>Registrar cuenta</td>
+            <td><strong>Como</strong> usuario, <strong>deseo</strong> crear una nueva cuenta para entrar a la plataforma.</td>
+            <td>
+                <h5>Escenario 01: Ingreso correcto de datos.</h5>
+                <strong>Dado</strong> que el usuario se encuentra en el formulario de registro, <strong>cuando</strong> ingresa sus datos correctos, <strong>entonces</strong> se registra su nueva cuenta.
+                <h5>Escenario 02: Ingreso incorrecto de datos.</h5>
+                <strong>Dado</strong> que el usuario intenta registrarse en la aplicación,
+<strong>Cuando</strong> el usuario intenta registrarse sin proporcionar información válida en uno o más campos requeridos,
+<strong>Entonces</strong> el sistema no permite que el usuario complete el proceso de registro y el usuario recibe un mensaje de error que indica los campos que deben corregirse.
+            </td>
+            <td>EPIC-</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>HU02</td>
+            <td>Registrar vehículo</td>
+            <td><strong>Como</strong> propietario, <strong>quiero</strong> registrar mi vehículo para ponerlo a disposición para alquiler.</td>
+            <td>
+                <h5>Escenario 01: Registro exitoso del vehículo.</h5>
+                <strong>Dado</strong> que el propietario se encuentra en la sección de registro de vehículos,
+<strong>Cuando</strong> el propietario ingresa los detalles del vehículo (marca, modelo, año, número de matrícula, fotos, descripción) de manera correcta,
+<strong>Entonces</strong> el vehículo se registra exitosamente en la plataforma.
+                <h5>Escenario 02: Registro fallido por datos faltantes.</h5>
+                <strong>Dado</strong> que el propietario intenta registrar su vehículo en la plataforma,
+<strong>Cuando</strong> falta información clave como matrícula o fotos,
+<strong>Entonces</strong> el sistema debe advertir al propietario de los campos faltantes y no permitirá el registro hasta completar los detalles.
+            </td>
+            <td>EPIC-</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>HU03</td>
+            <td>Buscar y alquilar un vehículo</td>
+            <td><strong>Como</strong> arrendatario, <strong>quiero</strong> buscar y alquilar un vehículo basado en mis necesidades de ubicación y precio.</td>
+            <td>
+                <h5>Escenario 01: Búsqueda y alquiler exitosos.</h5>
+                <strong>Dado</strong> que el arrendatario desea alquilar un vehículo,
+<strong>Cuando</strong> busca un vehículo en la plataforma utilizando filtros como ubicación, precio, tipo de vehículo,
+<strong>Entonces</strong> el sistema muestra una lista de vehículos disponibles que cumplen con los criterios.
+                <h5>Escenario 02: Filtros no encuentran vehículos disponibles.</h5>
+                <strong>Dado</strong> que el arrendatario aplica filtros de búsqueda,
+<strong>Cuando</strong> no hay vehículos disponibles que coincidan con los filtros,
+<strong>Entonces</strong> el sistema muestra un mensaje que indica que no se encontraron vehículos disponibles y sugiere ajustar los filtros.
+            </td>
+            <td>EPIC-</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>HU04</td>
+            <td>Verificación de identidad</td>
+            <td><strong>Como</strong> propietario y arrendatario, <strong>quiero</strong> que la plataforma verifique la identidad de los usuarios para asegurar la confiabilidad.</td>
+            <td>
+                <h5>Escenario 01: Verificación de identidad exitosa.</h5>
+                <strong>Dado</strong> que el usuario intenta completar su perfil,
+<strong>Cuando</strong> proporciona su documento de identidad y una prueba de residencia,
+<strong>Entonces</strong> la plataforma verifica estos documentos y marca el perfil del usuario como "verificado".
+                <h5>Escenario 02: Verificación fallida por documentación incompleta.</h5>
+                <strong>Dado</strong> que el usuario intenta verificar su identidad,
+<strong>Cuando</strong> no proporciona un documento válido o la información no coincide,
+<strong>Entonces</strong> la plataforma muestra un mensaje que indica qué información falta o no es válida y solicita corregir los documentos enviados.
+            </td>
+            <td>EPIC-</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>HU05</td>
+            <td>Finalizar alquiler y dejar reseña</td>
+            <td><strong>Como</strong> arrendatario y propietario, <strong>quiero</strong> dejar una reseña después de que el alquiler haya finalizado para generar confianza.</td>
+            <td>
+                <h5>Escenario 01: Finalización del alquiler y reseña exitosa.</h5>
+                <strong>Dado</strong> que el arrendatario ha devuelto el vehículo al propietario,
+<strong>Cuando</strong> el sistema marca el alquiler como completado,
+<strong>Entonces</strong> el sistema permite que ambas partes dejen una reseña sobre la experiencia de la transacción.
+                <h5>Escenario 02: No se puede dejar reseña sin completar el alquiler.</h5>
+                <strong>Dado</strong> que el arrendatario o el propietario intentan dejar una reseña,
+<strong>Cuando</strong> el alquiler aún no ha sido marcado como completado,
+<strong>Entonces</strong> el sistema no permite dejar la reseña hasta que el proceso de alquiler haya concluido.
+            </td>
+            <td>EPIC-</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>HU06</td>
+            <td>Publicar un vehículo para alquiler</td>
+            <td><strong>Como</strong> propietario, <strong>deseo</strong> publicar mi vehículo para que pueda ser alquilado.</td>
+            <td>
+                <h5>Escenario 01: Publicación correcta del vehículo.</h5>
+                <strong>Dado</strong> que el propietario está en el formulario de registro de vehículo.
+<strong>Cuando</strong> ingresa los detalles del vehículo (marca, modelo, año, matrícula, condición, fotos, y ubicación).
+<strong>Entonces</strong> el vehículo se publica en la plataforma y está disponible para alquiler.
+Escenario 2: Datos incompletos o incorrectos.
+                <h5>Escenario 02: Datos incompletos o incorrectos.</h5>
+                <strong>Dado</strong> que el propietario intenta registrar su vehículo.
+<strong>Cuando</strong> no proporciona información completa o válida en los campos requeridos.
+<strong>Entonces</strong> el sistema no permite que el vehículo se publique y muestra un mensaje de error indicando los campos que deben corregirse.
+            </td>
+            <td>EPIC-</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>HU07</td>
+            <td>Buscar vehículos disponibles</td>
+            <td><strong>Como</strong> arrendatario, <strong>deseo</strong> buscar vehículos disponibles cerca de mi ubicación para alquilar.</td>
+            <td>
+                <h5>Escenario 01: Búsqueda exitosa.</h5>
+                <strong>Dado</strong> que el arrendatario está en la página de búsqueda de vehículos.
+<strong>Cuando</strong> ingresa su ubicación y los filtros de búsqueda (tipo de vehículo, precio, distancia, etc.).
+<strong>Entonces</strong> el sistema muestra una lista de vehículos disponibles que cumplen con los criterios especificados.
+                <h5>Escenario 02: No hay vehículos disponibles.</h5>
+                <strong>Dado</strong> que el arrendatario realiza una búsqueda de vehículos.
+<strong>Cuando</strong> no hay vehículos disponibles que cumplan los filtros seleccionados.
+<strong>Entonces</strong> el sistema muestra un mensaje indicando que no hay vehículos disponibles en la zona o bajo los filtros aplicados.
+            </td>
+            <td>EPIC-</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>HU08</td>
+            <td>Reservar un vehículo</td>
+            <td><strong>Como</strong> arrendatario, <strong>deseo</strong> reservar un vehículo para una fecha y hora específicas.</td>
+            <td>
+                <h5>Escenario 01: Reserva exitosa.</h5>
+                <strong>Dado</strong> que el arrendatario ha seleccionado un vehículo.
+<strong>Cuando</strong> selecciona las fechas y horas deseadas y completa el proceso de pago.
+<strong>Entonces</strong> la reserva del vehículo se confirma y el arrendatario recibe una notificación con los detalles de la reserva.
+                <h5>Escenario 02: Fallo en la reserva.</h5>
+                <strong>Dado</strong> que el arrendatario intenta reservar un vehículo.
+<strong>Cuando</strong> el vehículo ya está reservado en las fechas seleccionadas o el pago no es exitoso.
+<strong>Entonces</strong> el sistema muestra un mensaje de error indicando el problema y sugiere otras fechas o vehículos.
+            </td>
+            <td>EPIC-</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>HU09</td>
+            <td>Verificar identidad del propietario</td>
+            <td><strong>Como</strong> plataforma, <strong>deseo</strong> verificar la identidad de los propietarios para garantizar la seguridad.</td>
+            <td>
+                <h5>Escenario 01: Verificación exitosa.</h5>
+                <strong>Dado</strong> que el propietario está en el proceso de registro de cuenta.
+<strong>Cuando</strong> sube su documento de identidad y verifica su número de teléfono.
+<strong>Entonces</strong> el sistema valida la identidad y permite al propietario continuar con el registro de vehículos.
+                <h5>Escenario 02: Fallo en la verificación.</h5>
+                <strong>Dado</strong> que el propietario intenta verificar su identidad.
+<strong>Cuando</strong> los documentos o información proporcionada no son válidos o están incompletos.
+<strong>Entonces</strong> el sistema solicita que corrija la información o proporcione documentos adicionales.
+            </td>
+            <td>EPIC-</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>HU10</td>
+            <td>Actualizar información del perfil</td>
+            <td><strong>Como</strong> usuario, <strong>deseo</strong> actualizar mi información personal para mantenerla al día.</td>
+            <td>
+                <h5>Escenario 01: Actualización exitosa.</h5>
+                <strong>Dado</strong> que el usuario está en la página de su perfil.
+<strong>Cuando</strong> edita su información (nombre, correo, número de teléfono, etc.) y guarda los cambios.
+<strong>Entonces</strong> el sistema actualiza el perfil del usuario y muestra un mensaje de confirmación.
+                <h5>Escenario 02: Error en la actualización.</h5>
+                <strong>Dado</strong> que el usuario intenta actualizar su perfil.
+<strong>Cuando</strong> ingresa datos incorrectos o faltantes en campos obligatorios.
+<strong>Entonces</strong> el sistema muestra un mensaje de error indicando los campos que necesitan corrección.
+            </td>
+            <td>EPIC-</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>HU11</td>
+            <td>Calcular tarifas de alquiler</td>
+            <td><strong>Como</strong> usuario, <strong>deseo</strong> ver el costo total del alquiler antes de confirmar la reserva.</td>
+            <td>
+                <h5>Escenario 01: Cálculo correcto de la tarifa.</h5>
+                <strong>Dado</strong> que el arrendatario selecciona un vehículo y fechas de alquiler.
+<strong>Cuando</strong> el sistema calcula el costo total incluyendo la tarifa base, seguros, y cargos adicionales (si aplica).
+<strong>Entonces</strong> el arrendatario ve el costo final antes de proceder con el pago.
+                <h5>Escenario 02: Error en el cálculo.</h5>
+                <strong>Dado</strong> que el arrendatario intenta reservar un vehículo.
+<strong>Cuando</strong> el sistema no puede calcular la tarifa debido a un error en la configuración del vehículo o fechas.
+<strong>Entonces</strong> se muestra un mensaje de error y se solicita revisar los datos ingresados.
+            </td>
+            <td>EPIC-</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>HU12</td>
+            <td>Verificar identidad del arrendatario</td>
+            <td><strong>Como</strong> plataforma, <strong>deseo</strong> verificar la identidad de los arrendatarios para proteger a los propietarios y garantizar un entorno seguro.</td>
+            <td>
+                <h5>Escenario 01: Verificación exitosa.</h5>
+                <strong>Dado</strong> que el arrendatario está en el proceso de registro de cuenta.
+<strong>Cuando</strong> sube su documento de identidad y verifica su número de teléfono.
+<strong>Entonces</strong> el sistema valida la identidad y permite al arrendatario proceder con las reservas.
+                <h5>Escenario 02: Fallo en la verificación.</h5>
+                <strong>Dado</strong> que el arrendatario intenta verificar su identidad.
+<strong>Cuando</strong> los documentos o información proporcionada no son válidos o están incompletos.
+<strong>Entonces</strong> el sistema solicita que corrija la información o proporcione documentos adicionales.
+            </td>
+            <td>EPIC-</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>HU13</td>
+            <td>Ver historial de alquileres</td>
+            <td><strong>Como</strong> arrendatario, <strong>deseo</strong> ver el historial de mis alquileres anteriores para llevar un registro de mis transacciones.
+            <td>
+                <h5>Escenario 01: Visualización exitosa del historial.</h5>
+                <strong>Dado</strong> que el arrendatario está en la sección de "Historial de alquileres".
+<strong>Cuando</strong> ingresa a su cuenta y selecciona la opción de ver sus alquileres anteriores.
+<strong>Entonces</strong> el sistema muestra una lista con los detalles de todos los vehículos alquilados, fechas, y montos pagados.
+                <h5>Escenario 02: No hay alquileres en el historial.</h5>
+                <strong>Dado</strong> que el arrendatario está en su cuenta.
+<strong>Cuando</strong> intenta ver su historial, pero no ha realizado alquileres previamente.
+<strong>Entonces</strong> el sistema muestra un mensaje indicando que no hay alquileres en su historial.
+            </td>
+            <td>EPIC-</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>HU14</td>
+            <td>Recibir notificaciones de disponibilidad de vehículos</td>
+            <td><strong>Como</strong> arrendatario, <strong>deseo</strong> recibir notificaciones cuando un vehículo que me interesa esté disponible.
+            <td>
+                <h5>Escenario 01: Notificación exitosa.</h5>
+                <strong>Dado</strong> que el arrendatario marca un vehículo como favorito.
+<strong>Cuando</strong> el vehículo vuelve a estar disponible en las fechas seleccionadas.
+<strong>Entonces</strong> el sistema envía una notificación por correo electrónico o en la aplicación indicando la disponibilidad.
+                <h5>Escenario 02: No hay disponibilidad.</h5>
+                <strong>Dado</strong> que el arrendatario espera una notificación de un vehículo.
+<strong>Cuando</strong> no hay disponibilidad de ese vehículo en las fechas seleccionadas.
+<strong>Entonces</strong> el sistema no envía notificaciones hasta que se detecte disponibilidad.
+            </td>
+            <td>EPIC-</td>
+        </tr>
+    </tbody>
+</table>
+
+
 ## 3.3. Impact Mapping
 
 ## 3.4. Product Backlog
