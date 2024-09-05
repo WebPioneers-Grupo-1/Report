@@ -170,10 +170,8 @@
 
 | Criterio específico                                                                                                                                 | Acciones realizadas | Conclusiones |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ | :----------- |
-| Diseñar soluciones en ingeniería de software (productos, procesos y/o servicios) que satisfagan necesidades específicas considerando el impacto en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos 
-|  a   ||                | Se concluye que             |
-|Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos 
- |  a   ||                |   Se concluye que          |
+| Diseñar soluciones en ingeniería de software (productos, procesos y/o servicios) que satisfagan necesidades específicas considerando el impacto en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos |
+|Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos |
 
 </div>
 ---
