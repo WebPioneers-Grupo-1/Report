@@ -44,8 +44,8 @@
 <div align="center">
 
 | Versión | Fecha | Autor | Descripción de modificación |
-| :TB1: | :05/09/2024: | :Todos: | :Se añadió los capítulos del 1 al 5|
-
+| :-----: | :-----: | :-----: | :----------------------:|
+|TB1| |05/09/2024| |Todos |
 </div>
 
 ---
