@@ -347,7 +347,7 @@
 
 ## Conclusiones y recomendaciones
 
-<br><br>
+<br>El proyecto ha avanzado significativamente en términos de diseño, funcionalidad e interactividad. Las mejoras en el estilo, la implementación de funciones clave y la coherencia del diseño contribuyen a una experiencia de usuario más fluida y profesional. Continuar con las pruebas y ajustes basados en la retroalimentación del usuario ayudará a perfeccionar aún más la plataforma.<br>
 
 # Bibliografía
 
