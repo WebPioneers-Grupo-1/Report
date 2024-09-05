@@ -455,7 +455,7 @@ TakeMyCar incluye accesos rápidos en la pantalla principal para acciones frecue
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-
+<img src="/img/flowd.png">
 
 ## 4.5. Web Applications Prototyping
 
