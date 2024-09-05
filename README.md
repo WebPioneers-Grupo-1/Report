@@ -337,7 +337,9 @@ Además, Astro facilita la creación de componentes reutilizables. Por ejemplo, 
 
 En este apartado, abordaremos el despliegue de la Landing Page de Take My Car utilizando GitHub. A continuación, se describen los pasos para habilitar el acceso a la página de destino de Take My Car y se incluirán capturas de pantalla para ilustrar el proceso.
 
+Vista del repositorio:
 
+<img src="/img/rep.png">
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
