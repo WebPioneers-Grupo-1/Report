@@ -345,6 +345,10 @@ Vista del avance:
 
 <img src="/img/rep2.png">
 
+Commits:
+
+<img src="/img/commit.png">
+
 Landing page:
 
 <img src="/img/rep3.png">
