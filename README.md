@@ -269,17 +269,27 @@
 
 <img src="/img/main.png" width="1000" height="1000">
 
-<img src="/img/mock.png" width="1000" height="1000">
+### 4.3.2. Landing Page Mock-up
+
+<img src="/img/mock1.png" width="1000" height="1000">
 
 <img src="/img/login.png" width="1000" height="1000">
 
-### 4.3.2. Landing Page Mock-up
-
 ## 4.4. Web Applications UX/UI Design
+
+<img src="/img/appmo.png" width="1000" height="1000">
 
 ### 4.4.1. Web Applications Wireframes
 
+<img src="/img/mock2.png" width="1000" height="1000">
+
+<img src="/img/login.png" width="1000" height="1000">
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+<img src="/img/view.png" width="1000" height="1000">
+
+<img src="/img/menu.png" width="1000" height="1000">
 
 ### 4.4.3. Web Applications Mock-ups
 
