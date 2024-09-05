@@ -537,7 +537,22 @@ Resumen:
 - Para él es importante que TakeMyCar ofrezca seguridad y garantía respecto a su auto. Se debe saber que la persona alquilando sea responsable.
 - Suele aprender sobre nuevas aplicaciones y productos para su trabajo principalmente en Facebook.
 
-Entrevista 2:
+Entrevista 2: Joel Chavez, 41 años, Huaraz
+
+![Screenshot Entrevista 2](./img/screenshot-entrevista-2.png "Screenshot Entrevista 2")
+
+Enlace: https://shorturl.at/JfkCk
+Inicio de la entrevista: 0:42
+Duracion: 4:00 minutos
+
+Resumen:
+
+- Utiliza frecuentemente su vehículo para movilizarse al trabajo.
+- Ha alquilado su vehículo anteriormente y menciona que el problema es hacerles un adecuado seguimiento a los vehículos para su respectivo mantenimiento.
+- También se menciona respecto al cuidado de los vehículos, no tener que preocuparse por los posibles daños y recibir ganancias de manera óptima.
+- Le resulta interesante la propuesta ya que le permite un mayor control sobre su alquiler además de lo amigable que puede ser nuestra plataforma.
+- Le gustaría que la plataforma se encuentre disponible todo el tiempo para acceder a las funcionalidades de nuestra aplicación.
+
 
 Entrevista 3:
 
