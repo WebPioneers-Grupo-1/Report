@@ -305,8 +305,13 @@
 
 <img src="/img/pagos.png" width="1000" height="1000">
 
-
 ### 4.4.4. Web Applications User Flow Diagrams
+
+<img src="/img/ini1.png" width="1000" height="1000">
+
+![image](https://github.com/user-attachments/assets/17687dac-1f32-4d3a-ae40-0d537aa485d0)
+
+
 
 ## 4.5. Web Applications Prototyping
 
