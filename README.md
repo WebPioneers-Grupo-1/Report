@@ -267,7 +267,7 @@
 
 ### 4.3.1. Landing Page Wireframe
 
-<img src="/img/main.png">
+<img src="/img/WIRE.png">
 
 ### 4.3.2. Landing Page Mock-up
 
