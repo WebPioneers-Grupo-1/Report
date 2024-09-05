@@ -656,13 +656,13 @@ Resumen de la entrevista:
 
 <b> Entrevista 6 </b> 
 
-- Nombre: 
-- Apellidos: 
-- Edad: 
-- Distrito: 
-- Link de la entrevista: <a href="">Entrevista</a>
-- Duración: x:xx minutos
-- Inicio de la entrevista: 0:00
+- Nombre: Karla
+- Apellidos: Lopez
+- Edad: 22
+- Distrito: Huaraz
+- Link de la entrevista: <a href="">https://shorturl.at/raxVh</a>
+- Duración: 3:21 minutos
+- Inicio de la entrevista: 0:37
 
 Evidencia de la reunión:
 
@@ -673,12 +673,11 @@ Evidencia de la reunión:
 
 Resumen de la entrevista:
 
-- 
-- 
-- 
-- 
-- 
-- 
+- En al entrevista se menciona el uso constante del transporte público para movilizarse a su lugar objetivo
+- No realizó ningún alquiler en algún otro lado
+- No existen aplicaciones que brinden estas características en su zona
+- Menciona que la propuesta de la aplicación es buena y la recomendaría
+- Menciona que uno de sus temores son los posibles daños relacionados con el vehículo
 
 
 <br>
