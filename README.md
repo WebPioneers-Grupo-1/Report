@@ -293,6 +293,19 @@
 
 ### 4.4.3. Web Applications Mock-ups
 
+<img src="/img/faillog.png" width="1000" height="1000">
+
+<img src="/img/main.png" width="1000" height="1000">
+
+<img src="/img/view.png" width="1000" height="1000">
+
+<img src="/img/preguntas2.png" width="1000" height="1000">
+
+<img src="/img/alquiler.png" width="1000" height="1000">
+
+<img src="/img/pagos.png" width="1000" height="1000">
+
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
