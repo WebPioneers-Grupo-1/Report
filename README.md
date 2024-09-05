@@ -279,8 +279,88 @@ Nos enfocaremos en garantizar que la interfaz sea intuitiva, especialmente en la
 estaría genial poner imagenes
 -->
 
-
 ## 4.2. Information Architecture
+
+En nuestra plataforma TakeMyCar, ofrecemos una interfaz fácil de usar y confiable, centrada en conectar propietarios de vehículos con arrendatarios potenciales. Aunque nuestro enfoque no es la seguridad ciudadana como en el ejemplo anterior, sí nos aseguramos de proporcionar una experiencia sin complicaciones para ambas partes, destacando la facilidad de navegación, acceso rápido a información de los vehículos y un proceso de alquiler eficiente. A continuación, se describe la arquitectura de información planeada.
+
+<b> Página de Inicio: </b>
+
+- Catálogo de Vehículos: Sección que muestra los vehículos disponibles para alquiler, con imágenes, descripciones detalladas, y opciones de filtrado por marca, modelo o tipo de vehículo.
+
+- Formulario de Alquiler: Cada vehículo tiene un formulario de alquiler asociado  que permite a los arrendatarios seleccionar el número de días, seguros adicionales, y opciones extras (como GPS o asistencia en carretera).
+
+- Información sobre la Plataforma: Una breve introducción sobre TakeMyCar, cómo funciona la plataforma, beneficios tanto para propietarios como arrendatarios, y formas de contacto para consultas.
+
+<b> Catálogo de Vehículos: </b>
+
+- Vehículos Disponibles: Los vehículos se organizan en una cuadrícula, cada uno con una imagen destacada, su marca, modelo y una breve descripción de sus características principales.
+
+- Filtros de Búsqueda: Herramientas que permiten filtrar el catálogo según marca, modelo, precio y disponibilidad, facilitando a los usuarios encontrar el vehículo adecuado.
+
+- Formulario de Alquiler Integrado: Cada vehículo tiene un formulario directamente accesible desde el catálogo para alquilarlo de manera rápida y eficiente.
+
+<b> Proceso de Alquiler: </b>
+
+- Formulario de Alquiler Detallado: El formulario de alquiler permite a los arrendatarios especificar los detalles del alquiler, como días de uso, seguro adicional, y otras opciones, ofreciendo una experiencia intuitiva y directa.
+
+- Confirmación del Alquiler: Al finalizar, el usuario visualiza un resumen del alquiler antes de confirmar, asegurando que toda la información proporcionada es correcta.
+
+<b> Registro: </b>
+
+- Registro de Usuarios: Un formulario para que los arrendatarios se registren en la plataforma, proporcionando su información de contacto básica.
+
+### 4.2.1. Organization Systems
+
+El sistema de organización de la plataforma se centra en ofrecer una experiencia fluida y eficiente tanto para propietarios como para arrendatarios, priorizando la facilidad de navegación y la claridad en el proceso de alquiler.
+
+- Catálogo de Vehículos: Categorizado por marca, modelo y tipo de vehículo para facilitar la navegación y selección de vehículos por parte de los usuarios.
+
+- Alquiler de Vehículos: El proceso de alquiler está organizado en pasos claros y sencillos, desde la selección del vehículo hasta la confirmación del alquiler.
+
+- Filtros de Búsqueda: Los usuarios pueden filtrar los vehículos disponibles por precio, modelo, marca y opciones adicionales, asegurando que encuentran lo que buscan de manera rápida.
+
+### 4.2.2. Labeling Systems
+
+Utilizaremos un sistema de etiquetado claro y conciso para asegurar que los usuarios puedan navegar por la plataforma sin complicaciones. Las etiquetas clave incluirán:
+
+- Ver Autos (Catálogo de Vehículos): Para visualizar todos los vehículos disponibles.
+- Alquilar (Formulario de Alquiler): Para acceder al proceso de alquiler de cada vehículo.
+- Iniciar Sesión/Registro: Para que los usuarios puedan iniciar sesión o registrarse en la plataforma.
+- Contacto: Información de contacto para soporte y consultas.
+
+### 4.2.3. SEO Tags and Meta Tags
+
+Los SEO Tagas tanto como los Meta Tags, lo entendemos como las palabras clave necesarias para caracterizar nuestro servicio y con ello, acercarlo a las búsquedas de nuestros usuarios. A continuación mostraremos los SEO Tags y Meta Tags para nuestro mejor posicionamiento:
+
+<b>Landing Page:</b>
+
+- Title: TakeMyCar - Plataforma de Alquiler de Vehículos
+- Description: TakeMyCar - Alquila vehículos de manera fácil y rápida con nuestra plataforma. Encuentra el vehículo ideal y disfruta de precios competitivos.
+- Keywords: alquiler de vehículos, arrendar auto, rentar carro, plataforma de alquiler de autos
+- Authors: TakeMyCar Team
+
+<b>Web Application:</b>
+
+- Title: TakeMyCar - Alquiler de Autos
+- Description: TakeMyCar - Plataforma para propietarios y arrendatarios de vehículos.
+- Keywords: alquiler de autos, rentar vehículos, plataforma de arrendamiento
+- Authors: TakeMyCar Team
+
+### 4.2.4. Searching Systems
+
+El sistema de búsqueda permitirá a los usuarios encontrar vehículos disponibles de manera eficiente:
+
+- Búsqueda por Modelo: Los usuarios pueden buscar vehículos específicos como "Toyota Corolla" o "Ford Mustang".
+- Búsqueda por Marca: Permite encontrar todos los vehículos disponibles de una marca en particular.
+- Búsqueda por Disponibilidad: Los usuarios pueden filtrar vehículos disponibles por fechas y duración del alquiler.
+
+### 4.2.5. Navigation Systems
+
+El sistema de navegación de TakeMyCar debe ofrecer una experiencia fluida y directa para que los usuarios puedan navegar fácilmente por la plataforma. Se describe de la siguiente forma:
+
+- Menú Principal: Ubicado en la parte superior, con enlaces a las secciones clave: "Ver Autos", "Alquilar", "Registro", "Iniciar Sesión" y "Contacto".
+- Botones de Acción Destacados: En el catálogo de vehículos, cada opción de alquiler tiene un botón destacado para iniciar el proceso de reserva de inmediato.
+- Filtros y Búsqueda Visibles: Los filtros de búsqueda son visibles y accesibles desde cualquier página, facilitando la búsqueda de vehículos específicos.
 
 ## 4.3. Landing Page UI Design
 
