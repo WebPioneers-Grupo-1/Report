@@ -1561,13 +1561,53 @@ facilitando la gestión de las relaciones entre ellos y asegurando la consistenc
 
 ## 5.1. Software Configuration Management
 
+Esta guía define las decisiones y acuerdos fundamentales para el desarrollo, mantenimiento y despliegue de la aplicación Take My Car, que gestiona el alquiler de vehículos. El objetivo es asegurar la coherencia, eficiencia y calidad a lo largo del ciclo de vida del proyecto.
+
 ### 5.1.1. Software Development Environment Configuration
+
+Visual Studio Code: Hemos seleccionado Visual Studio Code como nuestra herramienta principal para el desarrollo web. Este editor de código ofrece un entorno robusto y flexible para manejar nuestros archivos y proyectos de manera eficiente.
+
+HTML: Utilizaremos HTML para definir la estructura básica de las páginas web de Take My Car. HTML nos permitirá construir la estructura del contenido, como encabezados, párrafos, formularios y enlaces, asegurando que nuestra página web tenga una base sólida y semánticamente correcta.
+
+CSS: Aplicaremos CSS para mejorar el aspecto visual de nuestras páginas web. CSS nos proporciona la capacidad de seleccionar colores, fuentes, y estilos, permitiéndonos personalizar el diseño y la presentación de la página según nuestras necesidades y preferencias. Utilizaremos CSS para asegurar que la interfaz de usuario sea atractiva y coherente con la identidad visual de Take My Car.
+
+JavaScript: Incorporaremos JavaScript para añadir interactividad a la página web. Esto incluirá elementos dinámicos como botones con efectos, videos multimedia, animaciones, y otras características interactivas que mejorarán la experiencia del usuario y la funcionalidad general de la página.
+
+El uso de GitHub para Take My Car asegura una gestión eficaz del código fuente, fomenta la colaboración entre los miembros del equipo, y proporciona herramientas para la automatización y seguridad del proceso de desarrollo. Estas características son esenciales para garantizar el éxito y la calidad del proyecto a lo largo de su ciclo de vida.
+
+Link del repositorio: https://github.com/WebPioneers-Grupo-1
 
 ### 5.1.2. Source Code Management
 
+Para Take My Car, utilizaremos el enfoque Gitflow con GitHub para gestionar el desarrollo del proyecto. Emplearemos dos ramas principales: main, que contendrá el código de producción estable, y gh-pages, para publicar la página web en GitHub Pages. La rama develop servirá como base para integrar nuevas características y correcciones, mientras que las ramas feature/ se usarán para desarrollar nuevas funcionalidades, y las ramas hotfix/ para solucionar errores críticos en producción. Las ramas release/ se utilizarán para preparar nuevas versiones antes de su liberación.
+
+GitHub facilitará la colaboración en equipo mediante pull requests para revisar y aprobar cambios, y issues para gestionar tareas y errores. Además, GitHub Pages permitirá la visualización de una versión de ejemplo de la aplicación. Esta estructura garantiza un desarrollo organizado, seguimiento efectivo del progreso y una integración continua de cambios, mejorando la eficiencia y calidad del proyecto.
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
+Para Take My Car, implementaremos una guía de estilo de código y convenciones utilizando Astro. Esta tecnología permite crear páginas web estáticas empleando HTML, CSS y JavaScript, pero con la ventaja de que JavaScript se carga solo cuando es necesario, lo que ayuda a reducir el tamaño del código en producción.
+
+Además, Astro facilita la creación de componentes reutilizables. Por ejemplo, podemos desarrollar un componente para el listado de autos, donde cada auto se representa mediante un componente individual que renderiza sus detalles. Esto nos permitirá construir listas de autos y otros elementos de la interfaz reutilizando estos componentes y ajustando sus propiedades según sea necesario. Esta metodología no solo optimiza el rendimiento de la página, sino que también mejora la mantenibilidad y consistencia del código en Take My Car.
+
 ### 5.1.4. Software Deployment Configuration
+
+En este apartado, abordaremos el despliegue de la Landing Page de Take My Car utilizando GitHub. A continuación, se describen los pasos para habilitar el acceso a la página de destino de Take My Car y se incluirán capturas de pantalla para ilustrar el proceso.
+
+Vista del repositorio:
+
+<img src="/img/rep.png">
+
+Vista del avance:
+
+<img src="/img/rep2.png">
+
+Commits:
+
+<img src="/img/commit.png">
+
+Landing page:
+
+<img src="/img/rep3.png">
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -1579,36 +1619,48 @@ facilitando la gestión de las relaciones entre ellos y asegurando la consistenc
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
+<img src="/img/devep.png">
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+<img src="/img/rep3.png">
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+<img src="/img/qw.png">
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+<img src="/img/commit.png">
 
 ## 5.3. Validation Interviews 
 
 ### 5.3.1. Diseño de Entrrevistas
-
 ### 5.3.2. Registro de Entrevistas
-
 ### 5.3.3. Evaluaciones según heurísticas
 
 ## 5.4. Video About-the-Product
 
----
+<br><br>
 
 # Conclusiones
 
 ## Conclusiones y recomendaciones
 
----
+<br>El proyecto ha avanzado significativamente en términos de diseño, funcionalidad e interactividad. Las mejoras en el estilo, la implementación de funciones clave y la coherencia del diseño contribuyen a una experiencia de usuario más fluida y profesional. Continuar con las pruebas y ajustes basados en la retroalimentación del usuario ayudará a perfeccionar aún más la plataforma.<br>
 
 # Bibliografía
 
----
+<br>Williams, R. (2020). Trends in the car rental industry: An analysis of market developments. Journal of Transportation Management, 24(2), 89-101.
+
+Brown, T. (2019). Automobile technology and management. Springer.
+
+Avis Budget Group. (2024). Innovations in car rental services. Recuperado de https://www.avisbudgetgroup.com/innovationsEnterprise 
+
+Holdings. (2024). Sustainability and technology in fleet management. Recuperado de https://www.enterpriseholdings.com/sustainability<br>
 
 # Anexos
