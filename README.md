@@ -275,7 +275,7 @@ Segmento Objetivo 2: María Lopez
 <strong>Cuando</strong> el usuario intenta registrarse sin proporcionar información válida en uno o más campos requeridos,
 <strong>Entonces</strong> el sistema no permite que el usuario complete el proceso de registro y el usuario recibe un mensaje de error que indica los campos que deben corregirse.
             </td>
-            <td>EPIC-</td>
+            <td>EP01</td>
         </tr>
         <tr style="text-align:center">
             <td>HU02</td>
@@ -291,7 +291,7 @@ Segmento Objetivo 2: María Lopez
 <strong>Cuando</strong> falta información clave como matrícula o fotos,
 <strong>Entonces</strong> el sistema debe advertir al propietario de los campos faltantes y no permitirá el registro hasta completar los detalles.
             </td>
-            <td>EPIC-</td>
+            <td>EP02</td>
         </tr>
         <tr style="text-align:center">
             <td>HU03</td>
@@ -307,7 +307,7 @@ Segmento Objetivo 2: María Lopez
 <strong>Cuando</strong> no hay vehículos disponibles que coincidan con los filtros,
 <strong>Entonces</strong> el sistema muestra un mensaje que indica que no se encontraron vehículos disponibles y sugiere ajustar los filtros.
             </td>
-            <td>EPIC-</td>
+            <td>EP03</td>
         </tr>
         <tr style="text-align:center">
             <td>HU04</td>
@@ -323,7 +323,7 @@ Segmento Objetivo 2: María Lopez
 <strong>Cuando</strong> no proporciona un documento válido o la información no coincide,
 <strong>Entonces</strong> la plataforma muestra un mensaje que indica qué información falta o no es válida y solicita corregir los documentos enviados.
             </td>
-            <td>EPIC-</td>
+            <td>EP04</td>
         </tr>
         <tr style="text-align:center">
             <td>HU05</td>
@@ -339,7 +339,7 @@ Segmento Objetivo 2: María Lopez
 <strong>Cuando</strong> el alquiler aún no ha sido marcado como completado,
 <strong>Entonces</strong> el sistema no permite dejar la reseña hasta que el proceso de alquiler haya concluido.
             </td>
-            <td>EPIC-</td>
+            <td>EP05</td>
         </tr>
         <tr style="text-align:center">
             <td>HU06</td>
@@ -356,7 +356,7 @@ Escenario 2: Datos incompletos o incorrectos.
 <strong>Cuando</strong> no proporciona información completa o válida en los campos requeridos.
 <strong>Entonces</strong> el sistema no permite que el vehículo se publique y muestra un mensaje de error indicando los campos que deben corregirse.
             </td>
-            <td>EPIC-</td>
+            <td>EP06</td>
         </tr>
         <tr style="text-align:center">
             <td>HU07</td>
@@ -372,7 +372,7 @@ Escenario 2: Datos incompletos o incorrectos.
 <strong>Cuando</strong> no hay vehículos disponibles que cumplan los filtros seleccionados.
 <strong>Entonces</strong> el sistema muestra un mensaje indicando que no hay vehículos disponibles en la zona o bajo los filtros aplicados.
             </td>
-            <td>EPIC-</td>
+            <td>EP07</td>
         </tr>
         <tr style="text-align:center">
             <td>HU08</td>
@@ -388,7 +388,7 @@ Escenario 2: Datos incompletos o incorrectos.
 <strong>Cuando</strong> el vehículo ya está reservado en las fechas seleccionadas o el pago no es exitoso.
 <strong>Entonces</strong> el sistema muestra un mensaje de error indicando el problema y sugiere otras fechas o vehículos.
             </td>
-            <td>EPIC-</td>
+            <td>EP08</td>
         </tr>
         <tr style="text-align:center">
             <td>HU09</td>
@@ -404,7 +404,7 @@ Escenario 2: Datos incompletos o incorrectos.
 <strong>Cuando</strong> los documentos o información proporcionada no son válidos o están incompletos.
 <strong>Entonces</strong> el sistema solicita que corrija la información o proporcione documentos adicionales.
             </td>
-            <td>EPIC-</td>
+            <td>EP09</td>
         </tr>
         <tr style="text-align:center">
             <td>HU10</td>
@@ -420,7 +420,7 @@ Escenario 2: Datos incompletos o incorrectos.
 <strong>Cuando</strong> ingresa datos incorrectos o faltantes en campos obligatorios.
 <strong>Entonces</strong> el sistema muestra un mensaje de error indicando los campos que necesitan corrección.
             </td>
-            <td>EPIC-</td>
+            <td>EP10</td>
         </tr>
         <tr style="text-align:center">
             <td>HU11</td>
@@ -436,7 +436,7 @@ Escenario 2: Datos incompletos o incorrectos.
 <strong>Cuando</strong> el sistema no puede calcular la tarifa debido a un error en la configuración del vehículo o fechas.
 <strong>Entonces</strong> se muestra un mensaje de error y se solicita revisar los datos ingresados.
             </td>
-            <td>EPIC-</td>
+            <td>EP11</td>
         </tr>
         <tr style="text-align:center">
             <td>HU12</td>
@@ -452,7 +452,7 @@ Escenario 2: Datos incompletos o incorrectos.
 <strong>Cuando</strong> los documentos o información proporcionada no son válidos o están incompletos.
 <strong>Entonces</strong> el sistema solicita que corrija la información o proporcione documentos adicionales.
             </td>
-            <td>EPIC-</td>
+            <td>EP12</td>
         </tr>
         <tr style="text-align:center">
             <td>HU13</td>
@@ -468,7 +468,7 @@ Escenario 2: Datos incompletos o incorrectos.
 <strong>Cuando</strong> intenta ver su historial, pero no ha realizado alquileres previamente.
 <strong>Entonces</strong> el sistema muestra un mensaje indicando que no hay alquileres en su historial.
             </td>
-            <td>EPIC-</td>
+            <td>EP13</td>
         </tr>
         <tr style="text-align:center">
             <td>HU14</td>
@@ -484,7 +484,7 @@ Escenario 2: Datos incompletos o incorrectos.
 <strong>Cuando</strong> no hay disponibilidad de ese vehículo en las fechas seleccionadas.
 <strong>Entonces</strong> el sistema no envía notificaciones hasta que se detecte disponibilidad.
             </td>
-            <td>EPIC-</td>
+            <td>EP14</td>
         </tr>
     </tbody>
 </table>
