@@ -621,15 +621,11 @@ Evidencia de la reunión:
 
 
 Resumen de la entrevista:
-<!---
-añade tu resumen de entrevista
--->
-- 
-- 
-- 
-- 
-- 
-
+- El entrevistado menciona acerca del uso frecuente que le da a los transportes para su día a día.
+- Del mismo modo, nunca ha reservado o alquilado un vehículo con anterioridad.
+- Menciona que sí está interesado en la propuesta de TakeMyCar, pues le resultaría muy favorable.
+- Menciona que el mayor temor que tiene relacionada con la idea es los posibles daños al vehículo.
+- Menciona que está dispuesto a promocionarnos con sus conocidos al ser algo de mucha utilidad.
 <br>
 
 <b> Entrevista 5 </b> 
@@ -716,6 +712,8 @@ En esta sección se muestra el proceso de análisis de la información recolecta
 A continuación brindamos las fichas de User Persona elaboradas a partir del análisis de las entrevistas realizadas.
 
 <img src="/img/User-Persona-Propietario-Juan Pérez.png" width="1050" height="1289">
+
+<img src="/img/User-Persona-Propietario-María Lopez.png" width="1050" height="1289">
 
 ### 2.3.2. User Task Matrix
 
