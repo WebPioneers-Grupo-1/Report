@@ -571,7 +571,30 @@ Resumen de la entrevista:
 - Le gustaría que la plataforma se encuentre disponible todo el tiempo para acceder a las funcionalidades de nuestra aplicación.
 
 
+<b> Entrevista 3 </b> 
 
+- Nombre: Franchesco
+- Apellidos: Soto Morales
+- Edad: 22 años
+- Distrito: Comas
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213502_upc_edu_pe/EbhcYmyn-y1JlD7N3pR5cwoBN9sSJpjLNJq1wA_k8zbvuQ?e=4LeGyW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista</a>
+- Duración: 5:18 minutos
+- Inicio de la entrevista: 0:02 
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="./img/screenshot-entrevista-3.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+
+Resumen de la entrevista:
+
+- El entrevistado menciona que posee un vehículo de uso familiar y que su uso se limita a los fines de semana o rara vez.
+- Menciona que nunca tuvo una experiencia con lo que alquiler se refiere, sin embargo, se encuentra dispuesto a hacerlo dependiendo del nivel de confianza que tenga con la persona alquilada.
+- Menciona también que no conoce de ninguna plataforma o medio por el cual pueda disponivilizar su vehículo para su futuro alquiler.
+- Considera que la principal garantía además de la compesación monetaria por el alquiler, es el poseer un seguro que protega su bien tanto de accidentes, robos, entre otros incidentes presentes.
+- Menciona que utilizaría nuestra plataforma y que además recomendaria el uso, ya que entiende los beneficios que conlleva.
 
 <br>
 
