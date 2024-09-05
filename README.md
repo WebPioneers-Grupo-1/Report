@@ -267,6 +267,12 @@
 
 ### 4.3.1. Landing Page Wireframe
 
+<img src="/img/main.png" width="1000" height="1000">
+
+<img src="/img/mock.png" width="1000" height="1000">
+
+<img src="/img/login.png" width="1000" height="1000">
+
 ### 4.3.2. Landing Page Mock-up
 
 ## 4.4. Web Applications UX/UI Design
