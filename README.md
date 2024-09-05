@@ -1,7 +1,7 @@
 <h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
 
 <h3 align="center"> Ingeniería de Software </h3>
-<h3 align="center"> Ciclo 2024 - 1 </h3>
+<h3 align="center"> Ciclo 2024 - 2 </h3>
 
 <br>
 
@@ -719,13 +719,13 @@ A continuación brindamos las fichas de User Persona elaboradas a partir del an�
 
 A continuación se muestra el proceso para la realizacion del User Task Matrix para comprender las tareas que realizan los User Persona para cumplir sus objetivos.
 
-|Tarea| María López |Juan Pérez|
-| |Frecuencia-Importancia|Frecuencia-Importancia|
-|Explorar opciones de alquiler|Alta-Media|Baja-Media|
-|Reservar/Alquilar un vehículo|Media-Alta|Baja-Alta|
-|Gestionar el alquiler|Baja-Baja|Baja-Media|
-|Seguridad y monitoreo|Alta-Alta|Baja-Alta|
-|Devolución del vehículo|Baja-Alta|Baja-Media|
+| Tarea                         | María López    | Juan Pérez     |
+|-------------------------------|----------------|----------------|
+| Explorar opciones de alquiler | Alta - Media   | Baja - Media   |
+| Reservar-Alquilar un vehículo | Media - Alta   | Baja - Alta    |
+| Gestionar el alquiler         | Baja - Baja    | Baja - Media   |
+| Seguridad y monitoreo         | Alta - Alta    | Baja - Alta    |
+| Devolución del vehículo       | Baja - Alta    | Baja - Media   |
 
 Tareas con mayor frecuencia e importancia
 
