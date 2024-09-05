@@ -1302,47 +1302,248 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 
 ## 4.1. Style Guidelines
 
+<b>Branding:</b> El logo de nuestra start-up se representa concisamente con el nombre de nuestra aplicación, el servicio que ofreces y una imagen identificable bajo la imagen de un auto, que busca expresar una imagen recordable y fácil de entender. 
+
+<div align="center">
+  <img src="./img/logo-take-my-car-v1.png" style="margin: 10px 0;" widht="500" height="280" />
+</div>
+<br>
+
+<b>Tipografía:</b> Nuestro logotipo posee la fuente predeterminado, resaltando la sencillez, el cual es la imagen que deseamos dar a nuestros clientes, el cual es un estilo simple, interactivo y moderno. Buscando promover atracción a nuestro público objetivo. Si bien es cierto, vamos a incluir una extensa lista de tipografias para el mejor desarrollo, pero para esta primera versión fue todo desarrollado con el tipo de letra predeterminado.
+
+<b>Colores:</b> El brindar una imagen que influya principalmente la facilidad y confianza. Decidimos optar por una paleta que transmita facilidad y confianza. Por lo que usaremos tonos de xxxxxx que va a variar para usar blanco, el cual es un color bastante útil para lo que a interfaces se refiere. En adición buscamos una forma de que para los usuarios se cree una atmosfera de profesionalismo. 
+
+Paleta de colores:
+<div align="center">
+  <img src="./img/paleta-guidelines.png" style="margin: 10px 0;" widht="500" height="500"/>
+</div>
+
 ### 4.1.1. General Style Guidelines
+
+Es necesario mencionar que, tanto para la web como para los móviles, utilizaremos la misma tipografía y paleta de colores. Por lo que a continuación voy a especificar las pautas que vamos a implementar exclusivamente para el diseño de la interfaz web de PeaceApp. 
+
+Esto incluye asegurar que, dentro de la interfaz, el mapa interactivo tiene que ser intuitivo y, por ende, con una navegación fácil, administrando bien los colores que reflejen los niveles de seguridad dependiendo de las zonas. La página debe de ser accesible y funcional, en cualquier navegador o sistema operativo que use nuestro cliente. De la misma forma, debemos de mantener la coherencia de la información con el diseño de la versión móvil. 
 
 ### 4.1.2. Web Style Guidelines
 
+Es importante destacar que, para la plataforma web, mantendremos una coherencia visual utilizando la misma tipografía y paleta de colores a lo largo de todo el sitio. A continuación, detallaré las pautas específicas que aplicaremos para el diseño del frontend de nuestra plataforma de arrendamiento de vehículos.
+
+Nos enfocaremos en garantizar que la interfaz sea intuitiva, especialmente en la navegación del catálogo de vehículos disponibles, permitiendo a los arrendatarios encontrar fácilmente lo que buscan. Además, se utilizarán colores estratégicos que faciliten la distinción entre tipos de vehículos y sus niveles de disponibilidad. La página debe ser completamente accesible y funcional en cualquier navegador, brindando una experiencia uniforme para todos los usuarios. En adición, el diseño debe ser adaptable para cualquier dispositivo desde el cual se acceda al sitio.
+
+<!---
+estaría genial poner imagenes
+-->
+
 ## 4.2. Information Architecture
+
+En nuestra plataforma TakeMyCar, ofrecemos una interfaz fácil de usar y confiable, centrada en conectar propietarios de vehículos con arrendatarios potenciales. Aunque nuestro enfoque no es la seguridad ciudadana como en el ejemplo anterior, sí nos aseguramos de proporcionar una experiencia sin complicaciones para ambas partes, destacando la facilidad de navegación, acceso rápido a información de los vehículos y un proceso de alquiler eficiente. A continuación, se describe la arquitectura de información planeada.
+
+<b> Página de Inicio: </b>
+
+- Catálogo de Vehículos: Sección que muestra los vehículos disponibles para alquiler, con imágenes, descripciones detalladas, y opciones de filtrado por marca, modelo o tipo de vehículo.
+
+- Formulario de Alquiler: Cada vehículo tiene un formulario de alquiler asociado  que permite a los arrendatarios seleccionar el número de días, seguros adicionales, y opciones extras (como GPS o asistencia en carretera).
+
+- Información sobre la Plataforma: Una breve introducción sobre TakeMyCar, cómo funciona la plataforma, beneficios tanto para propietarios como arrendatarios, y formas de contacto para consultas.
+
+<b> Catálogo de Vehículos: </b>
+
+- Vehículos Disponibles: Los vehículos se organizan en una cuadrícula, cada uno con una imagen destacada, su marca, modelo y una breve descripción de sus características principales.
+
+- Filtros de Búsqueda: Herramientas que permiten filtrar el catálogo según marca, modelo, precio y disponibilidad, facilitando a los usuarios encontrar el vehículo adecuado.
+
+- Formulario de Alquiler Integrado: Cada vehículo tiene un formulario directamente accesible desde el catálogo para alquilarlo de manera rápida y eficiente.
+
+<b> Proceso de Alquiler: </b>
+
+- Formulario de Alquiler Detallado: El formulario de alquiler permite a los arrendatarios especificar los detalles del alquiler, como días de uso, seguro adicional, y otras opciones, ofreciendo una experiencia intuitiva y directa.
+
+- Confirmación del Alquiler: Al finalizar, el usuario visualiza un resumen del alquiler antes de confirmar, asegurando que toda la información proporcionada es correcta.
+
+<b> Registro: </b>
+
+- Registro de Usuarios: Un formulario para que los arrendatarios se registren en la plataforma, proporcionando su información de contacto básica.
 
 ### 4.2.1. Organization Systems
 
+El sistema de organización de la plataforma se centra en ofrecer una experiencia fluida y eficiente tanto para propietarios como para arrendatarios, priorizando la facilidad de navegación y la claridad en el proceso de alquiler.
+
+- Catálogo de Vehículos: Categorizado por marca, modelo y tipo de vehículo para facilitar la navegación y selección de vehículos por parte de los usuarios.
+
+- Alquiler de Vehículos: El proceso de alquiler está organizado en pasos claros y sencillos, desde la selección del vehículo hasta la confirmación del alquiler.
+
+- Filtros de Búsqueda: Los usuarios pueden filtrar los vehículos disponibles por precio, modelo, marca y opciones adicionales, asegurando que encuentran lo que buscan de manera rápida.
+
 ### 4.2.2. Labeling Systems
+
+Utilizaremos un sistema de etiquetado claro y conciso para asegurar que los usuarios puedan navegar por la plataforma sin complicaciones. Las etiquetas clave incluirán:
+
+- Ver Autos (Catálogo de Vehículos): Para visualizar todos los vehículos disponibles.
+- Alquilar (Formulario de Alquiler): Para acceder al proceso de alquiler de cada vehículo.
+- Iniciar Sesión/Registro: Para que los usuarios puedan iniciar sesión o registrarse en la plataforma.
+- Contacto: Información de contacto para soporte y consultas.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+Los SEO Tagas tanto como los Meta Tags, lo entendemos como las palabras clave necesarias para caracterizar nuestro servicio y con ello, acercarlo a las búsquedas de nuestros usuarios. A continuación mostraremos los SEO Tags y Meta Tags para nuestro mejor posicionamiento:
+
+<b>Landing Page:</b>
+
+- Title: TakeMyCar - Plataforma de Alquiler de Vehículos
+- Description: TakeMyCar - Alquila vehículos de manera fácil y rápida con nuestra plataforma. Encuentra el vehículo ideal y disfruta de precios competitivos.
+- Keywords: alquiler de vehículos, arrendar auto, rentar carro, plataforma de alquiler de autos
+- Authors: TakeMyCar Team
+
+<b>Web Application:</b>
+
+- Title: TakeMyCar - Alquiler de Autos
+- Description: TakeMyCar - Plataforma para propietarios y arrendatarios de vehículos.
+- Keywords: alquiler de autos, rentar vehículos, plataforma de arrendamiento
+- Authors: TakeMyCar Team
+
 ### 4.2.4. Searching Systems
 
+El sistema de búsqueda permitirá a los usuarios encontrar vehículos disponibles de manera eficiente:
+
+- Búsqueda por Modelo: Los usuarios pueden buscar vehículos específicos como "Toyota Corolla" o "Ford Mustang".
+- Búsqueda por Marca: Permite encontrar todos los vehículos disponibles de una marca en particular.
+- Búsqueda por Disponibilidad: Los usuarios pueden filtrar vehículos disponibles por fechas y duración del alquiler.
+
 ### 4.2.5. Navigation Systems
+
+El sistema de navegación de TakeMyCar debe ofrecer una experiencia fluida y directa para que los usuarios puedan navegar fácilmente por la plataforma. Se describe de la siguiente forma:
+
+- Menú Principal: Ubicado en la parte superior, con enlaces a las secciones clave: "Ver Autos", "Alquilar", "Registro", "Iniciar Sesión" y "Contacto".
+- Botones de Acción Destacados: En el catálogo de vehículos, cada opción de alquiler tiene un botón destacado para iniciar el proceso de reserva de inmediato.
+- Filtros y Búsqueda Visibles: Los filtros de búsqueda son visibles y accesibles desde cualquier página, facilitando la búsqueda de vehículos específicos.
 
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
 
+<img src="/img/WIRE.png">
+
 ### 4.3.2. Landing Page Mock-up
+
+Iniciar sesión en la aplicación.:
+
+<img src="/img/ini1.png">
+
+Uso del menú principal:
+
+<img src="/img/menu1.png">
+
+Ver autos a alquilar:
+
+<img src="/img/ver autos.png">
+
+Colocar las opciones del alquiler:
+
+<img src="/img/llenar1.png">
+
+Seleccionar pago:
+
+<img src="/img/selecpago.png">
+
+Alquiler exitoso:
+
+<img src="/img/compraexito.png">
+
+Ver registro de alquiler:
+
+<img src="/img/verregistro.png">
+
+Ver sobre la empresa:
+
+<img src="/img/main2.png">
+
+Preguntas frecuentes:
+
+<img src="/img/main2.png">
+
+Redes sociales:
+
+<img src="/img/main2.png">
+
+Contacto:
+
+<img src="/img/contacto.png">
+
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
 
+Principios Heurísticos aplicados en los wireframes de TakeMyCar:
+
+#### Visibilidad del estado del sistema:
+
+TakeMyCar utiliza notificaciones visuales claras, como barras de progreso o mensajes de confirmación, para indicar al usuario en qué etapa del proceso de alquiler se encuentra. Las secciones como "Autos disponibles", "Historial de alquileres" o "Pago completado" están claramente diferenciadas con íconos y colores.
+
+#### Coincidencia entre el sistema y el mundo real:
+
+Se utilizan palabras sencillas y términos comunes relacionados con el alquiler de autos para que los usuarios no se sientan abrumados por tecnicismos. Por ejemplo, términos como "Reservar ahora" en lugar de "Procesar transacción" hacen que la interacción sea más amigable.
+
+#### Libertad y control por parte del usuario:
+
+Un menú emergente en la esquina superior izquierda permite al usuario navegar rápidamente entre las secciones clave: “Explorar autos”, “Mis alquileres”, “Soporte” y “Perfil”. El usuario puede regresar fácilmente a la página principal o cancelar acciones sin quedar atrapado en pasos innecesarios.
+
+#### Consistencia y estándares:
+
+El diseño visual sigue una estructura coherente en todo el sistema. Los botones, colores y tipografías son uniformes, garantizando que los usuarios entiendan fácilmente la funcionalidad de los elementos, como el uso de un botón azul para "Reservar" y un botón rojo para "Cancelar".
+
+#### Flexibilidad y eficiencia de uso:
+
+TakeMyCar incluye accesos rápidos en la pantalla principal para acciones frecuentes como “Buscar autos cercanos” y “Mis reservas actuales”. Estos accesos permiten a los usuarios experimentados realizar tareas rápidamente sin pasar por múltiples pantallas.
+
+<img src="/img/wire1.png">
+
+<img src="/img/wire2.png">
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+<img src="/img/mockup1.png">
 
 ### 4.4.3. Web Applications Mock-ups
 
+<img src="/img/mockup2.png">
+
 ### 4.4.4. Web Applications User Flow Diagrams
+
+<img src="/img/flowd.png">
 
 ## 4.5. Web Applications Prototyping
 
+<img src="/img/proto1.png">
+
+<img src="/img/proto2.png">
+
 ## 4.6. Domain-Driven Software Architecture
+
+Este enfoque enfatiza la importancia de un análisis exhaustivo del dominio del problema,
+permitiendo así construir software que no solo cumpla con los requisitos funcionales,
+sino que también se integre de manera óptima en los procesos de negocio.
 
 ### 4.6.1. Software Architecture Context Diagram
 
+A través del esquema de contexto, podemos entender cómo TakeMyCar se integra en un ecosistema más amplio,
+estableciendo relaciones con los distintos actores que influyen en su funcionamiento.
+
+<p align = "center"> <img  alt="context-diagram" src="img/context-diagram.png"> </p>
+
 ### 4.6.2. Software Architecture Container Diagrams
 
+A través de este diagrama, podemos comprender cómo fluye la información dentro de TakeMyCar,
+identificando las dependencias entre las aplicaciones y los datos necesarios para su correcto funcionamiento.
+
+<p align = "center"> <img  alt="container-diagram" src="img/container-diagram.png"> </p>
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+Los diagramas de componentes nos ayudan a identificar los puntos de integración entre los Bounded Contexts,
+facilitando la gestión de las relaciones entre ellos y asegurando la consistencia del sistema en su conjunto.
+
+<p align = "center"> <img  alt="component-diagram-publisher" src="img/component-diagram-publisher.png"> </p>
 
 ## 4.7. Software Object-Oriented Design
 
