@@ -485,6 +485,11 @@ identificando las dependencias entre las aplicaciones y los datos necesarios par
 
 ### 4.6.3. Software Architecture Components Diagrams
 
+Los diagramas de componentes nos ayudan a identificar los puntos de integración entre los Bounded Contexts,
+facilitando la gestión de las relaciones entre ellos y asegurando la consistencia del sistema en su conjunto.
+
+<p align = "center"> <img  alt="component-diagram-publisher" src="img/component-diagram-publisher.png"> </p>
+
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
