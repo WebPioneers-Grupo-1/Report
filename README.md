@@ -483,6 +483,13 @@ Escenario 2: Datos incompletos o incorrectos.
 
 ## 3.3. Impact Mapping
 
+**Juan Pérez**
+<img src="/img/to-be-Juan.png" width="1050" height="1499">
+
+**María Lopez**
+<img src="/img/to-be-María.png" width="1050" height="1499">
+
+
 ## 3.4. Product Backlog
 
 <br><br>
