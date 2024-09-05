@@ -271,42 +271,6 @@
 
 ### 4.3.2. Landing Page Mock-up
 
-<img src="/img/mock1.png">
-
-<img src="/img/login.png">
-
-## 4.4. Web Applications UX/UI Design
-
-<img src="/img/appmo.png">
-
-### 4.4.1. Web Applications Wireframes
-
-<img src="/img/mock2.png">
-
-<img src="/img/login.png">
-
-### 4.4.2. Web Applications Wireflow Diagrams
-
-<img src="/img/view.png">
-
-<img src="/img/menu.png">
-
-### 4.4.3. Web Applications Mock-ups
-
-<img src="/img/faillog.png">
-
-<img src="/img/main.png">
-
-<img src="/img/view.png">
-
-<img src="/img/preguntas2.png">
-
-<img src="/img/alquiler.png">
-
-<img src="/img/pagos.png">
-
-### 4.4.4. Web Applications User Flow Diagrams
-
 Iniciar sesión en la aplicación.:
 
 <img src="/img/ini1.png">
@@ -352,9 +316,31 @@ Contacto:
 <img src="/img/contacto.png">
 
 
-## 4.5. Web Applications Prototyping
+## 4.4. Web Applications UX/UI Design
+
+<img src="/img/appmo.png">
+
+### 4.4.1. Web Applications Wireframes
+
+<img src="/img/mock2.png">
+
+<img src="/img/login.png">
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+<img src="/img/mockup1.png">
+
+### 4.4.3. Web Applications Mock-ups
 
 <img src="/img/diagr.png">
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+
+
+## 4.5. Web Applications Prototyping
+
+
 
 ## 4.6. Domain-Driven Software Architecture
 
