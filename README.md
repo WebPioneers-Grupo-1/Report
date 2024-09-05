@@ -317,7 +317,7 @@ Uso del menú principal:
 
 Ver autos a alquilar:
 
-<img src="/img/verautos.png">
+<img src="/img/ver autos.png">
 
 Colocar las opciones del alquiler:
 
