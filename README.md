@@ -461,6 +461,8 @@ TakeMyCar incluye accesos rápidos en la pantalla principal para acciones frecue
 
 <img src="/img/proto1.png">
 
+<img src="/img/proto2.png">
+
 ## 4.6. Domain-Driven Software Architecture
 
 Este enfoque enfatiza la importancia de un análisis exhaustivo del dominio del problema,
