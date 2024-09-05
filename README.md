@@ -247,21 +247,40 @@
 
 ## 4.1. Style Guidelines.
 
+<b>Branding:</b> El logo de nuestra start-up se representa concisamente con el nombre de nuestra aplicación, el servicio que ofreces y una imagen identificable bajo la imagen de un auto, que busca expresar una imagen recordable y fácil de entender. 
+
+<div align="center">
+  <img src="./img/logo-take-my-car-v1.png" style="margin: 10px 0;" widht="500" height="280" />
+</div>
+<br>
+
+<b>Tipografía:</b> Nuestro logotipo posee la fuente predeterminado, resaltando la sencillez, el cual es la imagen que deseamos dar a nuestros clientes, el cual es un estilo simple, interactivo y moderno. Buscando promover atracción a nuestro público objetivo. Si bien es cierto, vamos a incluir una extensa lista de tipografias para el mejor desarrollo, pero para esta primera versión fue todo desarrollado con el tipo de letra predeterminado.
+
+<b>Colores:</b> El brindar una imagen que influya principalmente la facilidad y confianza. Decidimos optar por una paleta que transmita facilidad y confianza. Por lo que usaremos tonos de xxxxxx que va a variar para usar blanco, el cual es un color bastante útil para lo que a interfaces se refiere. En adición buscamos una forma de que para los usuarios se cree una atmosfera de profesionalismo. 
+
+Paleta de colores:
+<div align="center">
+  <img src="./img/paleta-guidelines.png" style="margin: 10px 0;" widht="500" height="500"/>
+</div>
+
 ### 4.1.1. General Style Guidelines
+
+Es necesario mencionar que, tanto para la web como para los móviles, utilizaremos la misma tipografía y paleta de colores. Por lo que a continuación voy a especificar las pautas que vamos a implementar exclusivamente para el diseño de la interfaz web de PeaceApp. 
+
+Esto incluye asegurar que, dentro de la interfaz, el mapa interactivo tiene que ser intuitivo y, por ende, con una navegación fácil, administrando bien los colores que reflejen los niveles de seguridad dependiendo de las zonas. La página debe de ser accesible y funcional, en cualquier navegador o sistema operativo que use nuestro cliente. De la misma forma, debemos de mantener la coherencia de la información con el diseño de la versión móvil. 
 
 ### 4.1.2. Web Style Guidelines
 
+Es importante destacar que, para la plataforma web, mantendremos una coherencia visual utilizando la misma tipografía y paleta de colores a lo largo de todo el sitio. A continuación, detallaré las pautas específicas que aplicaremos para el diseño del frontend de nuestra plataforma de arrendamiento de vehículos.
+
+Nos enfocaremos en garantizar que la interfaz sea intuitiva, especialmente en la navegación del catálogo de vehículos disponibles, permitiendo a los arrendatarios encontrar fácilmente lo que buscan. Además, se utilizarán colores estratégicos que faciliten la distinción entre tipos de vehículos y sus niveles de disponibilidad. La página debe ser completamente accesible y funcional en cualquier navegador, brindando una experiencia uniforme para todos los usuarios. En adición, el diseño debe ser adaptable para cualquier dispositivo desde el cual se acceda al sitio.
+
+<!---
+estaría genial poner imagenes
+-->
+
+
 ## 4.2. Information Architecture
-
-### 4.2.1. Organization Systems
-
-### 4.2.2. Labeling Systems
-
-### 4.2.3. SEO Tags and Meta Tags
-
-### 4.2.4. Searching Systems
-
-### 4.2.5. Navigation Systems
 
 ## 4.3. Landing Page UI Design
 
