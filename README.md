@@ -363,6 +363,8 @@ Landing page:
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
+<img src="/img/devep.png">
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
