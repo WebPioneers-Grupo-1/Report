@@ -478,6 +478,11 @@ estableciendo relaciones con los distintos actores que influyen en su funcionami
 
 ### 4.6.2. Software Architecture Container Diagrams
 
+A través de este diagrama, podemos comprender cómo fluye la información dentro de TakeMyCar,
+identificando las dependencias entre las aplicaciones y los datos necesarios para su correcto funcionamiento.
+
+<p align = "center"> <img  alt="container-diagram" src="img/container-diagram.png"> </p>
+
 ### 4.6.3. Software Architecture Components Diagrams
 
 ## 4.7. Software Object-Oriented Design
