@@ -383,7 +383,16 @@ TakeMyCar incluye accesos rápidos en la pantalla principal para acciones frecue
 
 ## 4.6. Domain-Driven Software Architecture
 
+Este enfoque enfatiza la importancia de un análisis exhaustivo del dominio del problema,
+permitiendo así construir software que no solo cumpla con los requisitos funcionales,
+sino que también se integre de manera óptima en los procesos de negocio.
+
 ### 4.6.1. Software Architecture Context Diagram
+
+A través del esquema de contexto, podemos entender cómo TakeMyCar se integra en un ecosistema más amplio,
+estableciendo relaciones con los distintos actores que influyen en su funcionamiento.
+
+<p align = "center"> <img  alt="context-diagram" src="img/context-diagram.png"> </p>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
