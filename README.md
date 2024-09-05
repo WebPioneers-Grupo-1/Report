@@ -332,7 +332,7 @@ Contacto:
 
 ### 4.4.3. Web Applications Mock-ups
 
-<img src="/img/diagr.png">
+<img src="/img/mockup2.png">
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
