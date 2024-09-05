@@ -694,7 +694,17 @@ Resumen de la entrevista:
 
 <b>Análisis General - Segmento 1:</b>
 
+Nuestros entrevistados poseedores de vehículos concuerdan en que el ingreso pasivo en base a un activo el cual no es usado de forma diaria en ninguno de los casos es beneficio. De la misma manera todos concuerdan en que no existe una plataforma con la publicidad y la confianza para propietarios como ellos puedan alquilar su vehículo obteniendo beneficios, lo que confirma nuestra teoría de la falta de una plataforma para esta necesidad existente.
+
+Asimismo, existe una preocupación entre nuestros entrevistados el cual es la seguridad, el hecho de que alquilar tu auto sea seguro y bajo esa seguridad, confiar en el funcionar de la plataforma. Lo que significa que debemos de especializarnos en ofrecer un servicio seguro y que inspire confianza en nuestro usuarios proovedores del activo necesario para el funcionamiento de nuestra start-up.
+
+Un dato interesante es que a pesar de las diferencias de edad presente entre los primeros dos entrevistados al tercero, percibimos la misma necesidad o entusiasmo por recibir un ingreso pasivo sin la necesidad de invertir tiempo, lo que nos lleva a pensar que existe un público amplio para nuestro producto.
+
 <b>Análisis General - Segmento 2:</b>
+
+Los usuarios entrevistados suelen tener una edad joven y se entiende que gran parte serán personas jóvenes adultas, ya que normalmente se movilizan mucho y no poseen un bien propio, ya que van en el camino a ello. Por lo que, de la misma forma, captamos una necesidad palpante. 
+
+Cabe resaltar que se menciona que el monto de transporte semanal en los entrevistados es elevado lo que refleja que existe un gasto considerable, de la misma forma, no optan por alquilar un auto debido al costo que este inclute, la falta de opciones y los trámites tediosos. Lo que refuerza nuestra idea de negocio.
 
 
 ## 2.3. Needfinding
