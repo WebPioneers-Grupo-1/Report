@@ -309,19 +309,19 @@
 
 Iniciar sesión en la aplicación.:
 
-<img src="/img/ini1.png" width="1000" height="1000">
+<img src="/img/ini1.png">
 
 Uso del menú principal:
 
-<img src="/img/menu1.png" width="1000" height="1000">
+<img src="/img/menu1.png">
 
 Ver autos a alquilar:
 
-<img src="/img/verautos.png" width="1000" height="1000">
+<img src="/img/verautos.png">
 
 Colocar las opciones del alquiler:
 
-<img src="/img/llenar1.png" width="1000" height="1000">
+<img src="/img/llenar1.png">
 
 Seleccionar pago:
 
