@@ -621,15 +621,11 @@ Evidencia de la reunión:
 
 
 Resumen de la entrevista:
-<!---
-añade tu resumen de entrevista
--->
-- 
-- 
-- 
-- 
-- 
-
+- El entrevistado menciona acerca del uso frecuente que le da a los transportes para su día a día.
+- Del mismo modo, nunca ha reservado o alquilado un vehículo con anterioridad.
+- Menciona que sí está interesado en la propuesta de TakeMyCar, pues le resultaría muy favorable.
+- Menciona que el mayor temor que tiene relacionada con la idea es los posibles daños al vehículo.
+- Menciona que está dispuesto a promocionarnos con sus conocidos al ser algo de mucha utilidad.
 <br>
 
 <b> Entrevista 5 </b> 
