@@ -307,10 +307,49 @@
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+Iniciar sesión en la aplicación.:
+
 <img src="/img/ini1.png" width="1000" height="1000">
 
-![image](https://github.com/user-attachments/assets/17687dac-1f32-4d3a-ae40-0d537aa485d0)
+Uso del menú principal:
 
+<img src="/img/menu1.png" width="1000" height="1000">
+
+Ver autos a alquilar:
+
+<img src="/img/verautos.png" width="1000" height="1000">
+
+Colocar las opciones del alquiler:
+
+<img src="/img/llenar1.png" width="1000" height="1000">
+
+Seleccionar pago:
+
+<img src="/img/selecpago.png" width="1000" height="1000">
+
+Alquiler exitoso:
+
+<img src="/img/compraexito.png" width="1000" height="1000">
+
+Ver registro de alquiler:
+
+<img src="/img/verregistro.png" width="1000" height="1000">
+
+Ver sobre la empresa:
+
+<img src="/img/main2.png" width="1000" height="1000">
+
+Preguntas frecuentes:
+
+<img src="/img/main2.png" width="1000" height="1000">
+
+Redes sociales:
+
+<img src="/img/main2.png" width="1000" height="1000">
+
+Contacto:
+
+<img src="/img/contacto.png" width="1000" height="1000">
 
 
 ## 4.5. Web Applications Prototyping
