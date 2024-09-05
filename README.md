@@ -341,6 +341,14 @@ Vista del repositorio:
 
 <img src="/img/rep.png">
 
+Vista del avance:
+
+<img src="/img/rep2.png">
+
+Landing page:
+
+<img src="/img/rep3.png">
+
 ## 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
