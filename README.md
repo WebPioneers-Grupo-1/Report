@@ -459,7 +459,7 @@ TakeMyCar incluye accesos rápidos en la pantalla principal para acciones frecue
 
 ## 4.5. Web Applications Prototyping
 
-
+<img src="/img/proto1.png">
 
 ## 4.6. Domain-Driven Software Architecture
 
