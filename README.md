@@ -465,7 +465,7 @@ Táctica: Mientras las grandes compañías cuentan con sistemas sofisticados, Ta
 
 Táctica: Fomentar reseñas y recomendaciones dentro de la plataforma. La confianza es clave en el modelo P2P. Se debe crear un entorno seguro y confiable para todos los usuarios.
 
-Táctica: Incluir características como verificación de identidad, historial de alquileres, seguros integrados y monitoreo de vehículos por GPS. 
+Táctica: Incluir características como verificación de identidad, historial de alquileres, seguros integrados y monitoreo de vehículos por GPS.
 
 ## 2.2. Entrevistas
 
@@ -526,7 +526,7 @@ A continuación se presenta el registro de las entrevistas realizadas a los segm
 - Apellidos: Rivera Chipana
 - Edad: 54 años
 - Distrito: Pueblo Libre 
-- Link de la entrevista: <a href="https://shorturl.at/3Na7u">Entrevista</a>
+- Link de la entrevista: <a href="https://shorturl.at/3Na7u">https://shorturl.at/3Na7u</a>
 - Duración: 5:46 minutos
 - Inicio de la entrevista: 0:01 
 
@@ -607,9 +607,6 @@ Resumen de la entrevista:
 - Edad: 21 años
 - Distrito: Jesus María
 - Link de la entrevista: <a href="https://www.youtube.com/watch?v=eoOJoZDcQu8">Entrevista</a> 
-<!---
-subelo en stream
--->
 - Duración: 3:53 minutos
 - Inicio de la entrevista: 0:01
 
@@ -619,8 +616,8 @@ Evidencia de la reunión:
     <img src="./img/screenshot-entrevista-4.png" style="margin: 10px 0;" width="80%"/>
 </div>
 
-
 Resumen de la entrevista:
+
 - El entrevistado menciona acerca del uso frecuente que le da a los transportes para su día a día.
 - Del mismo modo, nunca ha reservado o alquilado un vehículo con anterioridad.
 - Menciona que sí está interesado en la propuesta de TakeMyCar, pues le resultaría muy favorable.
@@ -746,6 +743,18 @@ Ambos usuarios comparten una fuerte preocupación por la seguridad y el monitore
 ### 2.3.3. User Journey Mapping
 
 A continuación se muestra el proceso para la realización del User Journey Mapping para los User Persona con el fin de entender las experiencias del usuario sin nuestra solución.
+
+User Journey Mapping para Juan Pérez:
+
+<div align="center">
+    <img src="./img/journey-map-1.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+User Journey Mapping para María López:
+
+<div align="center">
+    <img src="./img/journey-map-2.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
 ### 2.3.4. Empathy Mapping
 
