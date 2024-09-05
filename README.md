@@ -45,7 +45,7 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :-----: | :-----: | :----------------------:|
-|TB1| |05/09/2024| |Todos |
+|TB1| |05/09/2024| |Chavez,Cruz,Oshiro,Rivera y Zuniga| | Se añadió los capítulos 1 al 5|
 </div>
 
 ---
