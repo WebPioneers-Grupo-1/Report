@@ -237,9 +237,18 @@
 
 A continuación se presenta la realizacion del To-Be Scenario Mapping por cada user persona.
 
-<img src="/img/to-be-01.png" width="1000" height="1000">
 
-<img src="/img/to-be-02.png" width="1000" height="1000">
+Segmento Objetivo 1: Juan Pérez
+
+<img src="/img/to-be-01.png">
+
+<br>
+
+Segmento Objetivo 2: María Lopez
+
+<img src="/img/to-be-02.png">
+
+<br>
 
 ## 3.2. User Stories
 
