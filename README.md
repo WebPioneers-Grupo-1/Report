@@ -318,13 +318,33 @@ Contacto:
 
 ## 4.4. Web Applications UX/UI Design
 
-<img src="/img/appmo.png">
-
 ### 4.4.1. Web Applications Wireframes
 
-<img src="/img/mock2.png">
+Principios Heurísticos aplicados en los wireframes de TakeMyCar:
 
-<img src="/img/login.png">
+#### Visibilidad del estado del sistema:
+
+TakeMyCar utiliza notificaciones visuales claras, como barras de progreso o mensajes de confirmación, para indicar al usuario en qué etapa del proceso de alquiler se encuentra. Las secciones como "Autos disponibles", "Historial de alquileres" o "Pago completado" están claramente diferenciadas con íconos y colores.
+
+#### Coincidencia entre el sistema y el mundo real:
+
+Se utilizan palabras sencillas y términos comunes relacionados con el alquiler de autos para que los usuarios no se sientan abrumados por tecnicismos. Por ejemplo, términos como "Reservar ahora" en lugar de "Procesar transacción" hacen que la interacción sea más amigable.
+
+#### Libertad y control por parte del usuario:
+
+Un menú emergente en la esquina superior izquierda permite al usuario navegar rápidamente entre las secciones clave: “Explorar autos”, “Mis alquileres”, “Soporte” y “Perfil”. El usuario puede regresar fácilmente a la página principal o cancelar acciones sin quedar atrapado en pasos innecesarios.
+
+#### Consistencia y estándares:
+
+El diseño visual sigue una estructura coherente en todo el sistema. Los botones, colores y tipografías son uniformes, garantizando que los usuarios entiendan fácilmente la funcionalidad de los elementos, como el uso de un botón azul para "Reservar" y un botón rojo para "Cancelar".
+
+#### Flexibilidad y eficiencia de uso:
+
+TakeMyCar incluye accesos rápidos en la pantalla principal para acciones frecuentes como “Buscar autos cercanos” y “Mis reservas actuales”. Estos accesos permiten a los usuarios experimentados realizar tareas rápidamente sin pasar por múltiples pantallas.
+
+<img src="/img/wire1.png">
+
+<img src="/img/wire2.png">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
