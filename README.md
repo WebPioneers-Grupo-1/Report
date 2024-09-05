@@ -702,6 +702,8 @@ En esta sección se muestra el proceso de análisis de la información recolecta
 
 A continuación brindamos las fichas de User Persona elaboradas a partir del análisis de las entrevistas realizadas.
 
+<img src="/img/User-Persona-Propietario-Juan Pérez.png" width="1050" height="1289">
+
 ### 2.3.2. User Task Matrix
 
 A continuación se muestra el proceso para la realizacion del User Task Matrix para comprender las tareas que realizan los User Persona para cumplir sus objetivos.
