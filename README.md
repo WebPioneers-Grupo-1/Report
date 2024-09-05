@@ -518,17 +518,25 @@ Con el objetivo de comprender la necesidad y la demanda en nuestro sector por pa
 
 A continuación se presenta el registro de las entrevistas realizadas a los segmentos objetivo.
 
-**Segmento 1: Propietarios de vehículos**
+<b> Segmento Objetivo 1: </b> Propietarios de vehículos
 
-Entrevista 1: Alcides Gustavo Rivera Chipana, 54 años, Pueblo Libre
+<b> Entrevista 1 </b> 
 
-![Screenshot Entrevista 1](./img/screenshot-entrevista-1.png "Screenshot Entrevista 1")
+- Nombre: Alcides Gustavo 
+- Apellidos: Rivera Chipana
+- Edad: 54 años
+- Distrito: Pueblo Libre 
+- Link de la entrevista: <a href="https://shorturl.at/3Na7u">Entrevista</a>
+- Duración: 5:46 minutos
+- Inicio de la entrevista: 0:01 
 
-Enlace: https://shorturl.at/3Na7u
-Inicio de la entrevista: 0:38
-Duracion: 5:46 minutos
+Evidencia de la reunión:
 
-Resumen:
+<div align="center">
+    <img src="./img/screenshot-entrevista-1.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
 
 - Suele utilizar su auto para movilizarse a su centro de trabajo, para ir al supermercado o pasear. No lo utiliza mucho por la congestión vehicular. Usualmente lo suele usar en los fines de semana.
 - Su mayor reto es viajar trayectos largos debido al estrés del tráfico.
@@ -537,15 +545,24 @@ Resumen:
 - Para él es importante que TakeMyCar ofrezca seguridad y garantía respecto a su auto. Se debe saber que la persona alquilando sea responsable.
 - Suele aprender sobre nuevas aplicaciones y productos para su trabajo principalmente en Facebook.
 
-Entrevista 2: Joel Chavez, 41 años, Huaraz
+<b> Entrevista 2 </b> 
 
-![Screenshot Entrevista 2](./img/screenshot-entrevista-2.png "Screenshot Entrevista 2")
+- Nombre: Joel
+- Apellidos: Chavez
+- Edad: 41 años
+- Distrito: Huaraz
+- Link de la entrevista: <a href="https://shorturl.at/JfkCk">Entrevista</a>
+- Duración: 4:00 minutos
+- Inicio de la entrevista: 0:00 
 
-Enlace: https://shorturl.at/JfkCk
-Inicio de la entrevista: 0:42
-Duracion: 4:00 minutos
+Evidencia de la reunión:
 
-Resumen:
+<div align="center">
+    <img src="./img/screenshot-entrevista-2.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+
+Resumen de la entrevista:
 
 - Utiliza frecuentemente su vehículo para movilizarse al trabajo.
 - Ha alquilado su vehículo anteriormente y menciona que el problema es hacerles un adecuado seguimiento a los vehículos para su respectivo mantenimiento.
@@ -554,21 +571,101 @@ Resumen:
 - Le gustaría que la plataforma se encuentre disponible todo el tiempo para acceder a las funcionalidades de nuestra aplicación.
 
 
-Entrevista 3:
 
-**Segmento 2: Usuarios arrendatarios**
 
-Entrevista 4:
+<br>
 
-Entrevistado: Ernesto Ruiz
+<b> Segmento Objetivo 2: </b> Usuarios arrendatarios
 
-Entrevistador: Daiki Oshiro  
+<b> Entrevista 4 </b> 
 
-Link de la entrevista: https://www.youtube.com/watch?v=eoOJoZDcQu8 
+- Nombre: Ernesto
+- Apellidos: Ruiz
+- Edad: 21 años
+- Distrito: Jesus María
+- Link de la entrevista: <a href="https://www.youtube.com/watch?v=eoOJoZDcQu8">Entrevista</a> 
+<!---
+subelo en stream
+-->
+- Duración: 3:53 minutos
+- Inicio de la entrevista: 0:01
 
-Entrevista 5:
+Evidencia de la reunión:
 
-Entrevista 6:
+<div align="center">
+    <img src="./img/screenshot-entrevista-4.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+
+Resumen de la entrevista:
+<!---
+añade tu resumen de entrevista
+-->
+- 
+- 
+- 
+- 
+- 
+
+<br>
+
+<b> Entrevista 5 </b> 
+
+- Nombre: 
+- Apellidos: 
+- Edad: 
+- Distrito: 
+- Link de la entrevista: <a href="">Entrevista</a>
+- Duración: x:xx minutos
+- Inicio de la entrevista: 0:00
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="./img/screenshot-entrevista-5.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+
+Resumen de la entrevista:
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+
+<br>
+
+<b> Entrevista 6 </b> 
+
+- Nombre: 
+- Apellidos: 
+- Edad: 
+- Distrito: 
+- Link de la entrevista: <a href="">Entrevista</a>
+- Duración: x:xx minutos
+- Inicio de la entrevista: 0:00
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="./img/screenshot-entrevista-6.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+
+Resumen de la entrevista:
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+
+<br>
 
 ### 2.2.3. Análisis de entrevistas
 
