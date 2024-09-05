@@ -235,6 +235,12 @@
 
 ## 3.1. To-Be Scenario Mapping
 
+A continuación se presenta la realizacion del To-Be Scenario Mapping por cada user persona.
+
+<img src="/img/to-be-01.png" width="1000" height="1000">
+
+<img src="/img/to-be-02.png" width="1000" height="1000">
+
 ## 3.2. User Stories
 
 ## 3.3. Impact Mapping
