@@ -500,29 +500,29 @@ link: https://lucid.app/lucidchart/ff78de06-e621-4070-b910-0f5d6735f089/edit?inv
 
 ### 4.7.2. Class Dictionary
 
-1. Usuario
+1. Usuario:
 
-Descripción: Esta clase almacena los datos básicos de los usuarios en la plataforma. Se relaciona con las reservas, los vehículos, y también se utiliza para realizar el login en la plataforma.
+Esta clase almacena los datos básicos de los usuarios en la plataforma. Se relaciona con las reservas, los vehículos, y también se utiliza para realizar el login en la plataforma.
 
-2. Propietario
+2. Propietario:
 
-Descripción: Esta clase representa a los usuarios propietarios que suben sus vehículos para alquilarlos a otros usuarios. Hereda atributos de la clase Usuario y se relaciona con los vehículos que poseen.
+Esta clase representa a los usuarios propietarios que suben sus vehículos para alquilarlos a otros usuarios. Hereda atributos de la clase Usuario y se relaciona con los vehículos que poseen.
 
-3. Arrendatario
+3. Arrendatario:
 
-Descripción: Clase que representa a los usuarios que alquilan vehículos. Hereda atributos de Usuario y se relaciona con las reservas.
+Clase que representa a los usuarios que alquilan vehículos. Hereda atributos de Usuario y se relaciona con las reservas.
 
-4. Vehiculo
+4. Vehiculo:
 
-Descripción: Esta clase almacena la información sobre los vehículos disponibles para ser alquilados en la plataforma.
+Esta clase almacena la información sobre los vehículos disponibles para ser alquilados en la plataforma.
 
-5. Reserva
+5. Reserva:
 
-Descripción: Clase que representa el proceso mediante el cual un arrendatario reserva un vehículo. Contiene información sobre las fechas de inicio y fin de la reserva, el estado, y el vehículo relacionado.
+Clase que representa el proceso mediante el cual un arrendatario reserva un vehículo. Contiene información sobre las fechas de inicio y fin de la reserva, el estado, y el vehículo relacionado.
 
-6. Pago
+6. Pago:
 
-Descripción: Esta clase gestiona la información de los pagos realizados por los arrendatarios por el alquiler de vehículos.
+Esta clase gestiona la información de los pagos realizados por los arrendatarios por el alquiler de vehículos.
 
 
 ## 4.8. Database Design
