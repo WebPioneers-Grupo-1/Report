@@ -411,7 +411,26 @@ Convenciones:
 
 ### 5.1.4. Software Deployment Configuration
 
+Para el despliegue de nuestro Landing Page, usamos las siguientes herramientas.
 
+- **Git**: Para realizar el manejo de las versiones del proyecto.
+- **GitHub**: Dentro de la plataforma tenemos un repositorio, lo usamos para almacenar todo el proyecto con sus respectivas versiones.
+- **GitFlow**: Esto permite visualizar y controlar el flujo de trabajo hecho por el equipo de desarrollo.
+- **Netlify**: Nos permite desplegar nuestro Landing Page bajo el dominio de "netlify.app".
+
+A continuación, guía inicial de como desplegamos nuestra interfaz, cabe mencionar que ya debemos de tener nuestro Landing Page dentro de un repositorio en nuestra organización:
+
+<b>1. Registramos en Netlify</b>
+
+<img src="/img/Deploy1.png">
+
+<b>2. Importamos desde Git nuestro repositorio</b>
+
+<img src="/img/Deploy2.png">
+
+<b>3. Seguir los pasos y desplegar la Landing Page</b>
+
+<img src="/img/Deploy3.png">
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
