@@ -1467,11 +1467,15 @@ facilitando la gestión de las relaciones entre ellos y asegurando la consistenc
 
 ### 4.7.1. Class Diagrams
 
+<p align = "center"> <img  alt="class-diagram" src="./img/classd.png"> </p>
+
 ### 4.7.2. Class Dictionary
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
+
+<p align = "center"> <img  alt="database-diagram" src="./img/databased.png"> </p>
 
 ---
 
