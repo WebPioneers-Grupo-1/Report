@@ -769,7 +769,7 @@ A continuación se muestra el proceso para la realización del As-Is Scenario Ma
 
 <img src="/img/image1.png" width="1000" height="1000">
 
-<img src="/img/image3.png" width="1000" height="1000">
+<img src="/img/asis.png" width="1000" height="1000">
 
 ## 2.4. Ubiquitous Language
 
