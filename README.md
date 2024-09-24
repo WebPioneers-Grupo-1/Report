@@ -309,49 +309,89 @@ Esta guía define las decisiones y acuerdos fundamentales para el desarrollo, ma
 
 ### 5.1.1. Software Development Environment Configuration
 
-Visual Studio Code: Hemos seleccionado Visual Studio Code como nuestra herramienta principal para el desarrollo web. Este editor de código ofrece un entorno robusto y flexible para manejar nuestros archivos y proyectos de manera eficiente.
+<table border="1">
 
-HTML: Utilizaremos HTML para definir la estructura básica de las páginas web de Take My Car. HTML nos permitirá construir la estructura del contenido, como encabezados, párrafos, formularios y enlaces, asegurando que nuestra página web tenga una base sólida y semánticamente correcta.
-
-CSS: Aplicaremos CSS para mejorar el aspecto visual de nuestras páginas web. CSS nos proporciona la capacidad de seleccionar colores, fuentes, y estilos, permitiéndonos personalizar el diseño y la presentación de la página según nuestras necesidades y preferencias. Utilizaremos CSS para asegurar que la interfaz de usuario sea atractiva y coherente con la identidad visual de Take My Car.
-
-JavaScript: Incorporaremos JavaScript para añadir interactividad a la página web. Esto incluirá elementos dinámicos como botones con efectos, videos multimedia, animaciones, y otras características interactivas que mejorarán la experiencia del usuario y la funcionalidad general de la página.
-
-El uso de GitHub para Take My Car asegura una gestión eficaz del código fuente, fomenta la colaboración entre los miembros del equipo, y proporciona herramientas para la automatización y seguridad del proceso de desarrollo. Estas características son esenciales para garantizar el éxito y la calidad del proyecto a lo largo de su ciclo de vida.
-
-Link del repositorio: https://github.com/WebPioneers-Grupo-1
+  <tr>
+    <td>Project Management</td>
+    <td>Microsoft 365<br>Alojamiento de los videos de entrevistas, explicación de prototipos y otros relacionados al proyecto</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Whatsapp<br>Red Social destinada a la comunicación donde se realizaron acuerdos y recordatorios de las reuniones.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Trello<br>Software de administración y gestión de proyectos que se utilizó para establecer y designar las tareas</td>
+  </tr>
+  <tr>
+    <td>Requirements Management</td>
+    <td>Structurizr<br>Structurizr es una herramienta de modelado y documentación que permitió el desarrollo de los diagramas C4</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>LucidChart<br>Herramienta de diseño para el modelado de diagramas UML.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Miro<br>Herramienta de diseño para la creación de los As-Is y To-Be Scenario Mapping</td>
+  </tr>
+  <tr>
+    <td>Product UX/UI Design</td>
+    <td>Figma<br>Herramienta que se utilizó para la creación de wireframes, mockups y prototipos.</td>
+  </tr>
+  <tr>
+    <td>Software Development</td>
+    <td>Git<br>Es un software de control de versiones para los trabajos en equipos y confiabilidad del desarrollo.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Node.js<br>Node.js es un entorno de ejecución de JavaScript del lado del servidor, que permite desarrollar aplicaciones web escalables y de alto rendimiento fuera del navegador.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>GitHub<br>Sistema de control de versiones Git.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>HTML5<br>Lenguaje de etiquetas, utilizado para la estructuración y la presentación de contenido.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>CSS<br>CSS es un lenguaje utilizado para estilizar y dar formato a documentos HTML.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>JavaScript<br>JavaScript es un lenguaje de programación de alto nivel, interpretado y multi-paradigma, utilizado para crear interactividad en páginas web.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>VScode<br>Es un editor de código fuente con extensiones que ayudan al desarrollo.</td>
+  </tr>
+    <tr>
+    <td></td>
+    <td>WebStorm<br>Es un IDE centrado en el desarrollo frontend, por su variedad de herramientas que agilizan el proceso de desarrollo.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Vue.js Framework<br>Framework basado en Single Page Applications para el desarrollo de frontend</td>
+  </tr>
+  <tr>
+    <td>Software Deployment</td>
+    <td>Netlify<br>Plataforma que nos permite realizar el despliegue de nuestro landing page.</td>
+  </tr>
+</table>
 
 ### 5.1.2. Source Code Management
 
-Para Take My Car, utilizaremos el enfoque Gitflow con GitHub para gestionar el desarrollo del proyecto. Emplearemos dos ramas principales: main, que contendrá el código de producción estable, y gh-pages, para publicar la página web en GitHub Pages. La rama develop servirá como base para integrar nuevas características y correcciones, mientras que las ramas feature/ se usarán para desarrollar nuevas funcionalidades, y las ramas hotfix/ para solucionar errores críticos en producción. Las ramas release/ se utilizarán para preparar nuevas versiones antes de su liberación.
 
-GitHub facilitará la colaboración en equipo mediante pull requests para revisar y aprobar cambios, y issues para gestionar tareas y errores. Además, GitHub Pages permitirá la visualización de una versión de ejemplo de la aplicación. Esta estructura garantiza un desarrollo organizado, seguimiento efectivo del progreso y una integración continua de cambios, mejorando la eficiencia y calidad del proyecto.
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
-Para Take My Car, implementaremos una guía de estilo de código y convenciones utilizando Astro. Esta tecnología permite crear páginas web estáticas empleando HTML, CSS y JavaScript, pero con la ventaja de que JavaScript se carga solo cuando es necesario, lo que ayuda a reducir el tamaño del código en producción.
 
-Además, Astro facilita la creación de componentes reutilizables. Por ejemplo, podemos desarrollar un componente para el listado de autos, donde cada auto se representa mediante un componente individual que renderiza sus detalles. Esto nos permitirá construir listas de autos y otros elementos de la interfaz reutilizando estos componentes y ajustando sus propiedades según sea necesario. Esta metodología no solo optimiza el rendimiento de la página, sino que también mejora la mantenibilidad y consistencia del código en Take My Car.
 
 ### 5.1.4. Software Deployment Configuration
 
-En este apartado, abordaremos el despliegue de la Landing Page de Take My Car utilizando GitHub. A continuación, se describen los pasos para habilitar el acceso a la página de destino de Take My Car y se incluirán capturas de pantalla para ilustrar el proceso.
 
-Vista del repositorio:
-
-<img src="/img/rep.png">
-
-Vista del avance:
-
-<img src="/img/rep2.png">
-
-Commits:
-
-<img src="/img/commit.png">
-
-Landing page:
-
-<img src="/img/rep3.png">
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
