@@ -33,6 +33,8 @@
 
 <h3 align="center">Agosto, 2024</h3>
 
+<div style="page-break-after: always;"></div>
+
 # Registro de Versiones del Informe
 
 | Versión | Fecha | Autor | Descripción de modificación |
@@ -40,6 +42,8 @@
 |TB1|05/09/2024|Chavez,Cruz,Oshiro,Rivera y Zuniga|Se añadió los capítulos 1 al 5|
 
 # Project Report Collaboration Insights
+
+<div style="page-break-after: always;"></div>
 
 # Contenido
 
@@ -149,12 +153,16 @@
 
 [Anexos](#anexos-1)
 
+<div style="page-break-after: always;"></div>
+
 # Student Outcome
 
 | Criterio específico                                                                                                                                 | Acciones realizadas | Conclusiones |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ | :----------- |
 | Diseñar soluciones en ingeniería de software (productos, procesos y/o servicios) que satisfagan necesidades específicas considerando el impacto en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos|Desarrollo de los capítulos del 1 al 5|Se comcluye que la plataforma debe priorizar la seguridad tanto de los vehículos como de los usuarios. Esto incluye funciones que permitan realizar inspecciones técnicas automáticas y verificaciones del historial del automóvil para asegurar que los vehículos alquilados cumplan con las normativas de seguridad vial. Además, la plataforma puede incluir alertas sobre mantenimiento necesario para evitar accidentes.|
 |Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos|Desarrollo de los capítulos del 1 al 5|Validar el diseño de TakeMyCar desde estos criterios asegura que la plataforma no solo cumple con su propósito funcional, sino que también contribuye positivamente a la seguridad, el bienestar social y la sostenibilidad. Realizar pruebas de usabilidad, encuestas a usuarios, análisis de datos ambientales y económicos, y adaptación a normativas globales garantizará que la solución responda a los desafíos locales y globales, generando un impacto positivo y sostenible a largo plazo.|
+
+<div style="page-break-after: always;"></div>
 
 # Capitulo I: Introduccion
 
@@ -343,6 +351,8 @@ Aspectos psicograficos:
 - Usuarios que gasten demasiadas horas semanales dentro del tráfico y el transporte público. 
 - Personas que no tienen la posibilidad de adquirir un auto nuevo o seminuevo para ciertas ocasiones. 
 - Personas que necesitan un medio de transporte propio por un tiempo corto de uso.
+
+<div style="page-break-after: always;"></div>
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -893,6 +903,8 @@ A continuación se especifican los términos y conceptos usadas en nuestro busin
 - Insurance Coverage (Cobertura de seguro): Protección proporcionada al vehículo durante el alquiler.
 - Vehicle Inspection (Verificación del vehículo): Proceso en el cual el propietario y el arrendatario revisan juntos el estado del vehículo antes y después del alquiler, para garantizar que no haya daños o problemas mecánicos.
 
+<div style="page-break-after: always;"></div>
+
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
@@ -1220,7 +1232,7 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
     </tbody>
 </table>
 
----
+<div style="page-break-after: always;"></div>
 
 # Capítulo IV: Product Design
 
@@ -1477,7 +1489,7 @@ facilitando la gestión de las relaciones entre ellos y asegurando la consistenc
 
 <p align = "center"> <img  alt="database-diagram" src="./img/databased.png"> </p>
 
----
+<div style="page-break-after: always;"></div>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1567,11 +1579,15 @@ Landing page:
 
 ## 5.4. Video About-the-Product
 
+<div style="page-break-after: always;"></div>
+
 # Conclusiones
 
 ## Conclusiones y recomendaciones
 
 El proyecto ha avanzado significativamente en términos de diseño, funcionalidad e interactividad. Las mejoras en el estilo, la implementación de funciones clave y la coherencia del diseño contribuyen a una experiencia de usuario más fluida y profesional. Continuar con las pruebas y ajustes basados en la retroalimentación del usuario ayudará a perfeccionar aún más la plataforma.
+
+<div style="page-break-after: always;"></div>
 
 # Bibliografía
 
@@ -1582,5 +1598,7 @@ Brown, T. (2019). Automobile technology and management. Springer.
 Avis Budget Group. (2024). Innovations in car rental services. Recuperado de https://www.avisbudgetgroup.com/innovationsEnterprise 
 
 Holdings. (2024). Sustainability and technology in fleet management. Recuperado de https://www.enterpriseholdings.com/sustainability
+
+<div style="page-break-after: always;"></div>
 
 # Anexos
