@@ -759,18 +759,25 @@ User Journey Mapping para María López:
 
 A continuación se muestra el proceso para la realización del Empathy Mapping para los User Persona con el fin de entender lo que piensa, siente, oye, hace y observa.
 
-<img src="/img/image2.png" width="1000" height="1000">
+<div align="center">
+    <img src="./img/image2.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
-<img src="/img/image4.png" width="1000" height="1000">
+<div align="center">
+    <img src="./img/image4.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
 ### 2.3.5. As-is Scenario Mapping
 
 A continuación se muestra el proceso para la realización del As-Is Scenario Mapping para los User Persona.
 
-<img src="/img/image1.png" width="1000" height="1000">
+<div align="center">
+    <img src="./img/image1.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
-<img src="/img/asis.png" width="1000" height="1000">
-
+<div align="center">
+    <img src="./img/asis.png" style="margin: 10px 0;" width="80%"/>
+</div>
 ## 2.4. Ubiquitous Language
 
 En esta sección definiremos los términos y conceptos que utilizaremos en nuestro business domain. Este glosario permitirá la comunicación entre los stakeholders y los miembros del equipo.
