@@ -516,7 +516,7 @@ Descripción: Clase que representa a los usuarios que alquilan vehículos. Hered
 
 Descripción: Esta clase almacena la información sobre los vehículos disponibles para ser alquilados en la plataforma.
 
-5. Reservs
+5. Reserva
 
 Descripción: Clase que representa el proceso mediante el cual un arrendatario reserva un vehículo. Contiene información sobre las fechas de inicio y fin de la reserva, el estado, y el vehículo relacionado.
 
@@ -529,7 +529,8 @@ Descripción: Esta clase gestiona la información de los pagos realizados por lo
 
 ### 4.8.1. Database Diagram
 
-<br><br>
+<p align = "center"> <img  alt="component-diagram-publisher" src="img/databased.png"> </p>
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
