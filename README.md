@@ -23,8 +23,6 @@
 
 <h3> Team Members: </h3>
 
-<div align="center">
-
 | Member                           |    Code    |
 | :------------------------------- | :--------: |
 | Chavez Uribe, Ario Joel | U202213468 |
@@ -33,40 +31,29 @@
 | Rivera Ayala, Gabriel Alejandro | U202223279 |
 | Zuniga Calle, Sebastian Gabriel | U20221b479 |
 
-</div>
-
 <h3 align="center">Agosto, 2024</h3>
 
-<br><br>
-
 # Registro de Versiones del Informe
-
-<div align="center">
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-------: | :---------: | :----------------: | :----------------------:|
 |TB1|05/09/2024|Chavez,Cruz,Oshiro,Rivera y Zuniga|Se añadió los capítulos 1 al 5|
-</div>
-
----
 
 # Project Report Collaboration Insights
-
----
 
 # Contenido
 
 ## Tabla de Contenidos
 
-### [Registro de versiones del informe](#registro-de-versiones-del-informe)
+[Registro de versiones del informe](#registro-de-versiones-del-informe)
 
-### [Project Report Collaboration Insights](#project-report-collaboration-insights)
+[Project Report Collaboration Insights](#project-report-collaboration-insights)
 
-### [Contenido](#contenido)
+[Contenido](#contenido)
 
-### [Student Outcome](#student-outcome-1)
+[Student Outcome](#student-outcome-1)
 
-### [Capítulo I: Introducción](#capitulo-i-introduccion)
+[Capítulo I: Introducción](#capitulo-i-introduccion)
 
 - [1.1. Startup Profile](#11-startup-profile)
 
@@ -83,7 +70,7 @@
     - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-### [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis-1)
+[Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis-1)
 
 - [2.1. Competidores](#21-competidores)
   - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
@@ -99,14 +86,14 @@
   - [2.3.4. Empathy Mapping](#234-empathy-mapping)
   - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 
-### [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification-1)
+[Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification-1)
 
 - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
 - [3.2. User Stories](#32-user-stories)
 - [3.3. Impact Mapping](#33-impact-mapping)
 - [3.4. Product Backlog](#34-product-backlog)
 
-### [Capítulo IV: Product Design](#capitulo-iv-product-design-1)
+[Capítulo IV: Product Design](#capitulo-iv-product-design-1)
 
 - [4.1. Style Guidelines](#41-style-guidelines)
   - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
@@ -136,7 +123,7 @@
 - [4.8. Database Design](#48-database-design)
   - [4.8.1. Database Diagram](#481-database-diagram)
 
-### [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment-1)
+[Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment-1)
 
 - [5.1. Software Configuration Management](#51-software-configuration-management)
   - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
@@ -154,27 +141,20 @@
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
-### [Conclusiones](#conclusiones-1)
+[Conclusiones](#conclusiones-1)
 
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
-### [Bibliografía](#bibliografc3ada-1)
+[Bibliografía](#bibliografc3ada-1)
 
-### [Anexos](#anexos-1)
-
-<br><br>
+[Anexos](#anexos-1)
 
 # Student Outcome
-
-<div align="center">
 
 | Criterio específico                                                                                                                                 | Acciones realizadas | Conclusiones |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ | :----------- |
 | Diseñar soluciones en ingeniería de software (productos, procesos y/o servicios) que satisfagan necesidades específicas considerando el impacto en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos|Desarrollo de los capítulos del 1 al 5|Se comcluye que la plataforma debe priorizar la seguridad tanto de los vehículos como de los usuarios. Esto incluye funciones que permitan realizar inspecciones técnicas automáticas y verificaciones del historial del automóvil para asegurar que los vehículos alquilados cumplan con las normativas de seguridad vial. Además, la plataforma puede incluir alertas sobre mantenimiento necesario para evitar accidentes.|
 |Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos|Desarrollo de los capítulos del 1 al 5|Validar el diseño de TakeMyCar desde estos criterios asegura que la plataforma no solo cumple con su propósito funcional, sino que también contribuye positivamente a la seguridad, el bienestar social y la sostenibilidad. Realizar pruebas de usabilidad, encuestas a usuarios, análisis de datos ambientales y económicos, y adaptación a normativas globales garantizará que la solución responda a los desafíos locales y globales, generando un impacto positivo y sostenible a largo plazo.|
-
-</div>
----
 
 # Capitulo I: Introduccion
 
@@ -186,22 +166,21 @@ En el texto presente a continuación, vamos a describir de manera detallada nues
 
 Esta empresa ha desarrollado una plataforma digital que funciona como intermediario entre propietarios de vehículos y posibles arrendatarios. La plataforma integra vehículos bajo nuestro nombre, actuando como una flota virtual, pero sin la necesidad de una inversión inicial en vehículos. Nuestro modelo de negocio se basa en conectar a propietarios con arrendatarios interesados, ofreciendo precios competitivos y beneficios para ambas partes. Los propietarios reciben una remuneración únicamente cuando su vehículo es alquilado, lo que garantiza un enfoque eficiente y rentable.
 
-### Misión:
+Misión:
 Nuestra misión es facilitar el acceso a vehículos de alquiler de alta calidad, conectando a propietarios y arrendatarios de manera segura y eficiente. Nos esforzamos por ofrecer un servicio que maximice el valor para ambas partes, proporcionando una plataforma confiable y accesible para todos nuestros usuarios.
 
-### Visión:
+Visión:
 Convertirnos en la plataforma líder en el mercado de alquiler de vehículos en Perú, reconocidos por nuestra innovación y eficiencia en conectar a propietarios y arrendatarios. Queremos ser la referencia principal para aquellos que buscan alquilar un vehículo sin complicaciones, ofreciendo un servicio integral y de alta calidad.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
 | Integrantes | Descripción | Conocimientos |
 | :--- | :--- | :--- |
-| <img src="/img/foto01.png" width="100" height="100"> <br>Daiki Oscar Oshiro Yamashita u20201f846 | Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro. | Cuento con el conocimiento de diversos lenguajes HTML, Python, C++, C# y MySQL. |
-| <img src="/img/foto02.png" width="100" height="100"> <br>Sebastian Gabriel Zuniga Calle u20221b479 | Soy estudiante de la carrera de Ingeniería de Software. Mis intereses se basan en aprender nuevas tecnologías, desarrollo en web y aplicaciones. | Poseo conocimientos en los lenguajes de programación: C++, Python, JavaScript y C#. Listo para ayudar en el desarrollo y solución de problemas. |
-| <img src="/img/foto03.png" width="100" height="100"> <br>Ario Joel Chavez Uribe u202213468 | Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en aprender sobre nuevas tecnologías, el desarrollo web y de aplicaciones. | Poseo conocimientos en los lenguajes de programación: C++, Python, HTML y MySQL. Útiles para el desarrollo y solución del proyecto. |
-| <img src="/img/foto04.jpg" width="100" height="100"> <br>Aaron Alejandro Cruz Ticona | Me encuentro inmerso en la carrera de Ingeniería de Software. Me considero una persona curiosa, lo que me lleva a tener constante interés en aprender nuevas cosas y espero hacerlo en este curso. | Personalmente, poseo conocimientos en lo que a el mundo de la programación se refiere: En C++, Python, HTML, CSS, SQL, entre otros a futuro. |
-| <img src="/img/foto05.png" width="100" height="100"> <br>Gabriel Alejandro Rivera Ayala u202223279 | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. | He desarrollado proyectos en C++, Python, HTML, SQL y C#. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo. |
-
+| <img src="./img/foto01.png" width="100" height="100"> <br>Daiki Oscar Oshiro Yamashita u20201f846 | Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro. | Cuento con el conocimiento de diversos lenguajes HTML, Python, C++, C# y MySQL. |
+| <img src="./img/foto02.png" width="100" height="100"> <br>Sebastian Gabriel Zuniga Calle u20221b479 | Soy estudiante de la carrera de Ingeniería de Software. Mis intereses se basan en aprender nuevas tecnologías, desarrollo en web y aplicaciones. | Poseo conocimientos en los lenguajes de programación: C++, Python, JavaScript y C#. Listo para ayudar en el desarrollo y solución de problemas. |
+| <img src="./img/foto03.png" width="100" height="100"> <br>Ario Joel Chavez Uribe u202213468 | Soy un estudiante de la carrera de Ingeniería de Software. Tengo interés en aprender sobre nuevas tecnologías, el desarrollo web y de aplicaciones. | Poseo conocimientos en los lenguajes de programación: C++, Python, HTML y MySQL. Útiles para el desarrollo y solución del proyecto. |
+| <img src="./img/foto04.jpg" width="100" height="100"> <br>Aaron Alejandro Cruz Ticona | Me encuentro inmerso en la carrera de Ingeniería de Software. Me considero una persona curiosa, lo que me lleva a tener constante interés en aprender nuevas cosas y espero hacerlo en este curso. | Personalmente, poseo conocimientos en lo que a el mundo de la programación se refiere: En C++, Python, HTML, CSS, SQL, entre otros a futuro. |
+| <img src="./img/foto05.png" width="100" height="100"> <br>Gabriel Alejandro Rivera Ayala u202223279 | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. | He desarrollado proyectos en C++, Python, HTML, SQL y C#. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo. |
 
 ## 1.2. Solution Profile
 
@@ -209,64 +188,64 @@ Convertirnos en la plataforma líder en el mercado de alquiler de vehículos en 
 
 Para describir nuestra startup de forma ordenada y organizada, emplearemos un técnica que responderá a preguntas básicas del 5W y 2H.
 
-### Antecedentes
+**Antecedentes**
 - Debido a un aumento significativo en la demanda de soluciones en cuanto a la movilidad temporal y flexible, existe la necesidad de una plataforma que simplifique las comunicaciones entre los dueños y los arrendatarios para el alquiler de vehículos mediante un aplicativo.
-### Problemática
+**Problemática**
 - El problema principal radica en la falta de plataformas que faciliten el alquiler de vehículos de manera directa entre propietarios y arrendatarios ha creado una barrera para aquellos que requieran dun automóvil de manera rápida y temporal. Lo que limita a los arrendatarios y perjudica a los propietarios al no poder rentabilizar sus vehículos
 
-#### Técnica de las 5 'W's y 2' H's
+Técnica de las 5 'W's y 2' H's
 
-### ¿Qué?
+**¿Qué?**
 *Refiere a la razón por la cual se está llevando a cabo este proyecto. Suele responder las siguientes preguntas:*
-* #### ¿Cuál es el problema?
+¿Cuál es el problema?
 Falta de plataformas que faciliten el alquiler de vehículos de manera directa entre propietarios que desean rentabilizar sus vehículos y los arrendatarios que enfrentan dificultades para encontrar opciones accesibles y confiables de alquiler de vehículos.
-* #### ¿Cuál es la relación con la persona en cuestión?
+¿Cuál es la relación con la persona en cuestión?
 Se relaciona con los propietarios de vehículos, que no encuentran una manera eficiente para ofrecer sus vehículos en alquiler y a los arrendatarios que encuentran dificultades para encontrar opciones accesibles y confiables.
 
-### ¿Cuándo?
+**¿Cuándo?**
 *Refiere al momento o periodo de tiempo en el cual ocurra el evento. Suele responder las siguientes preguntas:*
-* #### ¿Cuándo sucede el problema?
+¿Cuándo sucede el problema?
 El problema ocurre cuando los propietarios desean alquilar sus vehículos pero no cuentan con un canal adecuado para hacerlo, y los arrendatarios necesitan de un vehículo para un uso momentáneo o de corta duración, pero no cuentan con opciones viables.
-* #### ¿Cuándo utiliza el cliente el producto?
+¿Cuándo utiliza el cliente el producto?
 El producto se utiliza cuando los propietarios listan sus vehículos para alquiler y los arrendatarios buscan y reservan un vehículo que cumpla con sus especificaciones e indicando su utilidad, ya sea un viaje, una emergencia, o cualquier necesidad requerida.
 
-### ¿Dónde?
+**¿Dónde?**
 *Refiere al lugar en el que se lleva a cabo el problema. Suele responder las siguientes preguntas:*
-* #### ¿Dónde está el cliente cuando usa el producto?
+¿Dónde está el cliente cuando usa el producto?
 Ya sea propietario o arrendatario, puede usar la plataforma desde cualquier lugar con acceso a internet como su hogar, lugar de trabajo, o mientras está en movimiento.
-* #### ¿A dónde se dirige?
+¿A dónde se dirige?
 La aplicación se dirige a propietarios de vehículos que desean generar ingresos adicionales a través del alquiler y a arrendatarios que buscan opciones flexibles y seguras para alquilar un vehículo.
-* #### ¿Dónde surge el problema?
+¿Dónde surge el problema?
 El problema surge principalmente en zonas urbanas donde la necesidad de movilidad es alta, pero la oferta de plataformas de alquiler de vehículos es limitada.
 
-### ¿Quiénes?
+**¿Quiénes?**
 *Ayuda a obtener información importante de todas las personas involucradas debido a que es posible que haya varios tipos de cliente. Suele responder las siguientes preguntas:*
-* #### ¿Quiénes están involucrados?
+¿Quiénes están involucrados?
 En nuestra plataforma están involucrados los propietarios de vehículos que desean alquilarlos y los arrendatarios que buscan alquilar un vehículo de manera rápida y sin complicaciones.
-* #### ¿A quiénes le sucede el problema?
+¿A quiénes le sucede el problema?
 El problema afecta principalmente a los propietarios que no logran rentabilizar sus vehículos y a los arrendatarios que enfrentan dificultades para encontrar opciones de alquiler inmediatas y confiables.
-* #### ¿Quién lo utilizará?
+¿Quién lo utilizará?
 La plataforma será utilizada por propietarios de vehículos que desean poner en alquiler sus vehículos y por arrendatarios que necesitan una solución de movilidad temporal.
 
-### ¿Por qué?
+**¿Por qué?**
 *Refiere al causante o desencadenante del problema abordado. Suele responder la siguiente pregunta:*
-* #### ¿Cuál es la causa del problema?
+¿Cuál es la causa del problema?
 La causa del problema es la falta de una plataforma que conecte de manera eficiente y segura a propietarios de vehículos con arrendatarios, limitando las opciones de alquiler y y rentabilidad para los propietarios.
 
-### ¿Cómo?
+**¿Cómo?**
 *Refiere a cómo se llevan a cabo los hechos para explicar una situación. Suele responder las siguientes preguntas:*
-* #### ¿En qué condiciones los clientes usan nuestros productos?
+¿En qué condiciones los clientes usan nuestros productos?
 Nuestros clientes utilizan la plataforma cuando necesitan rentabilizar su vehículo (propietarios) o cuando necesitan acceder rápidamente a un vehículo para un uso específico (arrendatarios).
-* #### ¿Cómo nos conocieron los usuarios?
+¿Cómo nos conocieron los usuarios?
 Los usuarios conocieron la plataforma a través de publicidad en redes sociales, recomendaciones de otros usuarios, y campañas de marketing orientadas a los servicios de movilidad.
-* #### ¿Qué llevó al cliente a llegar a esta situación?
+¿Qué llevó al cliente a llegar a esta situación?
 Lo que llevó al cliente a esta situación fue la necesidad de una solución confiable y accesible para alquilar vehículos, ya sea para rentabilizar (propietarios) o para una necesidad temporal de movilidad (arrendatarios).
 
-### ¿Cuánto cuesta?
+**¿Cuánto cuesta?**
 *Refiere a los costos asociados con el uso de la plataforma.*
-* #### Costos para los propietarios:
+Costos para los propietarios:
 No hay costos iniciales para los propietarios; ellos solo pagan una comisión cuando su vehículo es alquilado.
-* #### Costos para los arrendatarios:
+Costos para los arrendatarios:
 Los precios de alquiler son variables, ofreciendo alternativas económicas y flexibles frente a las opciones tradicionales de alquiler de vehículos.
 
 ### 1.2.2. Lean UX Process
@@ -283,7 +262,7 @@ Finalmente, podremos sentir el trabajo concluido cuando veamos un numero conside
 
 #### 1.2.2.2. Lean UX Assumptions
 
-<b>Segmento de Usuarios:</b>
+**Segmento de Usuarios:**
 
 ¿Quién es el usuario?
 
@@ -301,7 +280,7 @@ Los propietarios nos contactaran principalmente para listar sus vehículos y mon
 
 Un posible desafío es asegurar la confianza y satisfacción de los propietarios de vehículos en cuanto a la seguridad y cuidado de sus activos, y garantizar que los arrendatarios encuentren la experiencia de alquiler simple, rápida y sin complicaciones.
 
-<b>Business Outcomes:</b>
+**Business Outcomes:**
 
 - Creemos que a nuestros clientes les interesaría una plataforma que les permita alquilar sus vehículos sin gestión operativa y a los arrendatarios les ofrecería una opción accesible y diversa de vehículos.
 
@@ -321,64 +300,49 @@ Un posible desafío es asegurar la confianza y satisfacción de los propietarios
 
 #### 1.2.2.4. Lean UX Canvas
 
-<img src="/img/leanuxcanva.png" >
+<img src="./img/leanuxcanva.png" >
 
 # 1.3. Segmentos Objetivo
 
-<h3> Segmento #1: Propietarios de vehículos</h3>
+**Segmento #1: Propietarios de vehículos**
 
-<b>Aspectos demográficos:</b>
+Aspectos demográficos:
 
-<ul>
-  <li> Sexo: Masculino y Femenino </li>
-  <li> Edades: Entre 18 y 60 años </li>
-  <li> Nivel Socioeconómico: Clases A, B y C (Clase alta, clase media alta y clase media) </li>
-</ul>
+- Sexo: Masculino y Femenino 
+- Edades: Entre 18 y 60 años 
+- Nivel Socioeconómico: Clases A, B y C (Clase alta, clase media alta y clase media)
 
-<b>Aspectos geográficos:</b>
+Aspectos geográficos:
 
-<ul>
-  <li> Nacionalidad: Peruana </li>
-  <li> Zona Geográfica de Residencia: Urbana </li>
-  <li> Departamento: Lima Metropolitana </li>
-</ul>
+- Nacionalidad: Peruana 
+- Zona Geográfica de Residencia: Urbana 
+- Departamento: Lima Metropolitana 
 
-<b>Aspectos psicograficos:</b>
+Aspectos psicograficos:
 
-<ul>
-  <li> Personas naturales o jurídicas que no utilicen con frecuencia su activo (vehículo). </li>
-  <li> Personas que deseen obtener ingresos pasivos sin la necesidad de invertir un gran cantidad de su tiempo. </li>
-  <li> Personas que no encuentran una manera rápida y confiable de alquilar sus vehículos. </li>
-</ul>
+- Personas naturales o jurídicas que no utilicen con frecuencia su activo (vehículo). 
+- Personas que deseen obtener ingresos pasivos sin la necesidad de invertir un gran cantidad de su tiempo. 
+- Personas que no encuentran una manera rápida y confiable de alquilar sus vehículos.
 
-<br>
-<h3> Segmento #2: Usuarios Arrendatarios </h3>
+**Segmento #2: Usuarios Arrendatarios**
 
-<b>Aspectos demográficos:</b>
+Aspectos demográficos:
 
-<ul>
-  <li> Sexo: Masculo y Femenino </li>
-  <li> Edades: Entre 18 y 50 años </li>
-  <li> Nivel Socioeconómico: Clases A. B y C (Clase alta, clase media alta y clase media) </li>
-</ul>
+- Sexo: Masculo y Femenino 
+- Edades: Entre 18 y 50 años 
+- Nivel Socioeconómico: Clases A. B y C (Clase alta, clase media alta y clase media) 
 
-<b>Aspectos geográficos:</b>
+Aspectos geográficos:
 
-<ul>
-  <li> Nacionalidad: Peruana </li>
-  <li> Zona Geográfica de Residencia: Urbana </li>
-  <li> Departamento: Lima Metropolitana </li>
-</ul>
+- Nacionalidad: Peruana 
+- Zona Geográfica de Residencia: Urbana 
+- Departamento: Lima Metropolitana 
 
-<b>Aspectos psicograficos:</b>
+Aspectos psicograficos:
 
-<ul>
-  <li> Usuarios que gasten demasiadas horas semanales dentro del tráfico y el transporte público. </li>
-  <li> Personas que no tienen la posibilidad de adquirir un auto nuevo o seminuevo para ciertas ocasiones. </li>
-  <li> Personas que necesitan un medio de transporte propio por un tiempo corto de uso. </li>
-</ul>
-
-<br>
+- Usuarios que gasten demasiadas horas semanales dentro del tráfico y el transporte público. 
+- Personas que no tienen la posibilidad de adquirir un auto nuevo o seminuevo para ciertas ocasiones. 
+- Personas que necesitan un medio de transporte propio por un tiempo corto de uso.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -398,53 +362,53 @@ A continuación se presenta un análisis competitivo de las empresas que ofrecen
   </tr>
   <tr>
     <td>¿Por qué llevar a cabo este análisis?</td>
-    <td  colspan="5">Este análisis fue realizado con el propósito de estudiar el valor ofrecido por las empresas que compiten con nuestra solucion. La informacion obtenida nos proporcionará la perspectiva necesaria para la realizacion de un servicio innovador.
+    <td colspan="5">Este análisis fue realizado con el propósito de estudiar el valor ofrecido por las empresas que compiten con nuestra solucion. La informacion obtenida nos proporcionará la perspectiva necesaria para la realizacion de un servicio innovador.
     </td>
   </tr>
   
   <tr>
     <td colspan="2"></td>
-    <td ><b>TakeMyCar</b></td>
-    <td ><b>Rento</b></td>
-    <td ><p><b>Hertz</b></p></td>
-    <td ><p><b>Avis</b></p></td>
+    <td><b>TakeMyCar</b></td>
+    <td><b>Rento</b></td>
+    <td><p><b>Hertz</b></p></td>
+    <td><p><b>Avis</b></p></td>
   </tr>
   
   <tr>
     <td rowspan="2">
       <b>Perfil</b>
     </td>
-    <td >
+    <td>
       <b>Overview</b>
     </td>
-    <td >
+    <td>
       <p>Plataforma web y aplicación móvil para gestión de alquileres P2P, pagos y monitoreo de vehículos.
     </td>
-    <td >
+    <td>
       <p>Plataforma web y aplicación móvil que facilita el alquiler de vehículos de particulares
     </td>
-    <td >
+    <td>
       <p>Plataforma web y aplicación móvil que facilita el alquiler de vehículos tanto en aeropuertos como en ciudades.
     </td>
-    <td >
+    <td>
       <p>Aplicacion de reservas de autos en línea
     </td>
   </tr>
   
   <tr>
-    <td >
+    <td>
       <b>Ventaja competitiva ¿Qué valor ofrece a los clientes?</b>
     </td>
-    <td >
+    <td>
       <p>Flexibilidad en precios y disponibilidad, y generación de ingresos para los propietarios sin necesidad de inversión en flota.
     </td>
-    <td >
+    <td>
       <p>Modelo peer-to-peer que permite a los propietarios generar ingresos pasivos con su vehículo. Seguridad para ambas partes a través de seguros todo riesgo y monitoreo GPS.
     </td>
-    <td >
+    <td>
       <p>Red global de ubicaciones, servicio confiable y una amplia variedad de vehículos. Reputación consolidada y un fuerte programa de fidelización.
     </td>
-    <td >
+    <td>
       <p>Enfoque en el servicio al cliente de alta calidad, con una variedad de opciones de vehículos y soluciones tanto para clientes particulares como corporativos.
     </td>
   </tr>
@@ -453,46 +417,46 @@ A continuación se presenta un análisis competitivo de las empresas que ofrecen
     <td rowspan="2" >
       <b>Perfil de Marketing</b>
     </td>
-    <td >
+    <td>
       <b>Mercado objetivo</b>
     </td>
-    <td >
+    <td>
       <p>Propietarios de vehículos que desean alquilarlos cuando no los usan.
       <p>Arrendatarios que buscan opciones más económicas y flexibles que las ofrecidas por las grandes empresas de alquiler.
     </td>
-    <td >
+    <td>
       <p>Propietarios de vehículos que buscan generar ingresos cuando no usan sus autos.
       <p>Arrendatarios que buscan opciones más económicas y flexibles que las ofrecidas por las grandes empresas de alquiler.
     </td>
-    <td >
+    <td>
       <p>Turistas internacionales y locales.<p>Ejecutivos y viajeros de negocios.
       <p>Clientes que necesitan autos por períodos cortos o largos.
     </td>
-    <td >
+    <td>
       <p>Turistas y viajeros de negocios.
       <p>Empresas que buscan alquileres a largo plazo o soluciones corporativas.
     </td>
   </tr>
   
   <tr>
-    <td >
+    <td>
       <b>Estrategias de marketing</b>
     </td>
-    <td >
+    <td>
       <p>Publicidad en redes sociales.
       <p>Promociones con descuentos en los primeros alquileres.
       <p>Alianzas estratégicas con aseguradoras para ofrecer seguridad y confianza.
     </td>
-    <td >
+    <td>
       <p>-Publicidad digital en redes sociales y campañas de concientización sobre la economía colaborativa.
       <p>Alianzas con aseguradoras para ofrecer seguros integrados.
     </td>
-    <td >
+    <td>
       <p>Publicidad en aeropuertos, marketing digital, y promociones a través de programas de fidelización.
       <p>Presencia en ferias y eventos de turismo.
       <p>Alianzas con aerolíneas y agencias de viajes.
     </td>
-    <td >
+    <td>
       <p>Marketing dirigido a clientes corporativos y viajeros frecuentes.
       <p>Promociones digitales y descuentos a través de alianzas con aerolíneas y hoteles.
       <p>Programas de fidelizacion
@@ -503,67 +467,67 @@ A continuación se presenta un análisis competitivo de las empresas que ofrecen
     <td rowspan="3" >
       <b>Perfil de Producto</b>
     </td>
-    <td >
+    <td>
       <b>Productos y Servicios</b>
     </td>
-    <td >
+    <td>
       <p>Alquiler de vehículos particulares.
       <p>Seguro y monitoreo GPS integrados.
       <p>Opciones de alquiler a corto y mediano plazo.
     </td>
-    <td >
+    <td>
       <p>Alquiler de vehículos particulares a corto y mediano plazo.
       <p>Seguro todo riesgo y monitoreo en tiempo real.
       <p>Opciones de reserva directa y pagos a través de la app.
     </td>
-    <td >
+    <td>
       <p>Alquiler de autos estándar, SUV, autos de lujo, y vehículos comerciales.
       <p>Seguros, GPS, y recogida/entrega en ubicaciones seleccionadas.
     </td>
-    <td >
+    <td>
       <p>Autos económicos, SUV, vehículos de lujo, y comerciales.
       <p>Alquileres a largo plazo para clientes corporativos.
     </td>
   </tr>
   
   <tr>
-    <td >
+    <td>
       <b>Precios y Costos</b>
     </td>
-    <td >
+    <td>
       <p>Precios más bajos que las compañías tradicionales de alquiler debido a la ausencia de una flota física. 
       <p>Bajos costos operativos gracias al modelo P2P. 
     </td>
-    <td >
+    <td>
       <p>Precios dinámicos y más bajos que los de las empresas tradicionales de alquiler.
       <p>Bajos costos operativos debido a la ausencia de una flota física.
     </td>
-    <td >
+    <td>
       <p>Tarifas diarias o semanales, generalmente más altas que servicios P2P debido a la infraestructura y la cobertura global.
       <p>Descuentos para clientes recurrentes y programas de fidelización.
     </td>
-    <td >
+    <td>
       <p>Precios premium, con descuentos para empresas y clientes recurrentes.
       <p>Altos costos operativos debido a la amplia infraestructura y mantenimiento de vehículos.
     </td>
   </tr>
   
   <tr>
-    <td >
+    <td>
       <b>Canales de distribución (Web y/o móvil)</b>
     </td>
-    <td >
+    <td>
       <p>Plataforma web y aplicación móvil.
       <p>Colaboraciones con aseguradoras y promociones digitales.
     </td>
-    <td >
+    <td>
       <p>Plataforma web y aplicación móvil.
       <p>Asociaciones con aseguradoras y redes sociales.
     </td>
-    <td >
+    <td>
       <p>Plataforma web, aplicación móvil, y oficinas físicas en aeropuertos y ciudades.
     </td>
-    <td >
+    <td>
       <p>Plataforma web, aplicación móvil, y oficinas físicas en aeropuertos y centros comerciales.
     </td>
   </tr>
@@ -577,11 +541,11 @@ A continuación se presenta un análisis competitivo de las empresas que ofrecen
     </td>
   </tr>
   <tr>
-    <td ><b>Fortalezas</b></td>
-    <td >
+    <td><b>Fortalezas</b></td>
+    <td>
       <p>Modelo flexible y económico, bajos costos operativos, facilidad de uso.
     </td>
-    <td >
+    <td>
       <p>Modelo flexible y seguro, costos operativos bajos.
     </td>
     <td>
@@ -592,11 +556,11 @@ A continuación se presenta un análisis competitivo de las empresas que ofrecen
     </td>
   </tr>
   <tr>
-    <td ><b>Debilidades</b></td>
-    <td >
+    <td><b>Debilidades</b></td>
+    <td>
       <p>Menor infraestructura y recursos comparados con las empresas tradicionales.
     </td>
-    <td >
+    <td>
       <p>Dependencia de la confianza en la plataforma y en los seguros.
     </td>
     <td>
@@ -607,11 +571,11 @@ A continuación se presenta un análisis competitivo de las empresas que ofrecen
     </td>
   </tr>
   <tr>
-    <td ><b>Oportunidades</b></td>
-    <td >
+    <td><b>Oportunidades</b></td>
+    <td>
       <p>Rápida adopción de soluciones de movilidad compartida, especialmente en mercados emergentes.
     </td>
-    <td >
+    <td>
       <p>Crecimiento del mercado de la economía colaborativa.
     </td>
     <td>
@@ -622,11 +586,11 @@ A continuación se presenta un análisis competitivo de las empresas que ofrecen
     </td>
   </tr>
   <tr>
-    <td ><b>Amenazas</b></td>
-    <td >
+    <td><b>Amenazas</b></td>
+    <td>
       <p>Regulaciones locales y competencia de otras plataformas P2P establecidas.
     </td>
-    <td >
+    <td>
       <p>Regulaciones gubernamentales y competencia emergente en el sector P2P.
     </td>
     <td>
@@ -684,7 +648,9 @@ Con el objetivo de comprender la necesidad y la demanda en nuestro sector por pa
 - ¿Con que frecuencia te transportas en el día a día?
 - ¿Cuánto dinero crees que gastas en movilizarte cada semana?
 - ¿Si tuvieras un auto, cuál sería el principal uso que le darías?
-- ¿Alguna vez pensaste en alquilar un auto? Si la respuesta es: <br> Si: ¿Nos podrías contar acerca de tu experiencia y tu opinión? <br> No: ¿Cuáles son los motivos por los que no opto por alquilar un vehículo?
+- ¿Alguna vez pensaste en alquilar un auto? Si la respuesta es: 
+  - Si: ¿Nos podrías contar acerca de tu experiencia y tu opinión? 
+  - No: ¿Cuáles son los motivos por los que no opto por alquilar un vehículo?
 - ¿Qué aspectos negativos encuentra al alquilar un vehículo para uso propio?
 - ¿Conoce alguna plataforma de confianza donde puede hallar el vehículo adecuado a su necesidad?
 
@@ -699,9 +665,9 @@ Con el objetivo de comprender la necesidad y la demanda en nuestro sector por pa
 
 A continuación se presenta el registro de las entrevistas realizadas a los segmentos objetivo.
 
-<b> Segmento Objetivo 1: </b> Propietarios de vehículos
+**Segmento Objetivo 1:** Propietarios de vehículos
 
-<b> Entrevista 1 </b> 
+**Entrevista 1**
 
 - Nombre: Alcides Gustavo 
 - Apellidos: Rivera Chipana
@@ -726,7 +692,7 @@ Resumen de la entrevista:
 - Para él es importante que TakeMyCar ofrezca seguridad y garantía respecto a su auto. Se debe saber que la persona alquilando sea responsable.
 - Suele aprender sobre nuevas aplicaciones y productos para su trabajo principalmente en Facebook.
 
-<b> Entrevista 2 </b> 
+**Entrevista 2**
 
 - Nombre: Joel
 - Apellidos: Chavez
@@ -742,7 +708,6 @@ Evidencia de la reunión:
     <img src="./img/screenshot-entrevista-2.png" style="margin: 10px 0;" width="80%"/>
 </div>
 
-
 Resumen de la entrevista:
 
 - Utiliza frecuentemente su vehículo para movilizarse al trabajo.
@@ -751,8 +716,7 @@ Resumen de la entrevista:
 - Le resulta interesante la propuesta ya que le permite un mayor control sobre su alquiler además de lo amigable que puede ser nuestra plataforma.
 - Le gustaría que la plataforma se encuentre disponible todo el tiempo para acceder a las funcionalidades de nuestra aplicación.
 
-
-<b> Entrevista 3 </b> 
+**Entrevista 3**
 
 - Nombre: Franchesco
 - Apellidos: Soto Morales
@@ -768,7 +732,6 @@ Evidencia de la reunión:
     <img src="./img/screenshot-entrevista-3.png" style="margin: 10px 0;" width="80%"/>
 </div>
 
-
 Resumen de la entrevista:
 
 - El entrevistado menciona que posee un vehículo de uso familiar y que su uso se limita a los fines de semana o rara vez.
@@ -777,11 +740,9 @@ Resumen de la entrevista:
 - Considera que la principal garantía además de la compesación monetaria por el alquiler, es el poseer un seguro que protega su bien tanto de accidentes, robos, entre otros incidentes presentes.
 - Menciona que utilizaría nuestra plataforma y que además recomendaria el uso, ya que entiende los beneficios que conlleva.
 
-<br>
+**Segmento Objetivo 2:** Usuarios arrendatarios
 
-<b> Segmento Objetivo 2: </b> Usuarios arrendatarios
-
-<b> Entrevista 4 </b> 
+**Entrevista 4**
 
 - Nombre: Ernesto
 - Apellidos: Ruiz
@@ -804,9 +765,8 @@ Resumen de la entrevista:
 - Menciona que sí está interesado en la propuesta de TakeMyCar, pues le resultaría muy favorable.
 - Menciona que el mayor temor que tiene relacionada con la idea es los posibles daños al vehículo.
 - Menciona que está dispuesto a promocionarnos con sus conocidos al ser algo de mucha utilidad.
-<br>
 
-<b> Entrevista 5 </b>
+**Entrevista 5**
 
 - Nombre: Karla
 - Apellidos: Lopez
@@ -824,17 +784,15 @@ Evidencia de la reunión:
 
 Resumen de la entrevista:
 
-- En al entrevista se menciona el uso constante del transporte público para movilizarse a su lugar objetivo
+- En la entrevista se menciona el uso constante del transporte público para movilizarse a su lugar objetivo
 - No realizó ningún alquiler en algún otro lado
 - No existen aplicaciones que brinden estas características en su zona
 - Menciona que la propuesta de la aplicación es buena y la recomendaría
 - Menciona que uno de sus temores son los posibles daños relacionados con el vehículo
 
-<br>
-
 ### 2.2.3. Análisis de entrevistas
 
-<b>Análisis General - Segmento 1:</b>
+**Análisis General - Segmento 1:**
 
 Nuestros entrevistados poseedores de vehículos concuerdan en que el ingreso pasivo en base a un activo el cual no es usado de forma diaria en ninguno de los casos es beneficio. De la misma manera todos concuerdan en que no existe una plataforma con la publicidad y la confianza para propietarios como ellos puedan alquilar su vehículo obteniendo beneficios, lo que confirma nuestra teoría de la falta de una plataforma para esta necesidad existente.
 
@@ -842,12 +800,11 @@ Asimismo, existe una preocupación entre nuestros entrevistados el cual es la se
 
 Un dato interesante es que a pesar de las diferencias de edad presente entre los primeros dos entrevistados al tercero, percibimos la misma necesidad o entusiasmo por recibir un ingreso pasivo sin la necesidad de invertir tiempo, lo que nos lleva a pensar que existe un público amplio para nuestro producto.
 
-<b>Análisis General - Segmento 2:</b>
+**Análisis General - Segmento 2:**
 
 Los usuarios entrevistados suelen tener una edad joven y se entiende que gran parte serán personas jóvenes adultas, ya que normalmente se movilizan mucho y no poseen un bien propio, ya que van en el camino a ello. Por lo que, de la misma forma, captamos una necesidad palpante. 
 
 Cabe resaltar que se menciona que el monto de transporte semanal en los entrevistados es elevado lo que refleja que existe un gasto considerable, de la misma forma, no optan por alquilar un auto debido al costo que este inclute, la falta de opciones y los trámites tediosos. Lo que refuerza nuestra idea de negocio.
-
 
 ## 2.3. Needfinding
 
@@ -857,9 +814,9 @@ En esta sección se muestra el proceso de análisis de la información recolecta
 
 A continuación brindamos las fichas de User Persona elaboradas a partir del análisis de las entrevistas realizadas.
 
-<img src="/img/User-Persona-Propietario-Juan Pérez.png" width="1050" height="1289">
+<img src="./img/User-Persona-Propietario-Juan Pérez.png" width="1050" height="1289">
 
-<img src="/img/User-Persona-Propietario-María Lopez.png" width="1050" height="1289">
+<img src="./img/User-Persona-Propietario-María Lopez.png" width="1050" height="1289">
 
 ### 2.3.2. User Task Matrix
 
@@ -909,17 +866,17 @@ User Journey Mapping para María López:
 
 A continuación se muestra el proceso para la realización del Empathy Mapping para los User Persona con el fin de entender lo que piensa, siente, oye, hace y observa.
 
-<img src="/img/image2.png" width="1000" height="1000">
+<img src="./img/image2.png" width="1000" height="1000">
 
-<img src="/img/image4.png" width="1000" height="1000">
+<img src="./img/image4.png" width="1000" height="1000">
 
 ### 2.3.5. As-is Scenario Mapping
 
 A continuación se muestra el proceso para la realización del As-Is Scenario Mapping para los User Persona.
 
-<img src="/img/image1.png" width="1000" height="1000">
+<img src="./img/image1.png" width="1000" height="1000">
 
-<img src="/img/image3.png" width="1000" height="1000">
+<img src="./img/image3.png" width="1000" height="1000">
 
 ## 2.4. Ubiquitous Language
 
@@ -937,26 +894,19 @@ A continuación se especifican los términos y conceptos usadas en nuestro busin
 - Insurance Coverage (Cobertura de seguro): Protección proporcionada al vehículo durante el alquiler.
 - Vehicle Inspection (Verificación del vehículo): Proceso en el cual el propietario y el arrendatario revisan juntos el estado del vehículo antes y después del alquiler, para garantizar que no haya daños o problemas mecánicos.
 
-<br><br>
-
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
 
 A continuación se presenta la realizacion del To-Be Scenario Mapping por cada user persona.
 
-
 Segmento Objetivo 1: Juan Pérez
 
-<img src="/img/to-be-01.png">
-
-<br>
+<img src="./img/to-be-01.png">
 
 Segmento Objetivo 2: María Lopez
 
-<img src="/img/to-be-02.png">
-
-<br>
+<img src="./img/to-be-02.png">
 
 ## 3.2. User Stories
 
@@ -1197,22 +1147,15 @@ Escenario 2: Datos incompletos o incorrectos.
     </tbody>
 </table>
 
-
 ## 3.3. Impact Mapping
 
 Impact map del segmento objetivo 1: Juan Pérez
 
-<img src="/img/Impact map - Juan Pérez.png">
-
-<br>
-
+<img src="./img/Impact map - Juan Pérez.png">
 
 Impact map del segmento objetivo 1: María Lopez
 
-<img src="/img/Impact map - María Lopez.png">
-
-<br>
-
+<img src="./img/Impact map - María Lopez.png">
 
 ## 3.4. Product Backlog
 Utilizamos la escala de Fibonacci para la estimación de los Story Points.
@@ -1278,23 +1221,21 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
     </tbody>
 </table>
 
-
 ---
 
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
 
-<b>Branding:</b> El logo de nuestra start-up se representa concisamente con el nombre de nuestra aplicación, el servicio que ofreces y una imagen identificable bajo la imagen de un auto, que busca expresar una imagen recordable y fácil de entender. 
+**Branding:** El logo de nuestra start-up se representa concisamente con el nombre de nuestra aplicación, el servicio que ofreces y una imagen identificable bajo la imagen de un auto, que busca expresar una imagen recordable y fácil de entender. 
 
 <div align="center">
   <img src="./img/logo-take-my-car-v1.png" style="margin: 10px 0;" widht="500" height="280" />
 </div>
-<br>
 
-<b>Tipografía:</b> Nuestro logotipo posee la fuente predeterminado, resaltando la sencillez, el cual es la imagen que deseamos dar a nuestros clientes, el cual es un estilo simple, interactivo y moderno. Buscando promover atracción a nuestro público objetivo. Si bien es cierto, vamos a incluir una extensa lista de tipografias para el mejor desarrollo, pero para esta primera versión fue todo desarrollado con el tipo de letra predeterminado.
+**Tipografía:** Nuestro logotipo posee la fuente predeterminado, resaltando la sencillez, el cual es la imagen que deseamos dar a nuestros clientes, el cual es un estilo simple, interactivo y moderno. Buscando promover atracción a nuestro público objetivo. Si bien es cierto, vamos a incluir una extensa lista de tipografias para el mejor desarrollo, pero para esta primera versión fue todo desarrollado con el tipo de letra predeterminado.
 
-<b>Colores:</b> El brindar una imagen que influya principalmente la facilidad y confianza. Decidimos optar por una paleta que transmita facilidad y confianza. Por lo que usaremos tonos de xxxxxx que va a variar para usar blanco, el cual es un color bastante útil para lo que a interfaces se refiere. En adición buscamos una forma de que para los usuarios se cree una atmosfera de profesionalismo. 
+**Colores:** El brindar una imagen que influya principalmente la facilidad y confianza. Decidimos optar por una paleta que transmita facilidad y confianza. Por lo que usaremos tonos de xxxxxx que va a variar para usar blanco, el cual es un color bastante útil para lo que a interfaces se refiere. En adición buscamos una forma de que para los usuarios se cree una atmosfera de profesionalismo. 
 
 Paleta de colores:
 <div align="center">
@@ -1313,15 +1254,11 @@ Es importante destacar que, para la plataforma web, mantendremos una coherencia 
 
 Nos enfocaremos en garantizar que la interfaz sea intuitiva, especialmente en la navegación del catálogo de vehículos disponibles, permitiendo a los arrendatarios encontrar fácilmente lo que buscan. Además, se utilizarán colores estratégicos que faciliten la distinción entre tipos de vehículos y sus niveles de disponibilidad. La página debe ser completamente accesible y funcional en cualquier navegador, brindando una experiencia uniforme para todos los usuarios. En adición, el diseño debe ser adaptable para cualquier dispositivo desde el cual se acceda al sitio.
 
-<!---
-estaría genial poner imagenes
--->
-
 ## 4.2. Information Architecture
 
 En nuestra plataforma TakeMyCar, ofrecemos una interfaz fácil de usar y confiable, centrada en conectar propietarios de vehículos con arrendatarios potenciales. Aunque nuestro enfoque no es la seguridad ciudadana como en el ejemplo anterior, sí nos aseguramos de proporcionar una experiencia sin complicaciones para ambas partes, destacando la facilidad de navegación, acceso rápido a información de los vehículos y un proceso de alquiler eficiente. A continuación, se describe la arquitectura de información planeada.
 
-<b> Página de Inicio: </b>
+**Página de Inicio:**
 
 - Catálogo de Vehículos: Sección que muestra los vehículos disponibles para alquiler, con imágenes, descripciones detalladas, y opciones de filtrado por marca, modelo o tipo de vehículo.
 
@@ -1329,7 +1266,7 @@ En nuestra plataforma TakeMyCar, ofrecemos una interfaz fácil de usar y confiab
 
 - Información sobre la Plataforma: Una breve introducción sobre TakeMyCar, cómo funciona la plataforma, beneficios tanto para propietarios como arrendatarios, y formas de contacto para consultas.
 
-<b> Catálogo de Vehículos: </b>
+**Catálogo de Vehículos:**
 
 - Vehículos Disponibles: Los vehículos se organizan en una cuadrícula, cada uno con una imagen destacada, su marca, modelo y una breve descripción de sus características principales.
 
@@ -1337,13 +1274,13 @@ En nuestra plataforma TakeMyCar, ofrecemos una interfaz fácil de usar y confiab
 
 - Formulario de Alquiler Integrado: Cada vehículo tiene un formulario directamente accesible desde el catálogo para alquilarlo de manera rápida y eficiente.
 
-<b> Proceso de Alquiler: </b>
+**Proceso de Alquiler:**
 
 - Formulario de Alquiler Detallado: El formulario de alquiler permite a los arrendatarios especificar los detalles del alquiler, como días de uso, seguro adicional, y otras opciones, ofreciendo una experiencia intuitiva y directa.
 
 - Confirmación del Alquiler: Al finalizar, el usuario visualiza un resumen del alquiler antes de confirmar, asegurando que toda la información proporcionada es correcta.
 
-<b> Registro: </b>
+**Registro:**
 
 - Registro de Usuarios: Un formulario para que los arrendatarios se registren en la plataforma, proporcionando su información de contacto básica.
 
@@ -1370,14 +1307,14 @@ Utilizaremos un sistema de etiquetado claro y conciso para asegurar que los usua
 
 Los SEO Tagas tanto como los Meta Tags, lo entendemos como las palabras clave necesarias para caracterizar nuestro servicio y con ello, acercarlo a las búsquedas de nuestros usuarios. A continuación mostraremos los SEO Tags y Meta Tags para nuestro mejor posicionamiento:
 
-<b>Landing Page:</b>
+**Landing Page:**
 
 - Title: TakeMyCar - Plataforma de Alquiler de Vehículos
 - Description: TakeMyCar - Alquila vehículos de manera fácil y rápida con nuestra plataforma. Encuentra el vehículo ideal y disfruta de precios competitivos.
 - Keywords: alquiler de vehículos, arrendar auto, rentar carro, plataforma de alquiler de autos
 - Authors: TakeMyCar Team
 
-<b>Web Application:</b>
+**Web Application:**
 
 - Title: TakeMyCar - Alquiler de Autos
 - Description: TakeMyCar - Plataforma para propietarios y arrendatarios de vehículos.
@@ -1404,54 +1341,53 @@ El sistema de navegación de TakeMyCar debe ofrecer una experiencia fluida y dir
 
 ### 4.3.1. Landing Page Wireframe
 
-<img src="/img/WIRE.png">
+<img src="./img/WIRE.png">
 
 ### 4.3.2. Landing Page Mock-up
 
 Iniciar sesión en la aplicación.:
 
-<img src="/img/ini1.png">
+<img src="./img/ini1.png">
 
 Uso del menú principal:
 
-<img src="/img/menu1.png">
+<img src="./img/menu1.png">
 
 Ver autos a alquilar:
 
-<img src="/img/ver autos.png">
+<img src="./img/ver autos.png">
 
 Colocar las opciones del alquiler:
 
-<img src="/img/llenar1.png">
+<img src="./img/llenar1.png">
 
 Seleccionar pago:
 
-<img src="/img/selecpago.png">
+<img src="./img/selecpago.png">
 
 Alquiler exitoso:
 
-<img src="/img/compraexito.png">
+<img src="./img/compraexito.png">
 
 Ver registro de alquiler:
 
-<img src="/img/verregistro.png">
+<img src="./img/verregistro.png">
 
 Ver sobre la empresa:
 
-<img src="/img/main2.png">
+<img src="./img/main2.png">
 
 Preguntas frecuentes:
 
-<img src="/img/main2.png">
+<img src="./img/main2.png">
 
 Redes sociales:
 
-<img src="/img/main2.png">
+<img src="./img/main2.png">
 
 Contacto:
 
-<img src="/img/contacto.png">
-
+<img src="./img/contacto.png">
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -1459,47 +1395,47 @@ Contacto:
 
 Principios Heurísticos aplicados en los wireframes de TakeMyCar:
 
-#### Visibilidad del estado del sistema:
+**Visibilidad del estado del sistema:**
 
 TakeMyCar utiliza notificaciones visuales claras, como barras de progreso o mensajes de confirmación, para indicar al usuario en qué etapa del proceso de alquiler se encuentra. Las secciones como "Autos disponibles", "Historial de alquileres" o "Pago completado" están claramente diferenciadas con íconos y colores.
 
-#### Coincidencia entre el sistema y el mundo real:
+**Coincidencia entre el sistema y el mundo real:**
 
 Se utilizan palabras sencillas y términos comunes relacionados con el alquiler de autos para que los usuarios no se sientan abrumados por tecnicismos. Por ejemplo, términos como "Reservar ahora" en lugar de "Procesar transacción" hacen que la interacción sea más amigable.
 
-#### Libertad y control por parte del usuario:
+**Libertad y control por parte del usuario:**
 
 Un menú emergente en la esquina superior izquierda permite al usuario navegar rápidamente entre las secciones clave: “Explorar autos”, “Mis alquileres”, “Soporte” y “Perfil”. El usuario puede regresar fácilmente a la página principal o cancelar acciones sin quedar atrapado en pasos innecesarios.
 
-#### Consistencia y estándares:
+**#### **Consistencia y estándares:**
 
 El diseño visual sigue una estructura coherente en todo el sistema. Los botones, colores y tipografías son uniformes, garantizando que los usuarios entiendan fácilmente la funcionalidad de los elementos, como el uso de un botón azul para "Reservar" y un botón rojo para "Cancelar".
 
-#### Flexibilidad y eficiencia de uso:
+**Flexibilidad y eficiencia de uso:**
 
 TakeMyCar incluye accesos rápidos en la pantalla principal para acciones frecuentes como “Buscar autos cercanos” y “Mis reservas actuales”. Estos accesos permiten a los usuarios experimentados realizar tareas rápidamente sin pasar por múltiples pantallas.
 
-<img src="/img/wire1.png">
+<img src="./img/wire1.png">
 
-<img src="/img/wire2.png">
+<img src="./img/wire2.png">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-<img src="/img/mockup1.png">
+<img src="./img/mockup1.png">
 
 ### 4.4.3. Web Applications Mock-ups
 
-<img src="/img/mockup2.png">
+<img src="./img/mockup2.png">
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-<img src="/img/flowd.png">
+<img src="./img/flowd.png">
 
 ## 4.5. Web Applications Prototyping
 
-<img src="/img/proto1.png">
+<img src="./img/proto1.png">
 
-<img src="/img/proto2.png">
+<img src="./img/proto2.png">
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -1512,21 +1448,21 @@ sino que también se integre de manera óptima en los procesos de negocio.
 A través del esquema de contexto, podemos entender cómo TakeMyCar se integra en un ecosistema más amplio,
 estableciendo relaciones con los distintos actores que influyen en su funcionamiento.
 
-<p align = "center"> <img  alt="context-diagram" src="img/context-diagram.png"> </p>
+<p align = "center"> <img  alt="context-diagram" src="./img/context-diagram.png"> </p>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 A través de este diagrama, podemos comprender cómo fluye la información dentro de TakeMyCar,
 identificando las dependencias entre las aplicaciones y los datos necesarios para su correcto funcionamiento.
 
-<p align = "center"> <img  alt="container-diagram" src="img/container-diagram.png"> </p>
+<p align = "center"> <img  alt="container-diagram" src="./img/container-diagram.png"> </p>
 
 ### 4.6.3. Software Architecture Components Diagrams
 
 Los diagramas de componentes nos ayudan a identificar los puntos de integración entre los Bounded Contexts,
 facilitando la gestión de las relaciones entre ellos y asegurando la consistencia del sistema en su conjunto.
 
-<p align = "center"> <img  alt="component-diagram-publisher" src="img/component-diagram-publisher.png"> </p>
+<p align = "center"> <img  alt="component-diagram-publisher" src="./img/component-diagram-publisher.png"> </p>
 
 ## 4.7. Software Object-Oriented Design
 
@@ -1578,19 +1514,19 @@ En este apartado, abordaremos el despliegue de la Landing Page de Take My Car ut
 
 Vista del repositorio:
 
-<img src="/img/rep.png">
+<img src="./img/rep.png">
 
 Vista del avance:
 
-<img src="/img/rep2.png">
+<img src="./img/rep2.png">
 
 Commits:
 
-<img src="/img/commit.png">
+<img src="./img/commit.png">
 
 Landing page:
 
-<img src="/img/rep3.png">
+<img src="./img/rep3.png">
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -1602,23 +1538,23 @@ Landing page:
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
-<img src="/img/devep.png">
+<img src="./img/devep.png">
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-<img src="/img/rep3.png">
+<img src="./img/rep3.png">
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-<img src="/img/qw.png">
+<img src="./img/qw.png">
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-<img src="/img/commit.png">
+<img src="./img/commit.png">
 
 ## 5.3. Validation Interviews 
 
@@ -1628,22 +1564,20 @@ Landing page:
 
 ## 5.4. Video About-the-Product
 
-<br><br>
-
 # Conclusiones
 
 ## Conclusiones y recomendaciones
 
-<br>El proyecto ha avanzado significativamente en términos de diseño, funcionalidad e interactividad. Las mejoras en el estilo, la implementación de funciones clave y la coherencia del diseño contribuyen a una experiencia de usuario más fluida y profesional. Continuar con las pruebas y ajustes basados en la retroalimentación del usuario ayudará a perfeccionar aún más la plataforma.<br>
+El proyecto ha avanzado significativamente en términos de diseño, funcionalidad e interactividad. Las mejoras en el estilo, la implementación de funciones clave y la coherencia del diseño contribuyen a una experiencia de usuario más fluida y profesional. Continuar con las pruebas y ajustes basados en la retroalimentación del usuario ayudará a perfeccionar aún más la plataforma.
 
 # Bibliografía
 
-<br>Williams, R. (2020). Trends in the car rental industry: An analysis of market developments. Journal of Transportation Management, 24(2), 89-101.
+Williams, R. (2020). Trends in the car rental industry: An analysis of market developments. Journal of Transportation Management, 24(2), 89-101.
 
 Brown, T. (2019). Automobile technology and management. Springer.
 
 Avis Budget Group. (2024). Innovations in car rental services. Recuperado de https://www.avisbudgetgroup.com/innovationsEnterprise 
 
-Holdings. (2024). Sustainability and technology in fleet management. Recuperado de https://www.enterpriseholdings.com/sustainability<br>
+Holdings. (2024). Sustainability and technology in fleet management. Recuperado de https://www.enterpriseholdings.com/sustainability
 
 # Anexos
