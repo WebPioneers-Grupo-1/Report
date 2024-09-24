@@ -494,7 +494,36 @@ facilitando la gestión de las relaciones entre ellos y asegurando la consistenc
 
 ### 4.7.1. Class Diagrams
 
+<p align = "center"> <img  alt="component-diagram-publisher" src="img/diagramaclases.png"> </p>
+
+link: https://lucid.app/lucidchart/ff78de06-e621-4070-b910-0f5d6735f089/edit?invitationId=inv_7d0c6110-83bd-4ad9-8db9-37434ecb2367&page=HWEp-vi-RSFO# 
+
 ### 4.7.2. Class Dictionary
+
+1. Usuario
+
+Descripción: Esta clase almacena los datos básicos de los usuarios en la plataforma. Se relaciona con las reservas, los vehículos, y también se utiliza para realizar el login en la plataforma.
+
+2. Propietario
+
+Descripción: Esta clase representa a los usuarios propietarios que suben sus vehículos para alquilarlos a otros usuarios. Hereda atributos de la clase Usuario y se relaciona con los vehículos que poseen.
+
+3. Arrendatario
+
+Descripción: Clase que representa a los usuarios que alquilan vehículos. Hereda atributos de Usuario y se relaciona con las reservas.
+
+4. Vehiculo
+
+Descripción: Esta clase almacena la información sobre los vehículos disponibles para ser alquilados en la plataforma.
+
+5. Reservs
+
+Descripción: Clase que representa el proceso mediante el cual un arrendatario reserva un vehículo. Contiene información sobre las fechas de inicio y fin de la reserva, el estado, y el vehículo relacionado.
+
+6. Pago
+
+Descripción: Esta clase gestiona la información de los pagos realizados por los arrendatarios por el alquiler de vehículos.
+
 
 ## 4.8. Database Design
 
