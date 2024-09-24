@@ -758,7 +758,7 @@ Resumen de la entrevista:
 - Apellidos: Soto Morales
 - Edad: 22 años
 - Distrito: Comas
-- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213502_upc_edu_pe/EbhcYmyn-y1JlD7N3pR5cwoBN9sSJpjLNJq1wA_k8zbvuQ?e=4LeGyW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista</a>
+- Link de la entrevista: <a href="https://shorturl.at/f2Nse">Entrevista Link: https://shorturl.at/f2Nse</a>
 - Duración: 5:18 minutos
 - Inicio de la entrevista: 0:02 
 
@@ -806,42 +806,13 @@ Resumen de la entrevista:
 - Menciona que está dispuesto a promocionarnos con sus conocidos al ser algo de mucha utilidad.
 <br>
 
-<b> Entrevista 5 </b> 
-
-- Nombre: 
-- Apellidos: 
-- Edad: 
-- Distrito: 
-- Link de la entrevista: <a href="">Entrevista</a>
-- Duración: x:xx minutos
-- Inicio de la entrevista: 0:00
-
-Evidencia de la reunión:
-
-<div align="center">
-    <img src="./img/screenshot-entrevista-5.png" style="margin: 10px 0;" width="80%"/>
-</div>
-
-
-Resumen de la entrevista:
-
-- 
-- 
-- 
-- 
-- 
-- 
-
-
-<br>
-
-<b> Entrevista 6 </b> 
+<b> Entrevista 5 </b>
 
 - Nombre: Karla
 - Apellidos: Lopez
 - Edad: 22
 - Distrito: Huaraz
-- Link de la entrevista: <a href="">https://shorturl.at/raxVh</a>
+- Link de la entrevista: <a href="https://shorturl.at/raxVh">https://shorturl.at/raxVh</a>
 - Duración: 3:21 minutos
 - Inicio de la entrevista: 0:37
 
@@ -851,7 +822,6 @@ Evidencia de la reunión:
     <img src="./img/screenshot-entrevista-6.png" style="margin: 10px 0;" width="80%"/>
 </div>
 
-
 Resumen de la entrevista:
 
 - En al entrevista se menciona el uso constante del transporte público para movilizarse a su lugar objetivo
@@ -859,7 +829,6 @@ Resumen de la entrevista:
 - No existen aplicaciones que brinden estas características en su zona
 - Menciona que la propuesta de la aplicación es buena y la recomendaría
 - Menciona que uno de sus temores son los posibles daños relacionados con el vehículo
-
 
 <br>
 
