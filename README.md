@@ -490,19 +490,9 @@ Segmento Objetivo 2: María Lopez
 
 ## 3.3. Impact Mapping
 
-Impact map del segmento objetivo 1: Juan Pérez
+Impact map nuestros segmentos objetivos
 
-<img src="/img/Impact map - Juan Pérez.png">
-
-<br>
-
-
-Impact map del segmento objetivo 1: María Lopez
-
-<img src="/img/Impact map - María Lopez.png">
-
-<br>
-
+<img src="/img/Impact Mapping.png">
 
 ## 3.4. Product Backlog
 Utilizamos la escala de Fibonacci para la estimación de los Story Points.
