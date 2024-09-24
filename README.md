@@ -383,7 +383,13 @@ Esta guía define las decisiones y acuerdos fundamentales para el desarrollo, ma
 
 ### 5.1.2. Source Code Management
 
+Para "Take My Car", utilizaremos el enfoque Gitflow con GitHub para gestionar el desarrollo del proyecto, con la finalidad de implementar correctamente el proyecto con la elaboración del reporte.
 
+GitHub facilitará la colaboración en equipo mediante pull requests para revisar y aprobar cambios, y issues para gestionar tareas y errores. Además, GitHub Pages permitirá la visualización de una versión de ejemplo de la aplicación. Esta estructura garantiza un desarrollo organizado, seguimiento efectivo del progreso y una integración continua de cambios, mejorando la eficiencia y calidad del proyecto.
+
+URL del repositorio del Report en GitHub: https://github.com/WebPioneers-Grupo-1/Report
+
+URL del repositorio del Landing Page en GitHub: https://github.com/WebPioneers-Grupo-1/Landing-page
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
