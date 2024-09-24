@@ -365,7 +365,6 @@ A continuación se presenta un análisis competitivo de las empresas que ofrecen
     <td colspan="5">Este análisis fue realizado con el propósito de estudiar el valor ofrecido por las empresas que compiten con nuestra solucion. La informacion obtenida nos proporcionará la perspectiva necesaria para la realizacion de un servicio innovador.
     </td>
   </tr>
-  
   <tr>
     <td colspan="2"></td>
     <td><b>TakeMyCar</b></td>
@@ -373,7 +372,6 @@ A continuación se presenta un análisis competitivo de las empresas que ofrecen
     <td><p><b>Hertz</b></p></td>
     <td><p><b>Avis</b></p></td>
   </tr>
-  
   <tr>
     <td rowspan="2">
       <b>Perfil</b>
@@ -394,7 +392,6 @@ A continuación se presenta un análisis competitivo de las empresas que ofrecen
       <p>Aplicacion de reservas de autos en línea
     </td>
   </tr>
-  
   <tr>
     <td>
       <b>Ventaja competitiva ¿Qué valor ofrece a los clientes?</b>
@@ -412,7 +409,6 @@ A continuación se presenta un análisis competitivo de las empresas que ofrecen
       <p>Enfoque en el servicio al cliente de alta calidad, con una variedad de opciones de vehículos y soluciones tanto para clientes particulares como corporativos.
     </td>
   </tr>
-  
   <tr>
     <td rowspan="2" >
       <b>Perfil de Marketing</b>
@@ -437,7 +433,6 @@ A continuación se presenta un análisis competitivo de las empresas que ofrecen
       <p>Empresas que buscan alquileres a largo plazo o soluciones corporativas.
     </td>
   </tr>
-  
   <tr>
     <td>
       <b>Estrategias de marketing</b>
@@ -462,7 +457,6 @@ A continuación se presenta un análisis competitivo de las empresas que ofrecen
       <p>Programas de fidelizacion
     </td>
   </tr>
-  
   <tr>
     <td rowspan="3" >
       <b>Perfil de Producto</b>
@@ -489,7 +483,6 @@ A continuación se presenta un análisis competitivo de las empresas que ofrecen
       <p>Alquileres a largo plazo para clientes corporativos.
     </td>
   </tr>
-  
   <tr>
     <td>
       <b>Precios y Costos</b>
@@ -511,7 +504,6 @@ A continuación se presenta un análisis competitivo de las empresas que ofrecen
       <p>Altos costos operativos debido a la amplia infraestructura y mantenimiento de vehículos.
     </td>
   </tr>
-  
   <tr>
     <td>
       <b>Canales de distribución (Web y/o móvil)</b>
@@ -531,7 +523,6 @@ A continuación se presenta un análisis competitivo de las empresas que ofrecen
       <p>Plataforma web, aplicación móvil, y oficinas físicas en aeropuertos y centros comerciales.
     </td>
   </tr>
-  
   <tr>
     <td rowspan="5" >
       <p><b>Análisis SWOT</b>
@@ -698,7 +689,7 @@ Resumen de la entrevista:
 - Apellidos: Chavez
 - Edad: 41 años
 - Distrito: Huaraz
-- Link de la entrevista: <a href="https://shorturl.at/JfkCk">Entrevista</a>
+- Link de la entrevista: <a href="https://shorturl.at/JfkCk">Entrevista Link: https://shorturl.at/JfkCk</a>
 - Duración: 4:00 minutos
 - Inicio de la entrevista: 0:00 
 
@@ -748,7 +739,7 @@ Resumen de la entrevista:
 - Apellidos: Ruiz
 - Edad: 21 años
 - Distrito: Jesus María
-- Link de la entrevista: <a href="https://www.youtube.com/watch?v=eoOJoZDcQu8">Entrevista</a> 
+- Link de la entrevista: <a href="https://www.youtube.com/watch?v=eoOJoZDcQu8">Entrevista Link: https://www.youtube.com/watch?v=eoOJoZDcQu8</a> 
 - Duración: 3:53 minutos
 - Inicio de la entrevista: 0:01
 
@@ -772,7 +763,7 @@ Resumen de la entrevista:
 - Apellidos: Lopez
 - Edad: 22
 - Distrito: Huaraz
-- Link de la entrevista: <a href="https://shorturl.at/raxVh">https://shorturl.at/raxVh</a>
+- Link de la entrevista: <a href="https://shorturl.at/raxVh">Entrevista Link: https://shorturl.at/raxVh</a>
 - Duración: 3:21 minutos
 - Inicio de la entrevista: 0:37
 
@@ -866,7 +857,11 @@ User Journey Mapping para María López:
 
 A continuación se muestra el proceso para la realización del Empathy Mapping para los User Persona con el fin de entender lo que piensa, siente, oye, hace y observa.
 
+Empathy Mapping para Juan Pérez
+
 <img src="./img/image2.png" width="1000" height="1000">
+
+Empathy Mapping para María López
 
 <img src="./img/image4.png" width="1000" height="1000">
 
@@ -874,7 +869,11 @@ A continuación se muestra el proceso para la realización del Empathy Mapping p
 
 A continuación se muestra el proceso para la realización del As-Is Scenario Mapping para los User Persona.
 
+As-Is Scenario Mapping para Juan Pérez
+
 <img src="./img/image1.png" width="1000" height="1000">
+
+As-Is Scenario Mapping para María López
 
 <img src="./img/image3.png" width="1000" height="1000">
 
@@ -1407,7 +1406,7 @@ Se utilizan palabras sencillas y términos comunes relacionados con el alquiler 
 
 Un menú emergente en la esquina superior izquierda permite al usuario navegar rápidamente entre las secciones clave: “Explorar autos”, “Mis alquileres”, “Soporte” y “Perfil”. El usuario puede regresar fácilmente a la página principal o cancelar acciones sin quedar atrapado en pasos innecesarios.
 
-**#### **Consistencia y estándares:**
+**Consistencia y estándares:**
 
 El diseño visual sigue una estructura coherente en todo el sistema. Los botones, colores y tipografías son uniformes, garantizando que los usuarios entiendan fácilmente la funcionalidad de los elementos, como el uso de un botón azul para "Reservar" y un botón rojo para "Cancelar".
 
