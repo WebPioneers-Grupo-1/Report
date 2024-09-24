@@ -923,6 +923,20 @@ A continuación se muestra el proceso para la realización del As-Is Scenario Ma
 
 ## 2.4. Ubiquitous Language
 
+A continuación se especifican los términos y conceptos usadas en nuestro business domain.
+
+- Tenant (Arrendatario): Persona que busca alquilar un vehiculo
+- Vehicle Owner (Propietario): Dueño de un vehiculo dispuesto a alquilar su vehiculo
+- Rent (Alquiler): Proceso en el que un propietario entrega su vehiculo por un tiempo limitado a un arrendatario.
+- Publication (Publicar): Proceso en el que se brinda información del vehiculo de un dueño
+- Recommendation (Reseña): Evaluación que tanto el arrendatario puede dejar al finalizar el alquiler, basada en la experiencia de la transacción.
+- Pick-up (Entrega): Momento en que el arrendatario recoge el vehículo del propietario en el lugar y hora acordados.
+- Drop-off (Devolucion): Momento en que el arrendatario devuelve el vehículo al propietario al final del período de alquiler.
+- Vehicle Condition (Condiciones del vehículo): Estado del vehículo antes y después del alquiler.
+- Rental Fee (Tarifa de alquiler): Costo que el arrendatario debe pagar al propietario por el uso del vehículo durante un período específico.
+- Insurance Coverage (Cobertura de seguro): Protección proporcionada al vehículo durante el alquiler.
+- Vehicle Inspection (Verificación del vehículo): Proceso en el cual el propietario y el arrendatario revisan juntos el estado del vehículo antes y después del alquiler, para garantizar que no haya daños o problemas mecánicos.
+
 <br><br>
 
 # Capítulo III: Requirements Specification
