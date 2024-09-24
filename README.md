@@ -490,7 +490,7 @@ Segmento Objetivo 2: María Lopez
 
 ## 3.3. Impact Mapping
 
-Impact map nuestros segmentos objetivos
+Impact map de nuestros segmentos objetivos
 
 <img src="/img/Impact Mapping.png">
 
