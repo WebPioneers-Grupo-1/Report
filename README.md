@@ -393,7 +393,21 @@ URL del repositorio del Landing Page en GitHub: https://github.com/WebPioneers-G
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
+Para Take My Car, implementaremos una guía de estilo de código y convenciones utilizando HTML y CSS, buscando implementar una interfaz sencilla e interactica.
 
+**HTML**: Lenguaje que hemos utilizado para el desarrollo de nuestra Landing Page. Este lenguaje utiliza etiquetas para marcar y definir el contenido de la página web. Como textos, imagenes, videos, etc.
+
+Convenciones:
+
+- Se tiene que declarar el tipo de archivo en la primera fila de cada documento ("Doctype HTML o Styles CSS").
+- Las etiquetas deben de mostrarse en minuscula, ya que es más sencillo identificar y por ende, será más sencillo detectar los contenidos para los desarrolladores.
+
+**CSS**: Lenguaje que se vincula a un proyecto, en este caso, proyecyto html, que nos permite dar estilos a los elementos html. Con este lenguaje se pueden crear diseños web agradables e intuitivos para el usuario, que es lo que buscamos lograr en nuestra Landing Page.
+
+Convenciones:
+
+- Al momento de definir una clase para editar estilos, y esta necesito el uso de más de una pabra, utilizar clases compuestas divididas con guiones: **welcome-section**
+- Usar la unidad de medida rem para mantener un diseño responsive: **1rem**
 
 ### 5.1.4. Software Deployment Configuration
 
