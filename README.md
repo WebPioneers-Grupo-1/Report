@@ -545,19 +545,19 @@ A continuación, guía inicial de como desplegamos nuestra interfaz, cabe mencio
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
-<img src="/img/devep.png">
+<img src="/img/lp1.png">
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-<img src="/img/rep3.png">
+<img src="/img/lp2.png">
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-<img src="/img/qw.png">
+<img src="/img/lp3.png">
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
