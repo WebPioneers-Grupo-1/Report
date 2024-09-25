@@ -885,7 +885,7 @@ As-Is Scenario Mapping para Juan Pérez
 
 As-Is Scenario Mapping para María López
 
-<img src="./img/image3.png" width="1000" height="1000">
+<img src="./img/asis.png" width="1000" height="1000">
 
 ## 2.4. Ubiquitous Language
 
