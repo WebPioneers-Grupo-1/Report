@@ -1590,49 +1590,128 @@ Esta guía define las decisiones y acuerdos fundamentales para el desarrollo, ma
 
 ### 5.1.1. Software Development Environment Configuration
 
-Visual Studio Code: Hemos seleccionado Visual Studio Code como nuestra herramienta principal para el desarrollo web. Este editor de código ofrece un entorno robusto y flexible para manejar nuestros archivos y proyectos de manera eficiente.
+<table border="1">
 
-HTML: Utilizaremos HTML para definir la estructura básica de las páginas web de Take My Car. HTML nos permitirá construir la estructura del contenido, como encabezados, párrafos, formularios y enlaces, asegurando que nuestra página web tenga una base sólida y semánticamente correcta.
-
-CSS: Aplicaremos CSS para mejorar el aspecto visual de nuestras páginas web. CSS nos proporciona la capacidad de seleccionar colores, fuentes, y estilos, permitiéndonos personalizar el diseño y la presentación de la página según nuestras necesidades y preferencias. Utilizaremos CSS para asegurar que la interfaz de usuario sea atractiva y coherente con la identidad visual de Take My Car.
-
-JavaScript: Incorporaremos JavaScript para añadir interactividad a la página web. Esto incluirá elementos dinámicos como botones con efectos, videos multimedia, animaciones, y otras características interactivas que mejorarán la experiencia del usuario y la funcionalidad general de la página.
-
-El uso de GitHub para Take My Car asegura una gestión eficaz del código fuente, fomenta la colaboración entre los miembros del equipo, y proporciona herramientas para la automatización y seguridad del proceso de desarrollo. Estas características son esenciales para garantizar el éxito y la calidad del proyecto a lo largo de su ciclo de vida.
-
-Link del repositorio: https://github.com/WebPioneers-Grupo-1
+  <tr>
+    <td>Project Management</td>
+    <td>Microsoft 365<br>Alojamiento de los videos de entrevistas, explicación de prototipos y otros relacionados al proyecto</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Whatsapp<br>Red Social destinada a la comunicación donde se realizaron acuerdos y recordatorios de las reuniones.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Trello<br>Software de administración y gestión de proyectos que se utilizó para establecer y designar las tareas</td>
+  </tr>
+  <tr>
+    <td>Requirements Management</td>
+    <td>Structurizr<br>Structurizr es una herramienta de modelado y documentación que permitió el desarrollo de los diagramas C4</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>LucidChart<br>Herramienta de diseño para el modelado de diagramas UML.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Miro<br>Herramienta de diseño para la creación de los As-Is y To-Be Scenario Mapping</td>
+  </tr>
+  <tr>
+    <td>Product UX/UI Design</td>
+    <td>Figma<br>Herramienta que se utilizó para la creación de wireframes, mockups y prototipos.</td>
+  </tr>
+  <tr>
+    <td>Software Development</td>
+    <td>Git<br>Es un software de control de versiones para los trabajos en equipos y confiabilidad del desarrollo.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Node.js<br>Node.js es un entorno de ejecución de JavaScript del lado del servidor, que permite desarrollar aplicaciones web escalables y de alto rendimiento fuera del navegador.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>GitHub<br>Sistema de control de versiones Git.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>HTML5<br>Lenguaje de etiquetas, utilizado para la estructuración y la presentación de contenido.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>CSS<br>CSS es un lenguaje utilizado para estilizar y dar formato a documentos HTML.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>JavaScript<br>JavaScript es un lenguaje de programación de alto nivel, interpretado y multi-paradigma, utilizado para crear interactividad en páginas web.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>VScode<br>Es un editor de código fuente con extensiones que ayudan al desarrollo.</td>
+  </tr>
+    <tr>
+    <td></td>
+    <td>WebStorm<br>Es un IDE centrado en el desarrollo frontend, por su variedad de herramientas que agilizan el proceso de desarrollo.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Vue.js Framework<br>Framework basado en Single Page Applications para el desarrollo de frontend</td>
+  </tr>
+  <tr>
+    <td>Software Deployment</td>
+    <td>Netlify<br>Plataforma que nos permite realizar el despliegue de nuestro landing page.</td>
+  </tr>
+</table>
 
 ### 5.1.2. Source Code Management
 
-Para Take My Car, utilizaremos el enfoque Gitflow con GitHub para gestionar el desarrollo del proyecto. Emplearemos dos ramas principales: main, que contendrá el código de producción estable, y gh-pages, para publicar la página web en GitHub Pages. La rama develop servirá como base para integrar nuevas características y correcciones, mientras que las ramas feature/ se usarán para desarrollar nuevas funcionalidades, y las ramas hotfix/ para solucionar errores críticos en producción. Las ramas release/ se utilizarán para preparar nuevas versiones antes de su liberación.
+Para "Take My Car", utilizaremos el enfoque Gitflow con GitHub para gestionar el desarrollo del proyecto, con la finalidad de implementar correctamente el proyecto con la elaboración del reporte.
 
 GitHub facilitará la colaboración en equipo mediante pull requests para revisar y aprobar cambios, y issues para gestionar tareas y errores. Además, GitHub Pages permitirá la visualización de una versión de ejemplo de la aplicación. Esta estructura garantiza un desarrollo organizado, seguimiento efectivo del progreso y una integración continua de cambios, mejorando la eficiencia y calidad del proyecto.
 
+URL del repositorio del Report en GitHub: https://github.com/WebPioneers-Grupo-1/Report
+
+URL del repositorio del Landing Page en GitHub: https://github.com/WebPioneers-Grupo-1/Landing-page
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
-Para Take My Car, implementaremos una guía de estilo de código y convenciones utilizando Astro. Esta tecnología permite crear páginas web estáticas empleando HTML, CSS y JavaScript, pero con la ventaja de que JavaScript se carga solo cuando es necesario, lo que ayuda a reducir el tamaño del código en producción.
+Para Take My Car, implementaremos una guía de estilo de código y convenciones utilizando HTML y CSS, buscando implementar una interfaz sencilla e interactica.
 
-Además, Astro facilita la creación de componentes reutilizables. Por ejemplo, podemos desarrollar un componente para el listado de autos, donde cada auto se representa mediante un componente individual que renderiza sus detalles. Esto nos permitirá construir listas de autos y otros elementos de la interfaz reutilizando estos componentes y ajustando sus propiedades según sea necesario. Esta metodología no solo optimiza el rendimiento de la página, sino que también mejora la mantenibilidad y consistencia del código en Take My Car.
+**HTML**: Lenguaje que hemos utilizado para el desarrollo de nuestra Landing Page. Este lenguaje utiliza etiquetas para marcar y definir el contenido de la página web. Como textos, imagenes, videos, etc.
+
+Convenciones:
+
+- Se tiene que declarar el tipo de archivo en la primera fila de cada documento ("Doctype HTML o Styles CSS").
+- Las etiquetas deben de mostrarse en minuscula, ya que es más sencillo identificar y por ende, será más sencillo detectar los contenidos para los desarrolladores.
+
+**CSS**: Lenguaje que se vincula a un proyecto, en este caso, proyecyto html, que nos permite dar estilos a los elementos html. Con este lenguaje se pueden crear diseños web agradables e intuitivos para el usuario, que es lo que buscamos lograr en nuestra Landing Page.
+
+Convenciones:
+
+- Al momento de definir una clase para editar estilos, y esta necesito el uso de más de una pabra, utilizar clases compuestas divididas con guiones: **welcome-section**
+- Usar la unidad de medida rem para mantener un diseño responsive: **1rem**
 
 ### 5.1.4. Software Deployment Configuration
 
-En este apartado, abordaremos el despliegue de la Landing Page de Take My Car utilizando GitHub. A continuación, se describen los pasos para habilitar el acceso a la página de destino de Take My Car y se incluirán capturas de pantalla para ilustrar el proceso.
+Para el despliegue de nuestro Landing Page, usamos las siguientes herramientas.
 
-Vista del repositorio:
+- **Git**: Para realizar el manejo de las versiones del proyecto.
+- **GitHub**: Dentro de la plataforma tenemos un repositorio, lo usamos para almacenar todo el proyecto con sus respectivas versiones.
+- **GitFlow**: Esto permite visualizar y controlar el flujo de trabajo hecho por el equipo de desarrollo.
+- **Netlify**: Nos permite desplegar nuestro Landing Page bajo el dominio de "netlify.app".
 
-<img src="./img/rep.png">
+A continuación, guía inicial de como desplegamos nuestra interfaz, cabe mencionar que ya debemos de tener nuestro Landing Page dentro de un repositorio en nuestra organización:
 
-Vista del avance:
+<b>1. Registramos en Netlify</b>
 
-<img src="./img/rep2.png">
+<img src="/img/Deploy1.png">
 
-Commits:
+<b>2. Importamos desde Git nuestro repositorio</b>
 
-<img src="./img/commit.png">
+<img src="/img/Deploy2.png">
 
-Landing page:
+<b>3. Seguir los pasos y desplegar la Landing Page</b>
 
-<img src="./img/rep3.png">
+<img src="/img/Deploy3.png">
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -1640,27 +1719,301 @@ Landing page:
 
 #### 5.2.1.1. Sprint Planning 1
 
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 1</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            23/09/24         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            10:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad Remota por Whatsapp  
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes Web Pioneers    
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Chavez Uribe, Ario Joel	<br>
+            - Cruz Ticona, Aaron Alejandro <br>
+            - Oshiro Yamashita, Daiki Oscar <br>
+            - Rivera Ayala, Gabriel Alejandro <br>
+            - Zuniga Calle, Sebastian Gabriel <br>
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            No existe un sprint anterior para realizar el review, siendo este el primer sprint a desarrollar.  
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+          No existe un sprint anterior para realizar una retrospectiva. Sin embargo en base a lo avanzado debemos considerar prioridad en el buen desarrollo de las User Stories y el Product Backlog.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 1 Velocity</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            6
+        </td>
+  </tr>
+</table>
+</br>
+
 #### 5.2.1.2. Sprint Backlog 1
+
+<br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 1</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="2">HU15</td>
+       <td rowspan="2">Visualizar página informativa</td>
+       <td>T01</td>
+       <td>Estructura de la landing</td>
+       <td>Programar el landing page comenzando por el HTML </td>
+       <td>0.1</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Agregar CSS styles</td>
+       <td>Asignar stilos generales para la página</td>
+       <td>0.1</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+       <td rowspan="2">HU17</td>
+       <td rowspan="2">Landing Page intuitiva</td>
+       <td>T10</td>
+       <td>Estructura Navbar</td>
+       <td>Crear HTML del navbar con direccionamiento a secciones</td>
+       <td>0.5</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T11</td>
+       <td>Estilos Navbar</td>
+       <td>Asignar stilos al navbar</td>
+       <td>0.5</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">HU18</td>
+       <td rowspan="2">Landing Page responsiva</td>
+       <td>T12</td>
+       <td>Main responsive</td>
+       <td>Agregar CSS media queries a las diferentes secciones del main</td>
+       <td>1.0</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T13</td>
+       <td>Navbar responsive</td>
+       <td>Agregar CSS media queries al navbar</td>
+       <td>0.5</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+</table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
-<img src="./img/devep.png">
+A continuación, se muestran los commits realizados en el repositorio para el Landing Page, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+Repositorio de la Landing Page en GitHub: <a href="https://github.com/WebPioneers-Grupo-1/Landing-page">Enlace</a>
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=19>Landing Page</td>
+        <td>main</td>
+        <td>2044326934c4ac531428e1ba263b580d4f04b357</td>
+        <td>Aaron Cruz</td>
+        <td>Initial commit</td>
+        <td>23/09/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>35caf4950655a69409e33e9c4cc2417cf8f04d8e</td>
+        <td>Aaron Cruz</td>
+        <td>feat: add images, initial html and css files</td>
+        <td>23/09/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>77eec4831eee43035c2e934c52876fb82d4bab25</td>
+        <td>Aaron Cruz</td>
+        <td>feat: add html seccions and info</td>
+        <td>23/09/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>65c1ef1b4a900fefc3a6bb74c9838a2046c9c6da</td>
+        <td>Aaron Cruz</td>
+        <td>feat: add css styles</td>
+        <td>23/09/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>29a54826598cbb8dfcf651e0412040b8c3a4c796</td>
+        <td>Aaron Cruz</td>
+        <td>fix: footer links</td>
+        <td>23/09/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>f12100f51b13bf008ea673365198ed67b098add4</td>
+        <td>Aaron Cruz</td>
+        <td>ffeat: add favicon logo</td>
+        <td>23/09/2024</td>
+    </tr>
+    
+</table>
+<br><br>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
+Al ser el primer sprint, y solo haber desarrollado el Landing Page no creemo necesario realizar testing de una Landing Page. Por lo que en la sección a continuación se muestra el Landing ya desplegado.
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-<img src="./img/rep3.png">
+Tras el desarrolo de la Landing Page en el Sprint 1, obtuvimos el siguiente resultado:
+
+<b>Seccion Inicio</b>
+
+<div align="center">
+    <img src="./img/inicioLP.png" style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Seccion ¿Que Ofrecemos?</b>
+
+<div align="center">
+    <img src="./img/que-ofrecemosLP.png"  style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Seccion Nosotros</b>
+
+<div align="center">
+    <img src="./img/nosotrosLP.png"  style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Seccion Contactanos</b>
+
+<div align="center">
+    <img src="./img/contactanosLP.png" style="margin: 10px 0;" width="90%"/>
+</div>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+En el Sprint 1, se ha desplegado el Landing Page, usando Netlify bajo el dominio ".netlify.app" de forma gratuita. Y se puede visualizar bajo el siguiente link: <a href="https://takemycar.netlify.app">Landing page</a>
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-<img src="./img/qw.png">
+Para el desarrollo de la Landing page, se utilizaron las siguientes tecnologías:
+
+- HTML: Lenguaje base para la creación de la estructura de una página web. 
+- CSS: Lenguaje de estilo para darle forma y diseño a las páginas web.
+- Git: Sistema de control de versiones para gestionar el desarrollo de software.
+- GitHub: Plataforma online para alojar repositorios Git. 
+
+Asimismo, para el despliegue de la página, se utilizó el servicio de Netlify.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-<img src="./img/commit.png">
+Contribuciones:
+
+<img src="./img/contributionsLP.png" style="margin: 10px 0;" width="90%"/>
 
 ## 5.3. Validation Interviews 
 
