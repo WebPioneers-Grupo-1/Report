@@ -869,11 +869,15 @@ A continuación se muestra el proceso para la realización del Empathy Mapping p
 
 Empathy Mapping para Juan Pérez
 
-<img src="./img/image2.png" width="1000" height="1000">
+<div align="center">
+    <img src="./img/image2.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
 Empathy Mapping para María López
 
-<img src="./img/image4.png" width="1000" height="1000">
+<div align="center">
+    <img src="./img/image4.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -881,11 +885,15 @@ A continuación se muestra el proceso para la realización del As-Is Scenario Ma
 
 As-Is Scenario Mapping para Juan Pérez
 
-<img src="./img/image1.png" width="1000" height="1000">
+<div align="center">
+    <img src="./img/image1.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
 As-Is Scenario Mapping para María López
 
-<img src="./img/image3.png" width="1000" height="1000">
+<div align="center">
+    <img src="./img/asis.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
 ## 2.4. Ubiquitous Language
 
@@ -1241,7 +1249,7 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 **Branding:** El logo de nuestra start-up se representa concisamente con el nombre de nuestra aplicación, el servicio que ofreces y una imagen identificable bajo la imagen de un auto, que busca expresar una imagen recordable y fácil de entender. 
 
 <div align="center">
-  <img src="./img/logo-take-my-car-v1.png" style="margin: 10px 0;" widht="500" height="280" />
+  <img src="./img/takelogo.png" style="margin: 10px 0;" widht="500" height="280" />
 </div>
 
 **Tipografía:** Nuestro logotipo posee la fuente predeterminado, resaltando la sencillez, el cual es la imagen que deseamos dar a nuestros clientes, el cual es un estilo simple, interactivo y moderno. Buscando promover atracción a nuestro público objetivo. Si bien es cierto, vamos a incluir una extensa lista de tipografias para el mejor desarrollo, pero para esta primera versión fue todo desarrollado con el tipo de letra predeterminado.
@@ -1250,7 +1258,7 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 
 Paleta de colores:
 <div align="center">
-  <img src="./img/paleta-guidelines.png" style="margin: 10px 0;" widht="500" height="500"/>
+  <img src="./img/pale.png" style="margin: 10px 0;" widht="500" height="500"/>
 </div>
 
 ### 4.1.1. General Style Guidelines
