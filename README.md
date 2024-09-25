@@ -719,11 +719,20 @@ En el Sprint 1, se ha desplegado el Landing Page, usando Netlify bajo el dominio
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-<img src="/img/qw.png">
+Para el desarrollo de la Landing page, se utilizaron las siguientes tecnologías:
+
+- HTML: Lenguaje base para la creación de la estructura de una página web. 
+- CSS: Lenguaje de estilo para darle forma y diseño a las páginas web.
+- Git: Sistema de control de versiones para gestionar el desarrollo de software.
+- GitHub: Plataforma online para alojar repositorios Git. 
+
+Asimismo, para el despliegue de la página, se utilizó el servicio de Netlify.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-<img src="/img/commit.png">
+Contribuciones:
+
+<img src="./img/contributionsLP.png" style="margin: 10px 0;" width="90%"/>
 
 ## 5.3. Validation Interviews 
 
