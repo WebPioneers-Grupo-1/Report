@@ -683,6 +683,8 @@ Repositorio de la Landing Page en GitHub: <a href="https://github.com/WebPioneer
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
+Al ser el primer sprint, y solo haber desarrollado el Landing Page no creemo necesario realizar testing de una Landing Page. Por lo que en la sección a continuación se muestra el Landing ya desplegado.
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 <img src="/img/rep3.png">
