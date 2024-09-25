@@ -260,7 +260,7 @@
 
 Paleta de colores:
 <div align="center">
-  <img src="./img/pale" style="margin: 10px 0;" widht="500" height="500"/>
+  <img src="./img/pale.png" style="margin: 10px 0;" widht="500" height="500"/>
 </div>
 
 ### 4.1.1. General Style Guidelines
