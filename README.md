@@ -543,9 +543,83 @@ A continuación, guía inicial de como desplegamos nuestra interfaz, cabe mencio
 
 #### 5.2.1.2. Sprint Backlog 1
 
-#### 5.2.1.3. Development Evidence for Sprint Review
+<br>
 
-<img src="/img/devep.png">
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 1</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="2">HU15</td>
+       <td rowspan="2">Visualizar página informativa</td>
+       <td>T01</td>
+       <td>Estructura de la landing</td>
+       <td>Programar el landing page comenzando por el HTML </td>
+       <td>0.1</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Agregar CSS styles</td>
+       <td>Asignar stilos generales para la página</td>
+       <td>0.1</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+       <td rowspan="2">HU17</td>
+       <td rowspan="2">Landing Page intuitiva</td>
+       <td>T10</td>
+       <td>Estructura Navbar</td>
+       <td>Crear HTML del navbar con direccionamiento a secciones</td>
+       <td>0.5</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T11</td>
+       <td>Estilos Navbar</td>
+       <td>Asignar stilos al navbar</td>
+       <td>0.5</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">HU18</td>
+       <td rowspan="2">Landing Page responsiva</td>
+       <td>T12</td>
+       <td>Main responsive</td>
+       <td>Agregar CSS media queries a las diferentes secciones del main</td>
+       <td>1.0</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T13</td>
+       <td>Navbar responsive</td>
+       <td>Agregar CSS media queries al navbar</td>
+       <td>0.5</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+</table>
+
+#### 5.2.1.3. Development Evidence for Sprint Review
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
