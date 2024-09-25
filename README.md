@@ -715,6 +715,8 @@ Tras el desarrolo de la Landing Page en el Sprint 1, obtuvimos el siguiente resu
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+En el Sprint 1, se ha desplegado el Landing Page, usando Netlify bajo el dominio ".netlify.app" de forma gratuita. Y se puede visualizar bajo el siguiente link: <a href="https://takemycar.netlify.app">Landing page</a>
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 <img src="/img/qw.png">
