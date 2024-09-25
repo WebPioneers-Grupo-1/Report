@@ -484,6 +484,73 @@ Segmento Objetivo 2: María Lopez
             </td>
             <td>EP14</td>
         </tr>
+        <tr style="text-align:center">
+            <td>HU15</td>
+            <td>Visualizar página informativa</td>
+            <td><strong>Como</strong> usuario, <strong>deseo</strong> poder acceder a una pagina de la empresa <strong>Para</strong> poder enterarme del servicio que ofrecen.</td>
+            <td>
+                <h5>Escenario 01: Acceso página.</h5>
+                <strong>Dado</strong> que el usuario ingresa al link de la pagina,<br>
+                <strong>Cuando</strong> tiene necesidad de buscar un vehiculo,<br>
+                <strong>Entonces</strong> la pagina se le muestra al usuario cuando este lo solicita.
+                <h5>Escenario 02: Fallo en la pagina.</h5>
+                <strong>Dado</strong> que el usuario ingresa al link de la pagina,<br>
+                <strong>Cuando</strong> la pagina no se muestra por un error o no registra correctamente el favorito,<br>
+                <strong>Entonces</strong> no se logra ingresar, no queremos eso.
+            </td>
+            <td>EP15</td>
+        </tr>
+        <tr style="text-align:center">
+    <td>HU16</td>
+    <td>Visualizar Contactos</td>
+    <td><strong>Como</strong> usuario, <strong>deseo</strong> poder acceder a la información de contacto de la empresa en la landing page <strong>Para</strong> ponerme en contacto rápidamente si tengo preguntas o dudas.</td>
+    <td>
+        <h5>Escenario 01: Acceso a la información de contacto.</h5>
+        <strong>Dado</strong> que el usuario navega por la landing page,<br>
+        <strong>Cuando</strong> el usuario busca la sección de contacto,<br>
+        <strong>Entonces</strong> la página debe mostrar claramente la información de contacto (teléfono, email, redes sociales, etc.) para que el usuario pueda comunicarse fácilmente.
+        <h5>Escenario 02: Información de contacto no disponible.</h5>
+        <strong>Dado</strong> que el usuario navega por la landing page,<br>
+        <strong>Cuando</strong> no se muestra la sección de contacto o los datos están incorrectos,<br>
+        <strong>Entonces</strong> el usuario no podrá comunicarse con la empresa, generando una mala experiencia.
+    </td>
+    <td>EP16</td>
+</tr>
+
+<tr style="text-align:center">
+    <td>HU17</td>
+    <td>Landing Page Intuitiva</td>
+    <td><strong>Como</strong> usuario, <strong>deseo</strong> que la landing page sea intuitiva y fácil de usar <strong>Para</strong> poder encontrar rápidamente la información que busco y navegar sin problemas.</td>
+    <td>
+        <h5>Escenario 01: Navegación exitosa.</h5>
+        <strong>Dado</strong> que el usuario accede a la landing page,<br>
+        <strong>Cuando</strong> el diseño es intuitivo y las opciones de navegación son claras,<br>
+        <strong>Entonces</strong> el usuario podrá encontrar fácilmente la información y explorar la página sin dificultades.
+        <h5>Escenario 02: Navegación confusa.</h5>
+        <strong>Dado</strong> que el usuario accede a la landing page,<br>
+        <strong>Cuando</strong> la página tiene un diseño poco intuitivo o confuso,<br>
+        <strong>Entonces</strong> el usuario tendrá dificultades para encontrar la información deseada, lo que puede generar frustración.
+    </td>
+    <td>EP17</td>
+</tr>
+
+<tr style="text-align:center">
+    <td>HU18</td>
+    <td>Landing Page Responsiva</td>
+    <td><strong>Como</strong> usuario, <strong>deseo</strong> que la landing page sea responsiva y se adapte a diferentes dispositivos <strong>Para</strong> poder acceder a la información desde mi móvil, tablet o computadora sin problemas de visualización.</td>
+    <td>
+        <h5>Escenario 01: Página responsiva.</h5>
+        <strong>Dado</strong> que el usuario accede a la landing page desde cualquier dispositivo,<br>
+        <strong>Cuando</strong> la página está bien diseñada y se adapta automáticamente a diferentes tamaños de pantalla,<br>
+        <strong>Entonces</strong> el usuario podrá visualizar correctamente toda la información y navegar sin inconvenientes.
+        <h5>Escenario 02: Página no responsiva.</h5>
+        <strong>Dado</strong> que el usuario accede a la landing page desde su móvil o tablet,<br>
+        <strong>Cuando</strong> la página no está adaptada para dispositivos móviles,<br>
+        <strong>Entonces</strong> el usuario tendrá problemas de visualización, lo que puede afectar la usabilidad.
+    </td>
+    <td>EP18</td>
+</tr>
+
     </tbody>
 </table>
 
