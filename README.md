@@ -621,6 +621,66 @@ A continuación, guía inicial de como desplegamos nuestra interfaz, cabe mencio
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
+A continuación, se muestran los commits realizados en el repositorio para el Landing Page, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+Repositorio de la Landing Page en GitHub: <a href="https://github.com/WebPioneers-Grupo-1/Landing-page">Enlace</a>
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=19>Landing Page</td>
+        <td>main</td>
+        <td>2044326934c4ac531428e1ba263b580d4f04b357</td>
+        <td>Aaron Cruz</td>
+        <td>Initial commit</td>
+        <td>23/09/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>35caf4950655a69409e33e9c4cc2417cf8f04d8e</td>
+        <td>Aaron Cruz</td>
+        <td>feat: add images, initial html and css files</td>
+        <td>23/09/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>77eec4831eee43035c2e934c52876fb82d4bab25</td>
+        <td>Aaron Cruz</td>
+        <td>feat: add html seccions and info</td>
+        <td>23/09/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>65c1ef1b4a900fefc3a6bb74c9838a2046c9c6da</td>
+        <td>Aaron Cruz</td>
+        <td>feat: add css styles</td>
+        <td>23/09/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>29a54826598cbb8dfcf651e0412040b8c3a4c796</td>
+        <td>Aaron Cruz</td>
+        <td>fix: footer links</td>
+        <td>23/09/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>f12100f51b13bf008ea673365198ed67b098add4</td>
+        <td>Aaron Cruz</td>
+        <td>ffeat: add favicon logo</td>
+        <td>23/09/2024</td>
+    </tr>
+    
+</table>
+<br><br>
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
