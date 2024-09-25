@@ -1579,6 +1579,262 @@ Landing page:
 
 <img src="./img/commit.png">
 
+### 5.2.2 Sprint Planning 2
+
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 2</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            24/09/24         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            10:00         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad Remota por Whatsapp  
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes Web Pioneers    
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Chavez Uribe, Ario Joel	<br>
+            - Cruz Ticona, Aaron Alejandro <br>
+            - Oshiro Yamashita, Daiki Oscar <br>
+            - Rivera Ayala, Gabriel Alejandro <br>
+            - Zuniga Calle, Sebastian Gabriel <br>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            En el Sprint 1 se completaron las User Stories acordadas, logrando la meta planteada. Se identificaron algunas mejoras en el flujo de trabajo que se abordarán en este sprint.  
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+          La retrospectiva del Sprint 1 destacó la importancia de mejorar la comunicación en tiempo real y el seguimiento del backlog. Se implementarán mejoras en la estimación de las tareas.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 2 Velocity</b>
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+</table>
+
+#### 5.2.2.2. Sprint Backlog 2
+
+<br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 2</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="2">HU20</td>
+       <td rowspan="2">Integrar API de usuarios</td>
+       <td>T14</td>
+       <td>Configurar rutas API</td>
+       <td>Definir rutas para la API de usuarios en el backend</td>
+       <td>1.5</td>
+       <td>Daiki Oshiro</td>
+       <td>In-Process</td>
+    </tr>
+    <tr>
+       <td>T15</td>
+       <td>Conectar con base de datos</td>
+       <td>Implementar conexión entre la API de usuarios y la base de datos MySQL</td>
+       <td>2.0</td>
+       <td>Daiki Oshiro</td>
+       <td>To-Do</td>
+    </tr>
+    <tr>
+       <td rowspan="2">HU22</td>
+       <td rowspan="2">Autenticación de usuarios</td>
+       <td>T16</td>
+       <td>Agregar JWT</td>
+       <td>Implementar autenticación con tokens JWT en la API de usuarios</td>
+       <td>1.0</td>
+       <td>Gabriel Rivera</td>
+       <td>In-Process</td>
+    </tr>
+    <tr>
+       <td>T17</td>
+       <td>Validar sesión</td>
+       <td>Validar tokens JWT para sesiones activas de usuario</td>
+       <td>1.0</td>
+       <td>Gabriel Rivera</td>
+       <td>To-Do</td>
+    </tr>
+    <tr>
+       <td rowspan="2">HU25</td>
+       <td rowspan="2">Diseño de página de perfil</td>
+       <td>T18</td>
+       <td>Maquetar página perfil</td>
+       <td>Crear la estructura HTML/CSS de la página de perfil de usuario</td>
+       <td>1.0</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T19</td>
+       <td>Estilos página perfil</td>
+       <td>Aplicar estilos CSS a la página de perfil</td>
+       <td>0.5</td>
+       <td>Aaron Cruz</td>
+       <td>In-Process</td>
+    </tr>
+</table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+
+A continuación, se muestran los commits realizados en el repositorio para el FrontEnd, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+Repositorio del FrontEnd en GitHub: <a href="https://github.com/WebPioneers-Grupo-1/Front-End">Enlace</a>
+
+<table align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=12>API Usuarios</td>
+        <td>main</td>
+        <td>9a71fcb1d4a1e6389b3bfe3268e6d98e2a5c5940</td>
+        <td>Gabriel Rivera</td>
+        <td>Initial commit</td>
+        <td>25/09/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>3cf814534f83751bfa6fbc47ec22b3d7f4a8e57c</td>
+        <td>Gabriel Rivera</td>
+        <td>feat: create basic user routes</td>
+        <td>25/09/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>b4b24f1c1b093ab029f57641fa518303e67d1bc3</td>
+        <td>Gabriel Rivera</td>
+        <td>feat: add user authentication with JWT</td>
+        <td>25/09/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>df982a1edb4a42778b9d53f8df7b4817a20c2b9f</td>
+        <td>Gabriel Rivera</td>
+        <td>fix: update error handling in auth routes</td>
+        <td>25/09/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>e90b3d8f741a29c982d1f5c88a82c0f8c12b0c59</td>
+        <td>Gabriel Rivera</td>
+        <td>feat: integrate database connections</td>
+        <td>25/09/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>47c83e5e1f5742a43f6c5e233b79e51fcfc334a8</td>
+        <td>Gabriel Rivera</td>
+        <td>refactor: optimize JWT validation</td>
+        <td>25/09/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>124fcb3ba2b6c958f674ecb615d9b3f00a2b832f</td>
+        <td>Gabriel Rivera</td>
+        <td>feat: add user session persistence</td>
+        <td>25/09/2024</td>
+    </tr>
+</table>
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+Al ser el primer sprint, y solo haber desarrollado el FrontEnd no creemo necesario realizar testing de una Landing Page. Por lo que en la sección a continuación se muestra el Landing ya desplegado.
+
+<img src="./img/lp1.png">
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+
 ## 5.3. Validation Interviews 
 
 ### 5.3.1. Diseño de Entrrevistas
