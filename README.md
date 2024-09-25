@@ -687,7 +687,31 @@ Al ser el primer sprint, y solo haber desarrollado el Landing Page no creemo nec
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-<img src="/img/rep3.png">
+Tras el desarrolo de la Landing Page en el Sprint 1, obtuvimos el siguiente resultado:
+
+<b>Seccion Inicio</b>
+
+<div align="center">
+    <img src="./img/inicioLP.png" style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Seccion ¿Que Ofrecemos?</b>
+
+<div align="center">
+    <img src="./img/que-ofrecemosLP.png"  style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Seccion Nosotros</b>
+
+<div align="center">
+    <img src="./img/nosotrosLP.png"  style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Seccion Contactanos</b>
+
+<div align="center">
+    <img src="./img/contactanosLP.png" style="margin: 10px 0;" width="90%"/>
+</div>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
