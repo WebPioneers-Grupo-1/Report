@@ -250,7 +250,7 @@
 <b>Branding:</b> El logo de nuestra start-up se representa concisamente con el nombre de nuestra aplicación, el servicio que ofreces y una imagen identificable bajo la imagen de un auto, que busca expresar una imagen recordable y fácil de entender. 
 
 <div align="center">
-  <img src="./img/logo-take-my-car-v1.png" style="margin: 10px 0;" widht="500" height="280" />
+  <img src="./img/takelogo.png" style="margin: 10px 0;" widht="500" height="280" />
 </div>
 <br>
 
@@ -260,7 +260,7 @@
 
 Paleta de colores:
 <div align="center">
-  <img src="./img/paleta-guidelines.png" style="margin: 10px 0;" widht="500" height="500"/>
+  <img src="./img/pale" style="margin: 10px 0;" widht="500" height="500"/>
 </div>
 
 ### 4.1.1. General Style Guidelines
