@@ -1834,6 +1834,30 @@ Al ser el primer sprint, y solo haber desarrollado el FrontEnd no creemo necesar
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+<img src="./img/lp2.png" style="margin: 10px 0;" width="90%"/>
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+En el Sprint 1, se ha desplegado el Landing Page, usando GitHub bajo el dominio ".netlify.app". Y se puede visualizar bajo el siguiente link: <a href="https://webpioneers-grupo-1.github.io/Front-End/">Landing page</a>
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para el desarrollo del FrontEnd, se utilizaron las siguientes tecnologías:
+
+- HTML: Lenguaje base para la creación de la estructura de una página web. 
+- CSS: Lenguaje de estilo para darle forma y diseño a las páginas web.
+- Git: Sistema de control de versiones para gestionar el desarrollo de software.
+- GitHub: Plataforma online para alojar repositorios Git. 
+
+Asimismo, para el despliegue de la página, se utilizó el servicio de Netlify.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Contribuciones:
+
+<img src="./img/contributionsLP.png" style="margin: 10px 0;" width="90%"/>
+
+
 
 ## 5.3. Validation Interviews 
 
