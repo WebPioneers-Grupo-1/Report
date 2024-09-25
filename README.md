@@ -869,11 +869,15 @@ A continuación se muestra el proceso para la realización del Empathy Mapping p
 
 Empathy Mapping para Juan Pérez
 
-<img src="./img/image2.png" width="1000" height="1000">
+<div align="center">
+    <img src="./img/image2.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
 Empathy Mapping para María López
 
-<img src="./img/image4.png" width="1000" height="1000">
+<div align="center">
+    <img src="./img/image4.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -881,11 +885,15 @@ A continuación se muestra el proceso para la realización del As-Is Scenario Ma
 
 As-Is Scenario Mapping para Juan Pérez
 
-<img src="./img/image1.png" width="1000" height="1000">
+<div align="center">
+    <img src="./img/image1.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
 As-Is Scenario Mapping para María López
 
-<img src="./img/asis.png" width="1000" height="1000">
+<div align="center">
+    <img src="./img/asis.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
 ## 2.4. Ubiquitous Language
 
