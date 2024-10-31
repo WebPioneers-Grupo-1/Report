@@ -2199,7 +2199,7 @@ Contribuciones:
 
 A continuación, se muestran los commits realizados en el repositorio para el FrontEnd, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
 
-Repositorio del FrontEnd en GitHub: <a href="https://github.com/WebPioneers-Grupo-1/Front-End">Enlace</a>
+Repositorio del FrontEnd en GitHub: <a href="https://github.com/WebPioneers-Grupo-1/take-my-car-front">Enlace</a>
 
 <table align="left" border="1" width="100%">
     <tr>
@@ -2274,7 +2274,7 @@ Al ser el primer sprint, y solo haber desarrollado el FrontEnd no creemo necesar
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-En el Sprint 1, se ha desplegado el Landing Page, usando GitHub bajo el dominio ".netlify.app". Y se puede visualizar bajo el siguiente link: <a href="https://webpioneers-grupo-1.github.io/Front-End/">Landing page</a>
+En el Sprint 2 se ha desarrollado el Front End Web Application, usando el framework Vite bajo el dominio ".netlify.app". Y se puede visualizar bajo el siguiente link: <a href="https://take-my-car-app.netlify.app/">Web App</a>
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
