@@ -1091,49 +1091,81 @@ Tabla de integrantes:
 
 ### 5.3.3. Evaluaciones según heurísticas
 
-1. Problema de Redirección Incorrecta al Utilizar Botones del Navegador
+Problema de Redirección Incorrecta al Utilizar Botones del Navegador
+
+<div align="center"> <img src="./img/h1.png" style="margin: 10px 0;" width="90%"/> </div>
+
 Severidad: 3
+
 Heurística Violada: Libertad y Control del Usuario
+
 Descripción: Al intentar utilizar los botones "Atrás" o "Adelante" del navegador, los usuarios de TakeMyCar encuentran páginas de error 404. Esto afecta la experiencia de navegación libre, generando frustración.
+
 Recomendación: Implementar un sistema de navegación consistente y mantener un historial de navegación claro, especialmente en el catálogo de vehículos, para evitar errores de redirección.
 
-<img src="/img/h1.png">
 
-2. Problemas con la Personalización del Historial de Alquiler
+
+Problemas con la Personalización del Historial de Alquiler
+
+<div align="center"> <img src="./img/h2.png" style="margin: 10px 0;" width="90%"/> </div>
+
 Severidad: 3
+
 Heurística Violada: Flexibilidad y Eficiencia de Uso
+
 Descripción: La plataforma carece de opciones personalizables para el historial de alquileres, lo que limita la eficiencia en la gestión de información relevante para usuarios frecuentes.
-Recomendación: Incorporar opciones que permitan a los usuarios agregar notas o marcar elementos importantes en el historial de alquileres para un acceso rápido. Este tipo de personalización mejoraría la funcionalidad para los usuarios avanzados​.
 
-<img src="/img/h2.png">
+Recomendación: Incorporar opciones que permitan a los usuarios agregar notas o marcar elementos importantes en el historial de alquileres para un acceso rápido. Este tipo de personalización mejoraría la funcionalidad para los usuarios avanzados.
 
-3.  Inconsistencias en el Menú de Navegación
+
+
+Inconsistencias en el Menú de Navegación
+
+<div align="center"> <img src="./img/h3.png" style="margin: 10px 0;" width="90%"/> </div>
+
 Severidad: 3
-Heurística Violada: Consistencia y estándares
-Descripción: En el menú de navegación de TakeMyCar, algunas opciones aparecen o desaparecen según el contexto, lo que genera confusión para los usuarios que esperan una estructura de menú constante en todas las páginas. Además, ciertos términos y estilos de botones cambian en diferentes secciones, afectando la experiencia de usuario.
+
+Heurística Violada: Consistencia y Estándares
+
+Descripción: En el menú de navegación de TakeMyCar, algunas opciones aparecen o desaparecen según el contexto, lo que genera confusión para los usuarios que esperan una estructura de menú constante en todas las páginas. 
+
+Además, ciertos términos y estilos de botones cambian en diferentes secciones, afectando la experiencia de usuario.
+
 Recomendación: Estandarizar el menú de navegación y asegurar que las opciones y estilos sean consistentes en todas las páginas. Es recomendable incluir un menú fijo y claro que permita al usuario acceder a las principales funciones de la aplicación en todo momento, evitando que elementos desaparezcan de forma inesperada.
 
-<img src="/img/h3.png">
 
-4. Dificultad para Filtrar Vehículos en Función de Preferencias Específicas
+
+Dificultad para Filtrar Vehículos en Función de Preferencias Específicas
+
+<div align="center"> <img src="./img/h4.png" style="margin: 10px 0;" width="90%"/> </div>
+
 Severidad: 3
+
 Heurística Violada: Flexibilidad y Eficiencia de Uso
-Descripción: La plataforma actualmente ofrece opciones de búsqueda limitadas, lo cual restringe la posibilidad de que los usuarios encuentren rápidamente vehículos que se ajusten a sus preferencias específicas, como tipo de transmisión, año, o características de seguridad.
+
+Descripción: La plataforma actualmente ofrece opciones de búsqueda limitadas, lo cual restringe la posibilidad de que los usuarios encuentren rápidamente vehículos que se ajusten a sus preferencias específicas, como 
+tipo de transmisión, año o características de seguridad.
+
 Recomendación: Ampliar los filtros de búsqueda con opciones avanzadas para personalizar la búsqueda según las necesidades del usuario, mejorando así la eficiencia de uso y adaptándose a las preferencias de cada cliente.
 
-<img src="/img/h4.png">
 
-5. Problemas de Retroalimentación Inmediata al Seleccionar Opciones
+
+Problemas de Retroalimentación Inmediata al Seleccionar Opciones
+
+<div align="center"> <img src="./img/h5.png" style="margin: 10px 0;" width="90%"/> </div>
+
 Severidad: 2
+
 Heurística Violada: Visibilidad del Estado del Sistema
+
 Descripción: Al realizar acciones como elegir un vehículo o iniciar el proceso de alquiler, los usuarios no reciben confirmaciones visuales inmediatas, lo que provoca dudas sobre si la acción fue registrada correctamente.
+
 Recomendación: Implementar mensajes de confirmación rápidos y claros para cada acción importante, como la selección de vehículos y confirmación de reservas. Este feedback inmediato mejoraría la confianza del usuario en la interacción con el sistema.
 
-<img src="/img/h5.png">
 
 ## 5.4. Video About-the-Product
 
-<img src="/img/fotoqw.png">
+<div align="center"> <img src="./img/fotoqw.png" style="margin: 10px 0;" width="90%"/> </div>
 
 <br>https://youtu.be/F0f1vnUtpII<br>
 
