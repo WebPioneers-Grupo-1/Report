@@ -1087,7 +1087,7 @@ Tabla de integrantes:
 
 ## 5.4. Video About-the-Product
 
-    <img src="./img/fotoqw.png" style="margin: 10px 0;" width="90%"/>
+<img src="/img/fotoqw.png">
 
 <br>https://youtu.be/F0f1vnUtpII<br>
 
