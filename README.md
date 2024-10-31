@@ -826,7 +826,7 @@ Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando 
 
 | Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
 |:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
-| PawFect Care <br> Acceptance Tests | main | 4bbda94 | Initial commit |  | 09/07/2024 |
+| TakeMyCar <br> Acceptance Tests | main | 4bbda94 | Initial commit |  | 09/07/2024 |
 |   | main | 66c33e5 | feat: added acceptance tests |  | 09/07/2024 |
 |   | main | 91e4297 | feat: added images |  | 09/07/2024 |
 
@@ -834,7 +834,7 @@ Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 En esta entrega, el equipo PawFect Care ha logrado completar parcialmente la creación y el deployment de el FrontEnd de la Aplicación Web.
 
-Enlace del deployment de la Landing Page: [https://webpioneers-grupo-1.github.io/frontend/](https://webpioneers-grupo-1.github.io/frontend/Home)
+Enlace del deployment de la Landing Page: [https://webpioneers-grupo-1.github.io/frontend/](https://webpioneers-grupo-1.github.io/frontend/)
 
 ## 5.3. Validation Interviews 
 
