@@ -1254,22 +1254,6 @@ Link de la entrevista: [Entrevista_Propietario](https://upcedupe-my.sharepoint.c
 
 
 
-#### Entrevista 4:
-
-
-<div align="center"> <img src="./img/entrevista4a.png" style="margin: 10px 0;" width="70%"/> </div>
-
-
-#### Entrevista 5:
-
-
-<div align="center"> <img src="./img/entrevista5a.png" style="margin: 10px 0;" width="70%"/> </div>
-
-
-#### Entrevista 5:
-
-<div align="center"> <img src="./img/entrevista6a.png" style="margin: 10px 0;" width="70%"/> </div>
-
 
 ### 5.3.3. Evaluaciones según heurísticas
 
