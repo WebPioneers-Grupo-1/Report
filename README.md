@@ -39,7 +39,9 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-------: | :---------: | :----------------: | :----------------------:|
-|TB1|05/09/2024|Chavez,Cruz,Oshiro,Rivera y Zuniga|Se añadió los capítulos 1 al 5|
+|TB1|05/09/2024|Chavez,Cruz,Oshiro,Rivera y Zuniga|Se añadió los capítulos 1 al 4|
+|TP1|29/09/2024|Chavez,Cruz,Oshiro,Rivera y Zuniga|Se añadió el capítulo 5|
+|TB2|30/10/2024|Chavez,Cruz,Oshiro,Rivera|Se arreglares errores y nuevo contenido al capítulo 5 del backend|
 
 # Project Report Collaboration Insights
 
