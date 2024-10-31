@@ -387,9 +387,11 @@ Para "Take My Car", utilizaremos el enfoque Gitflow con GitHub para gestionar el
 
 GitHub facilitará la colaboración en equipo mediante pull requests para revisar y aprobar cambios, y issues para gestionar tareas y errores. Además, GitHub Pages permitirá la visualización de una versión de ejemplo de la aplicación. Esta estructura garantiza un desarrollo organizado, seguimiento efectivo del progreso y una integración continua de cambios, mejorando la eficiencia y calidad del proyecto.
 
-URL del repositorio del Report en GitHub: https://github.com/WebPioneers-Grupo-1/Report
+URL del repositorio del Report en GitHub: [https://github.com/WebPioneers-Grupo-1/Report](https://github.com/WebPioneers-Grupo-1/Report)
 
-URL del repositorio del Landing Page en GitHub: https://github.com/WebPioneers-Grupo-1/Landing-page
+URL del repositorio del Landing Page en GitHub: [https://github.com/WebPioneers-Grupo-1/Landing-page](https://github.com/WebPioneers-Grupo-1/Landing-page)
+
+URL del repositorio del FrontEnd en GitHub: [https://github.com/WebPioneers-Grupo-1/frontend](https://github.com/WebPioneers-Grupo-1/frontend)
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
@@ -931,10 +933,6 @@ Visualización del nuevo auto en la Galeria:
 <div align="center"> <img src="./img/evi9.png" style="margin: 10px 0;" width="70%"/> </div>
 
 
-
-Visualización del nuevo auto en la base de datos:
-
-<div align="center"> <img src="./img/evi10.png" style="margin: 10px 0;" width="70%"/> </div>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 En el alcance del sprint 2, se ha dado prioridad al desarrollo del frontend de la aplicación web, lo que significa que en este sprint no se observa la utilización de servicios web.
