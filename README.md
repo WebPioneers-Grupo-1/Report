@@ -826,9 +826,9 @@ Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando 
 
 | Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
 |:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
-| TakeMyCar <br> Acceptance Tests | main | 4bbda94 | Initial commit |  | 09/07/2024 |
-|   | main | 66c33e5 | feat: added acceptance tests |  | 09/07/2024 |
-|   | main | 91e4297 | feat: added images |  | 09/07/2024 |
+| TakeMyCar <br> Acceptance Tests | main | 4bbda94 | Initial commit |  | 30/10/2024 |
+| TakeMyCar | main | 66c33e5 | feat: added acceptance tests |  | 30/10/2024 |
+| TakeMyCar  | main | 91e4297 | feat: added images |  | 30/10/2024 |
 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
