@@ -1008,7 +1008,7 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 </table>
 
 
-#### 5.2.2.2. Sprint Backlog 2
+#### 5.2.3.2. Sprint Backlog 2
 
 | id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
 | ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
@@ -1021,14 +1021,63 @@ En este sprint se implementaron funcionalidades clave como la realización de in
 
 
 
-#### 5.2.2.3. Development Evidence for Sprint Review
+#### 5.2.3.3. Development Evidence for Sprint Review
 
 | Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
 |:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
-| [TakeMyCar <br> FrontEnd](https://snazzy-mooncake-161ed9.netlify.app) | main | 888051d | initial commit |  | 23/09/2024 |
-| FrontEnd | main | 3a26b2c | Updated InicioSesion | 93f6427 | 23/09/2024 |
-| FrontEnd | main | 3a26b2c | Updated README   | 696f064 | 23/09/2024 |
-| FrontEnd | main | 3a26b2c | Updated RegistroSesion   | 2af556c | 23/09/2024 |
+| [TakeMyCar <br> BackEnd](https://snazzy-mooncake-161ed9.netlify.app) | main | 888051d | initial commit |  | 27/10/2024 |
+| BackEnd | main | 3a26b2c | Updated InicioSesion | 93f6427 | 31/10/2024 |
+| BackEnd | main | 3a26b2c | Updated README   | 696f064 | 31/10/2024 |
+| BackEnd | main | 3a26b2c | Updated RegistroSesion   | 2af556c | 31/10/2024 |
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando la herramienta Gherkin. Puedes encontrar los escenarios de estas pruebas dando click aqui: [https://github.com/WebPioneers-Grupo-1/TakeMyCar-Acceptance-Tests](https://github.com/WebPioneers-Grupo-1/TakeMyCar-Acceptance-Tests)
+
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| TakeMyCar <br> Acceptance Tests | main | 4bbda94 | Initial commit |  | 30/10/2024 |
+| TakeMyCar | main | 66c33e5 | feat: added acceptance tests |  | 30/10/2024 |
+| TakeMyCar  | main | 91e4297 | feat: added images |  | 30/10/2024 |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+En esta entrega, el equipo PawFect Care ha logrado completar parcialmente la creación del BackEnd.
+
+Enlace del deployment de la Landing Page: []()
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+En el alcance del sprint 3, se ha dado prioridad a la mejora del FrontEnd y la implementación del BackEnd.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+Durante este sprint, se ha completado el desarrollo del frontend de la aplicación web. Para el despliegue, se utilizaron las siguientes herramientas y servicios:
+
+Git: Sistema de control de versiones que utilizamos para trabajar de forma colaborativa y monitorear las versiones de la aplicación web en un repositorio remoto.
+Gitflow: Este flujo de trabajo colaborativo nos ha permitido dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilita la colaboración en el desarrollo.
+GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+El equipo organizó el desarrollo del frontend de la aplicación web en ramas para abordar cada sección de forma independiente, optimizando así el mantenimiento y la colaboración durante el sprint. Se siguieron las convenciones estándar de GitFlow, por lo que se crearon ramas de desarrollo y de funcionalidad (bounded-context) según la necesidad. A continuación, se detallan las tareas asignadas a cada miembro del equipo, así como los comentarios del equipo a través de la plataforma GitHub:
+
+| Alumno                         | Actividad                                                                                                                                                                                        |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Chavez Uribe, Ario Joel  | Se encargo de la revisión y culminación del informe, cumpliendo con los requerimientos solicitados |
+| Cruz Ticona, Aaron Alejandro | Se encargó de la gestión del equipo y asignación de trabajos  |
+| Oshiro Yamashita, Daiki Oscar | Se encargo de la implementación del código, su funcionamiento adecuado siguiendo los lineamientos estipulados |
+| Rivera Ayala, Gabriel Alejandro | Se encargó de brindar soporte al código mediante funciones faltantes al programa |
+| Zuniga Calle, Sebastian Gabriel | Apoyó en la creación de la lógica del negocio y mejoró los boundend context |
+
+A continuación, se mostrará la tabla de colaboradores en el repositorio de GitHub, con el objetivo de identificar a cada miembro del equipo.
+
+Tabla de integrantes:
+
+| Username (GitHub) | Nombre                         |
+| ----------------- | ------------------------------ |
+| AaronAlejandrou  | Cruz Ticona, Aaron Alejandro |
+| feg06             | Chavez Uribe, Ario Joel  |
+| DaikiOY        | Oshiro Yamashita, Daiki Oscar |
+| GabrielRiveraOfficial | Rivera Ayala, Gabriel Alejandro |
+| SeZuu             | Zuniga Calle, Sebastian Gabriel   |
 
 ## 5.3. Validation Interviews 
 
