@@ -941,8 +941,6 @@ En el alcance del sprint 2, se ha dado prioridad al desarrollo del frontend de l
 
 <div align="center"> <img src="./img/netly2.png" style="margin: 10px 0;" width="70%"/> </div>
 
-<div align="center"> <img src="./img/Swa.png" style="margin: 10px 0;" width="70%"/> </div>
-
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 Durante este sprint, se ha completado el desarrollo del frontend de la aplicación web. Para el despliegue, se utilizaron las siguientes herramientas y servicios:
@@ -1158,6 +1156,9 @@ En el alcance del sprint 3, se ha dado prioridad a la mejora del FrontEnd y la i
 
 Capturas de pantalla que ilustran la implementación exitosa del backend en Railway:
 <div align="center"> <img src="./img/deployment3.png" style="margin: 10px 0;" width="70%"/> </div>
+
+Capura de pantalla de swagger de nuestra API:
+<div align="center"> <img src="./img/Swa.png" style="margin: 10px 0;" width="70%"/> </div>
 
 Link del Backend en Github: https://github.com/WebPioneers-Grupo-1/backend
 
