@@ -881,7 +881,7 @@ En este sprint se implementaron funcionalidades clave como la realización de in
 
 | Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
 |:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
-| [TakeMyCar <br> FrontEnd](https://snazzy-mooncake-161ed9.netlify.app) | main | 888051d | initial commit |  | 23/09/2024 |
+| [TakeMyCar <br> FrontEnd](https://take-my-car-app.netlify.app/) | main | 888051d | initial commit |  | 23/09/2024 |
 | FrontEnd | main | 3a26b2c | Updated InicioSesion | 93f6427 | 23/09/2024 |
 | FrontEnd | main | 3a26b2c | Updated README   | 696f064 | 23/09/2024 |
 | FrontEnd | main | 3a26b2c | Updated RegistroSesion   | 2af556c | 23/09/2024 |
@@ -1090,6 +1090,7 @@ Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando 
 En esta entrega, el equipo TakeMyCar ha logrado completar parcialmente la creación del BackEnd.
 
 Enlace del deployment de la Landing Page: https://snazzy-mooncake-161ed9.netlify.app/
+Enlace del deployment del FrontEnd: https://take-my-car-app.netlify.app/
 
 Registro de nuevo usuario:
 
