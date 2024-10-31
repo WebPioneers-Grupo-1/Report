@@ -1028,22 +1028,22 @@ Anexo: Tablas de commits en el periodo de 1 mes.
     </td>
   </tr>
   <tr>
-    <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+    <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
     <td> Este sprint estuvo enfocado en el desarrollo del back-end y la implementación básica para el registro de base de datos de TakeMyCar. Las funcionalidades claves de la landing page fueron completadas y el front-end presenta una labor del 90% de su totalidad, permitiendo que los usuarios exploren el servicio. Las secciones desarrolladas incluyen el diseño de la barra de navegación, La selección de un vehículo y registro del mismo. </td>
   </tr>
   <tr>
-    <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+    <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
     <td> Aunque fue un sprint de desarrollo, el equipo identificó algunas áreas de mejora en la comunicación durante el proceso de implementación. La retroalimentación se centró en ajustar los tiempos de reunión y mejorar la distribución de tareas en el equipo. Se propuso mayor enfoque en la planificación de tareas individuales para evitar cuellos de botella. </td>
   </tr>
   <tr>
     <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
   </tr>
   <tr>
-    <td style="font-weight: bold;"> Sprint 2 Goal </td>
+    <td style="font-weight: bold;"> Sprint 3 Goal </td>
     <td> El objetivo de este sprint es desarrollar e implementar el back-end de la aplicación web, permitiendo el registro de información dentro del sistema, cabe recalcar que nos encontramos en una etapa temprana de desarrollo en este apratado, por ende las implementaciones aún no son 100% compatibles. </td>
   </tr>
   <tr>
-    <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+    <td style="font-weight: bold;"> Sprint 3 Velocity </td>
     <td> <strong>8 </strong><br> El equipo ha establecido una capacidad de 8 Story Points para este Sprint, tomando en cuenta el alcance del desarrollo del front-end y la carga estimada de trabajo. </td>
   </tr>
   <tr>
