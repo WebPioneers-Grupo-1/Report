@@ -896,7 +896,7 @@ Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 En esta entrega, el equipo PawFect Care ha logrado completar parcialmente la creación y el deployment de el FrontEnd de la Aplicación Web.
 
-Enlace del deployment de la Landing Page: [https://webpioneers-grupo-1.github.io/frontend/](https://webpioneers-grupo-1.github.io/frontend/)
+Enlace del deployment del FrontEnd: [https://snazzy-mooncake-161ed9.netlify.app/)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 En el alcance del sprint 2, se ha dado prioridad al desarrollo del frontend de la aplicación web, lo que significa que en este sprint no se observa la utilización de servicios web.
