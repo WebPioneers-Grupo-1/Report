@@ -798,7 +798,7 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 
 ### 5.2.2. Sprint 2
 
-#### 5.2.2.1. Sprint Planning 1
+#### 5.2.2.1. Sprint Planning 2
 
 <table>
   <tr>
@@ -898,8 +898,49 @@ En esta entrega, el equipo PawFect Care ha logrado completar parcialmente la cre
 
 Enlace del deployment del FrontEnd: [https://snazzy-mooncake-161ed9.netlify.app/)
 
+Registro de nuevo usuario:
+
+<div align="center"> <img src="./img/evi1.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Ingreso a la Galeria de Autos:
+
+<div align="center"> <img src="./img/evi3.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del auto que el usuario alquiló:
+
+<div align="center"> <img src="./img/evi4.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+Cancelar el alquiler:
+
+<div align="center"> <img src="./img/evi6.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+Añadir nuevo auto a la Galeria:
+
+<div align="center"> <img src="./img/evi8.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del nuevo auto en la Galeria:
+
+<div align="center"> <img src="./img/evi9.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del nuevo auto en la base de datos:
+
+<div align="center"> <img src="./img/evi10.png" style="margin: 10px 0;" width="70%"/> </div>
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 En el alcance del sprint 2, se ha dado prioridad al desarrollo del frontend de la aplicación web, lo que significa que en este sprint no se observa la utilización de servicios web.
+
+<div align="center"> <img src="./img/netly2.png" style="margin: 10px 0;" width="70%"/> </div>
+
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 Durante este sprint, se ha completado el desarrollo del frontend de la aplicación web. Para el despliegue, se utilizaron las siguientes herramientas y servicios:
@@ -907,6 +948,10 @@ Durante este sprint, se ha completado el desarrollo del frontend de la aplicaci�
 Git: Sistema de control de versiones que utilizamos para trabajar de forma colaborativa y monitorear las versiones de la aplicación web en un repositorio remoto.
 Gitflow: Este flujo de trabajo colaborativo nos ha permitido dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilita la colaboración en el desarrollo.
 GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
+
+
+<div align="center"> <img src="./img/netly.png" style="margin: 10px 0;" width="70%"/> </div>
+
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -946,7 +991,7 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 
 ### 5.2.3. Sprint 3
 
-#### 5.2.3.1. Sprint Planning 2
+#### 5.2.3.1. Sprint Planning 3
 
 <table>
   <tr>
@@ -1008,7 +1053,7 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 </table>
 
 
-#### 5.2.3.2. Sprint Backlog 2
+#### 5.2.3.2. Sprint Backlog 3
 
 | id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
 | ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
