@@ -432,6 +432,68 @@ A continuación, guía inicial de como desplegamos nuestra interfaz, cabe mencio
 
 <img src="/img/Deploy3.png">
 
+Estas convenciones nos ayudan a mantener el código organizado, legible y coherente a lo largo del proyecto.
+
+- US01:
+
+![Gherkin1](./img/1.png)
+
+- US02:
+
+![Gherkin2](./img/2.png)
+
+- US03:
+
+![Gherkin3](./img/3.png)
+
+- US04:
+
+![Gherkin4](./img/4.png)
+
+- US05:
+
+![Gherkin5](./img/5.png)
+
+- US06:
+
+![Gherkin6](./img/6.png)
+
+- US07:
+
+![Gherkin7](./img/7.png)
+
+- US08:
+
+![Gherkin8](./img/8.png)
+
+- US09:
+
+![Gherkin9](./img/9.png)
+
+- US010:
+
+![Gherkin10](./img/10.png)
+
+- US11:
+
+![Gherkin11](./img/11.png)
+
+- US12:
+
+![Gherkin12](./img/12.png)
+
+- US13:
+
+![Gherkin13](./img/13.png)
+
+- US014:
+
+![Gherkin14](./img/14.png)
+
+- US15:
+
+![Gherkin15](./img/15.png)
+
 ## 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
