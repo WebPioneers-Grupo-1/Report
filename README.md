@@ -898,7 +898,7 @@ Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando 
 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
-En esta entrega, el equipo PawFect Care ha logrado completar parcialmente la creación y el deployment de el FrontEnd de la Aplicación Web.
+En esta entrega, el equipo TakeMyCar ha logrado completar parcialmente la creación y el deployment de el FrontEnd de la Aplicación Web.
 
 Enlace del deployment del FrontEnd: [https://snazzy-mooncake-161ed9.netlify.app/)
 
@@ -940,6 +940,8 @@ Visualización del nuevo auto en la Galeria:
 En el alcance del sprint 2, se ha dado prioridad al desarrollo del frontend de la aplicación web, lo que significa que en este sprint no se observa la utilización de servicios web.
 
 <div align="center"> <img src="./img/netly2.png" style="margin: 10px 0;" width="70%"/> </div>
+
+<div align="center"> <img src="./img/Swa.png" style="margin: 10px 0;" width="70%"/> </div>
 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
@@ -1087,7 +1089,7 @@ Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando 
 | TakeMyCar  | main | 91e4297 | feat: added images |  | 30/10/2024 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
-En esta entrega, el equipo PawFect Care ha logrado completar parcialmente la creación del BackEnd.
+En esta entrega, el equipo TakeMyCar ha logrado completar parcialmente la creación del BackEnd.
 
 Enlace del deployment de la Landing Page: https://snazzy-mooncake-161ed9.netlify.app/
 
