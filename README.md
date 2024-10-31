@@ -822,7 +822,7 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
   </tr>
   <tr>
     <td style="font-weight: bold;"> Prepared By </td>
-    <td> Gutierrez Garcia, Jose Eduardo </td>
+    <td> Cruz Ticona, Aaron Alejandro </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
@@ -944,6 +944,91 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 
 <img src="./img/commit2.png">
 
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 2
+
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 3 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 30/10/2024 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 23:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Virtual (Google Meet) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Chavez Uribe, Ario Joel </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td>
+      Cruz Ticona, Aaron Alejandro<br>
+      Chavez Uribe, Ario Joel<br>
+      Oshiro Yamashita, Daiki Oscar<br>
+      Rivera Ayala, Gabriel Alejandro<br>
+      Zuniga Calle, Sebastian Gabriel
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+    <td> Este sprint estuvo enfocado en el desarrollo del back-end y la implementación básica para el registro de base de datos de TakeMyCar. Las funcionalidades claves de la landing page fueron completadas y el front-end presenta una labor del 90% de su totalidad, permitiendo que los usuarios exploren el servicio. Las secciones desarrolladas incluyen el diseño de la barra de navegación, La selección de un vehículo y registro del mismo. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+    <td> Aunque fue un sprint de desarrollo, el equipo identificó algunas áreas de mejora en la comunicación durante el proceso de implementación. La retroalimentación se centró en ajustar los tiempos de reunión y mejorar la distribución de tareas en el equipo. Se propuso mayor enfoque en la planificación de tareas individuales para evitar cuellos de botella. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Goal </td>
+    <td> El objetivo de este sprint es desarrollar e implementar el back-end de la aplicación web, permitiendo el registro de información dentro del sistema, cabe recalcar que nos encontramos en una etapa temprana de desarrollo en este apratado, por ende las implementaciones aún no son 100% compatibles. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+    <td> <strong>8 </strong><br> El equipo ha establecido una capacidad de 8 Story Points para este Sprint, tomando en cuenta el alcance del desarrollo del front-end y la carga estimada de trabajo. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 8 </td>
+  </tr>
+</table>
+
+
+#### 5.2.2.2. Sprint Backlog 2
+
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| HU06 | Publicar un vehículo para alquiler  | TS05 | Componente de Publicación de un vehículo para alquiler	 | Implementación de la funcionalidad para publicar el vehículo del propietario. | 3 | Daiki | Done                                   |
+| HU07 | Buscar vehículos disponibles   | TS06 | Implementación de la Búsqueda de vehículos disponibles  	 | Creación de la Búsqueda de vehiculos, permitiendo un acceso a diferentes opciones en base a disponibilidad. | 5               | Aaron   | Done                          |
+| HU13 | 	Ver historial de alquileres | TS07 | Implementación de historial de alquileres	| Implementación de historial respecto a la entrega del vehículo | 5 | José  | Done
+| HU11 | 	Calcular tarifas de alquiler  | TS08 | 	Desarrollo del cálculo respecto a las tarifas de alquiler | Creación del método de disponibilidad de un vehículo. | 12   | Daiki | Done                                   |
+
+En este sprint se implementaron funcionalidades clave como la realización de ingreso a la aplicación, opciones básicas de conexión con la base de datos que incluye búsqueda, selección y entrega del vehículo, mantenemos un enfoque de facilidad para el programador, de modo que no le tome mucho tiempo entender dichas operaciones.
+
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| [TakeMyCar <br> FrontEnd](https://snazzy-mooncake-161ed9.netlify.app) | main | 888051d | initial commit |  | 23/09/2024 |
+| FrontEnd | main | 3a26b2c | Updated InicioSesion | 93f6427 | 23/09/2024 |
+| FrontEnd | main | 3a26b2c | Updated README   | 696f064 | 23/09/2024 |
+| FrontEnd | main | 3a26b2c | Updated RegistroSesion   | 2af556c | 23/09/2024 |
 
 ## 5.3. Validation Interviews 
 
