@@ -1229,6 +1229,25 @@ Tabla de integrantes:
 
 ### 5.3.2. Registro de Entrevistas
 
+#### Entrevista 1:
+
+
+Link de la entrevista: https://youtu.be/4fcSmhcB854
+
+
+<div align="center"> <img src="./img/entrevista1a.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+#### Entrevista 2:
+
+
+
+
+
+#### Entrevista 3:
+
+
 
 
 ### 5.3.3. Evaluaciones según heurísticas
