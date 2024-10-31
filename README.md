@@ -1670,9 +1670,13 @@ Para "Take My Car", utilizaremos el enfoque Gitflow con GitHub para gestionar el
 
 GitHub facilitará la colaboración en equipo mediante pull requests para revisar y aprobar cambios, y issues para gestionar tareas y errores. Además, GitHub Pages permitirá la visualización de una versión de ejemplo de la aplicación. Esta estructura garantiza un desarrollo organizado, seguimiento efectivo del progreso y una integración continua de cambios, mejorando la eficiencia y calidad del proyecto.
 
-URL del repositorio del Report en GitHub: https://github.com/WebPioneers-Grupo-1/Report
+URL del repositorio del Report en GitHub: [https://github.com/WebPioneers-Grupo-1/Report](https://github.com/WebPioneers-Grupo-1/Report)
 
-URL del repositorio del Landing Page en GitHub: https://github.com/WebPioneers-Grupo-1/Landing-page
+URL del repositorio del Landing Page en GitHub: [https://github.com/WebPioneers-Grupo-1/Landing-page](https://github.com/WebPioneers-Grupo-1/Landing-page)
+
+URL del repositorio del FrontEnd en GitHub: [https://github.com/WebPioneers-Grupo-1/frontend](https://github.com/WebPioneers-Grupo-1/frontend)
+
+URL del repositorio del Backend en GitHub: https://github.com/WebPioneers-Grupo-1/backend
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
@@ -1714,6 +1718,68 @@ A continuación, guía inicial de como desplegamos nuestra interfaz, cabe mencio
 <b>3. Seguir los pasos y desplegar la Landing Page</b>
 
 <img src="/img/Deploy3.png">
+
+Estas convenciones nos ayudan a mantener el código organizado, legible y coherente a lo largo del proyecto.
+
+- US01:
+
+![Gherkin1](./img/1.png)
+
+- US02:
+
+![Gherkin2](./img/2.png)
+
+- US03:
+
+![Gherkin3](./img/3.png)
+
+- US04:
+
+![Gherkin4](./img/4.png)
+
+- US05:
+
+![Gherkin5](./img/5.png)
+
+- US06:
+
+![Gherkin6](./img/6.png)
+
+- US07:
+
+![Gherkin7](./img/7.png)
+
+- US08:
+
+![Gherkin8](./img/8.png)
+
+- US09:
+
+![Gherkin9](./img/9.png)
+
+- US010:
+
+![Gherkin10](./img/10.png)
+
+- US11:
+
+![Gherkin11](./img/11.png)
+
+- US12:
+
+![Gherkin12](./img/12.png)
+
+- US13:
+
+![Gherkin13](./img/13.png)
+
+- US014:
+
+![Gherkin14](./img/14.png)
+
+- US15:
+
+![Gherkin15](./img/15.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -2011,309 +2077,571 @@ Para el desarrollo de la Landing page, se utilizaron las siguientes tecnologías
 
 Asimismo, para el despliegue de la página, se utilizó el servicio de Netlify.
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint
 
-Contribuciones:
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+Para llevar a cabo este proyecto se usaron distintas herramientas como Visual Studio Code; junto con manejo de versiones en Git. En este caso se dividio la landing page mostrada anteriormente en sectores, a partir de esto cada uno presentó su parte y luego un miembro juntó las partes para finalmente tener el resultado deseado.
 
 <img src="./img/contributionsLP.png" style="margin: 10px 0;" width="90%"/>
 
-### 5.2.2 Sprint Planning 2
 
-<table align="center"  border="1" width="90%" style="text-align:center;">
-    <tr align="left">
-        <td>
-            <b>Sprint #</b>
-        </td>
-        <td>
-            <b>Sprint 2</b>           
-        </td>
-    </tr>
-    <tr align="left">
-        <td colspan="2">
-            <b>Sprint Planning Background</b>
-        </td>
-    </tr>
-    <tr align="left">
-        <td>
-            <b>Date</b>
-        </td>
-        <td>
-            24/09/24         
-        </td>
-    </tr>
-    <tr align="left">
-        <td>
-            <b>Time</b>
-        </td>
-        <td>
-            10:00         
-        </td>
-    </tr>
-    <tr align="left">
-        <td>
-            <b>Location</b>
-        </td>
-        <td>
-            Modalidad Remota por Whatsapp  
-        </td>
-    </tr>
-    <tr align="left">
-        <td>
-            <b>Prepared By</b>
-        </td>
-        <td>
-            Integrantes Web Pioneers    
-        </td>
-    </tr>
-    <tr align="left">
-        <td>
-            <b>Attendess (to planning meeting)</b>
-        </td>
-        <td>
-            - Chavez Uribe, Ario Joel	<br>
-            - Cruz Ticona, Aaron Alejandro <br>
-            - Oshiro Yamashita, Daiki Oscar <br>
-            - Rivera Ayala, Gabriel Alejandro <br>
-            - Zuniga Calle, Sebastian Gabriel <br>
-        </td>
-    </tr>
-    <tr align="left">
-        <td>
-            <b>Sprint n - 1</b>
-            <b>Review Summary</b>
-        </td>
-        <td>
-            En el Sprint 1 se completaron las User Stories acordadas, logrando la meta planteada. Se identificaron algunas mejoras en el flujo de trabajo que se abordarán en este sprint.  
-        </td>
-    </tr>
-    <tr align="left">
-        <td>
-            <b>Sprint n - 1</b>
-            <b>Retrospective Summary</b>
-        </td>
-        <td>
-          La retrospectiva del Sprint 1 destacó la importancia de mejorar la comunicación en tiempo real y el seguimiento del backlog. Se implementarán mejoras en la estimación de las tareas.
-        </td>
-    </tr>
-    <tr align="left">
-        <td colspan="2">
-            <b>Sprint Goal & User Stories</b>
-        </td>
-    </tr>
-    <tr align="left">
-        <td>
-            <b>Sprint 2 Velocity</b>
-        </td>
-        <td>
-            8
-        </td>
-    </tr>
-    <tr align="left">
-        <td>
-            <b>Sum of Story Points</b>
-        </td>
-        <td>
-            8
-        </td>
-    </tr>
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 2 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 23:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Virtual (Google Meet) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Cruz Ticona, Aaron Alejandro </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td>
+      Cruz Ticona, Aaron Alejandro<br>
+      Chavez Uribe, Ario Joel<br>
+      Oshiro Yamashita, Daiki Oscar<br>
+      Rivera Ayala, Gabriel Alejandro<br>
+      Zuniga Calle, Sebastian Gabriel
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+    <td> Este sprint estuvo enfocado en el desarrollo del front-end y la implementación básica de la web app de TakeMyCar. Las funcionalidades claves de la landing page fueron completadas, permitiendo que los usuarios exploren el servicio. Las secciones desarrolladas incluyen el diseño de la barra de navegación, La selección de un vehículo y registro del mismo. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+    <td> Aunque fue un sprint de desarrollo, el equipo identificó algunas áreas de mejora en la comunicación durante el proceso de implementación. La retroalimentación se centró en ajustar los tiempos de reunión y mejorar la distribución de tareas en el equipo. Se propuso mayor enfoque en la planificación de tareas individuales para evitar cuellos de botella. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Goal </td>
+    <td> El objetivo de este sprint es desarrollar e implementar el front-end de la aplicación web, permitiendo a los usuarios navegar de manera intuitiva y explorar las principales características de TakeMyCar. Se busca tener una Landing Page completamente funcional que muestre los beneficios del servicio. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+    <td> <strong>8 </strong><br> El equipo ha establecido una capacidad de 8 Story Points para este Sprint, tomando en cuenta el alcance del desarrollo del front-end y la carga estimada de trabajo. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 8 </td>
+  </tr>
 </table>
+
 
 #### 5.2.2.2. Sprint Backlog 2
 
-<br>
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| HU06 | Publicar un vehículo para alquiler  | TS01 | Componente de Publicación de un vehículo para alquiler	 | Implementación de la funcionalidad para publicar el vehículo del propietario. | 3 | Daiki | Done                                   |
+| HU07 | Buscar vehículos disponibles   | TS02 | Implementación de la Búsqueda de vehículos disponibles  	 | Creación de la Búsqueda de vehiculos, permitiendo un acceso a diferentes opciones en base a disponibilidad. | 5               | Aaron   | Done                          |
+| HU13 | 	Ver historial de alquileres | TS03 | Implementación de historial de alquileres	| Implementación de historial respecto a la entrega del vehículo | 5 | José  | Done
+| HU11 | 	Calcular tarifas de alquiler  | TS04 | 	Desarrollo del cálculo respecto a las tarifas de alquiler | Creación del método de disponibilidad de un vehículo. | 12   | Daiki | Done                                   |
 
-<table align="center" border="1" width="90%" style="text-align:center">
-    <tr>
-       <td colspan="1"><b>Sprint #</b></td>
-       <td colspan="7"><b>Sprint 2</b></td>
-     </tr>
-     <tr>
-       <td colspan="2"><b>User Story</b></td>
-       <td colspan="6"><b>Work-Item / Task</b></td>
-     </tr>
-     <tr>
-       <td><b>Id</b></td>
-       <td><b>Title</b></td>
-       <td><b>Id</b></td>
-       <td><b>Title</b></td>
-       <td><b>Description</b></td>
-       <td><b>Estimation(Hours)</b></td>
-       <td><b>Assigned To</b></td>
-       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
-     </tr>
-     <tr>
-       <td rowspan="2">HU20</td>
-       <td rowspan="2">Integrar API de usuarios</td>
-       <td>T14</td>
-       <td>Configurar rutas API</td>
-       <td>Definir rutas para la API de usuarios en el backend</td>
-       <td>1.5</td>
-       <td>Daiki Oshiro</td>
-       <td>In-Process</td>
-    </tr>
-    <tr>
-       <td>T15</td>
-       <td>Conectar con base de datos</td>
-       <td>Implementar conexión entre la API de usuarios y la base de datos MySQL</td>
-       <td>2.0</td>
-       <td>Daiki Oshiro</td>
-       <td>To-Do</td>
-    </tr>
-    <tr>
-       <td rowspan="2">HU22</td>
-       <td rowspan="2">Autenticación de usuarios</td>
-       <td>T16</td>
-       <td>Agregar JWT</td>
-       <td>Implementar autenticación con tokens JWT en la API de usuarios</td>
-       <td>1.0</td>
-       <td>Gabriel Rivera</td>
-       <td>In-Process</td>
-    </tr>
-    <tr>
-       <td>T17</td>
-       <td>Validar sesión</td>
-       <td>Validar tokens JWT para sesiones activas de usuario</td>
-       <td>1.0</td>
-       <td>Gabriel Rivera</td>
-       <td>To-Do</td>
-    </tr>
-    <tr>
-       <td rowspan="2">HU25</td>
-       <td rowspan="2">Diseño de página de perfil</td>
-       <td>T18</td>
-       <td>Maquetar página perfil</td>
-       <td>Crear la estructura HTML/CSS de la página de perfil de usuario</td>
-       <td>1.0</td>
-       <td>Aaron Cruz</td>
-       <td>Done</td>
-    </tr>
-    <tr>
-       <td>T19</td>
-       <td>Estilos página perfil</td>
-       <td>Aplicar estilos CSS a la página de perfil</td>
-       <td>0.5</td>
-       <td>Aaron Cruz</td>
-       <td>In-Process</td>
-    </tr>
-</table>
+En este sprint se implementaron funcionalidades clave como la realización de ingresoa la aplicación, opciones básicas de interacción como búsqueda, selección y entrega del vehículo, mantenemos un enfoque de facilidad para el usuario, de modo que no le tome mucho tiempo realizar dichas operaciones.
+
+
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 
-A continuación, se muestran los commits realizados en el repositorio para el FrontEnd, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| [TakeMyCar <br> FrontEnd](https://take-my-car-app.netlify.app/) | main | 888051d | initial commit |  | 23/09/2024 |
+| FrontEnd | main | 3a26b2c | Updated InicioSesion | 93f6427 | 23/09/2024 |
+| FrontEnd | main | 3a26b2c | Updated README   | 696f064 | 23/09/2024 |
+| FrontEnd | main | 3a26b2c | Updated RegistroSesion   | 2af556c | 23/09/2024 |
 
-Repositorio del FrontEnd en GitHub: <a href="https://github.com/WebPioneers-Grupo-1/take-my-car-front">Enlace</a>
-
-<table align="left" border="1" width="100%">
-    <tr>
-        <th>Repository</th>
-        <th>Branch</th>
-        <th>Commit ID</th>
-        <th>Author</th>
-        <th>Message</th>
-        <th>Time ago</th>
-    </tr>
-    <tr>
-        <td rowspan=12>API Usuarios</td>
-        <td>main</td>
-        <td>9a71fcb1d4a1e6389b3bfe3268e6d98e2a5c5940</td>
-        <td>Gabriel Rivera</td>
-        <td>Initial commit</td>
-        <td>25/09/2024</td>
-    </tr>
-    <tr>
-        <td>main</td>
-        <td>3cf814534f83751bfa6fbc47ec22b3d7f4a8e57c</td>
-        <td>Gabriel Rivera</td>
-        <td>feat: create basic user routes</td>
-        <td>25/09/2024</td>
-    </tr>
-    <tr>
-        <td>main</td>
-        <td>b4b24f1c1b093ab029f57641fa518303e67d1bc3</td>
-        <td>Gabriel Rivera</td>
-        <td>feat: add user authentication with JWT</td>
-        <td>25/09/2024</td>
-    </tr>
-    <tr>
-        <td>main</td>
-        <td>df982a1edb4a42778b9d53f8df7b4817a20c2b9f</td>
-        <td>Gabriel Rivera</td>
-        <td>fix: update error handling in auth routes</td>
-        <td>25/09/2024</td>
-    </tr>
-    <tr>
-        <td>main</td>
-        <td>e90b3d8f741a29c982d1f5c88a82c0f8c12b0c59</td>
-        <td>Gabriel Rivera</td>
-        <td>feat: integrate database connections</td>
-        <td>25/09/2024</td>
-    </tr>
-    <tr>
-        <td>main</td>
-        <td>47c83e5e1f5742a43f6c5e233b79e51fcfc334a8</td>
-        <td>Gabriel Rivera</td>
-        <td>refactor: optimize JWT validation</td>
-        <td>25/09/2024</td>
-    </tr>
-    <tr>
-        <td>main</td>
-        <td>124fcb3ba2b6c958f674ecb615d9b3f00a2b832f</td>
-        <td>Gabriel Rivera</td>
-        <td>feat: add user session persistence</td>
-        <td>25/09/2024</td>
-    </tr>
-</table>
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
+Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando la herramienta Gherkin. Puedes encontrar los escenarios de estas pruebas dando click aqui: [https://github.com/WebPioneers-Grupo-1/TakeMyCar-Acceptance-Tests](https://github.com/WebPioneers-Grupo-1/TakeMyCar-Acceptance-Tests)
 
-Al ser el primer sprint, y solo haber desarrollado el FrontEnd no creemo necesario realizar testing de una Landing Page. Por lo que en la sección a continuación se muestra el Landing ya desplegado.
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| TakeMyCar <br> Acceptance Tests | main | 4bbda94 | Initial commit |  | 30/10/2024 |
+| TakeMyCar | main | 66c33e5 | feat: added acceptance tests |  | 30/10/2024 |
+| TakeMyCar  | main | 91e4297 | feat: added images |  | 30/10/2024 |
 
-<img src="./img/lp1.png">
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
+En esta entrega, el equipo TakeMyCar ha logrado completar parcialmente la creación y el deployment de el FrontEnd de la Aplicación Web.
 
-<img src="./img/lp2.png" style="margin: 10px 0;" width="90%"/>
+Enlace del deployment del FrontEnd: [https://snazzy-mooncake-161ed9.netlify.app/)
+
+Registro de nuevo usuario:
+
+<div align="center"> <img src="./img/evi1.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Ingreso a la Galeria de Autos:
+
+<div align="center"> <img src="./img/evi3.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del auto que el usuario alquiló:
+
+<div align="center"> <img src="./img/evi4.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+Cancelar el alquiler:
+
+<div align="center"> <img src="./img/evi6.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+Añadir nuevo auto a la Galeria:
+
+<div align="center"> <img src="./img/evi8.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del nuevo auto en la Galeria:
+
+<div align="center"> <img src="./img/evi9.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+En el alcance del sprint 2, se ha dado prioridad al desarrollo del frontend de la aplicación web, lo que significa que en este sprint no se observa la utilización de servicios web.
 
-En el Sprint 2 se ha desarrollado el Front End Web Application, usando el framework Vite bajo el dominio ".netlify.app". Y se puede visualizar bajo el siguiente link: <a href="https://take-my-car-app.netlify.app/">Web App</a>
+<div align="center"> <img src="./img/netly2.png" style="margin: 10px 0;" width="70%"/> </div>
+
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Durante este sprint, se ha completado el desarrollo del frontend de la aplicación web. Para el despliegue, se utilizaron las siguientes herramientas y servicios:
 
-Para el desarrollo del FrontEnd, se utilizaron las siguientes tecnologías:
+Git: Sistema de control de versiones que utilizamos para trabajar de forma colaborativa y monitorear las versiones de la aplicación web en un repositorio remoto.
+Gitflow: Este flujo de trabajo colaborativo nos ha permitido dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilita la colaboración en el desarrollo.
+GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
 
-- HTML: Lenguaje base para la creación de la estructura de una página web. 
-- CSS: Lenguaje de estilo para darle forma y diseño a las páginas web.
-- Git: Sistema de control de versiones para gestionar el desarrollo de software.
-- GitHub: Plataforma online para alojar repositorios Git. 
 
-Asimismo, para el despliegue de la página, se utilizó el servicio de Netlify.
+<div align="center"> <img src="./img/netly.png" style="margin: 10px 0;" width="70%"/> </div>
+
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
-Contribuciones:
 
-<img src="./img/contributionsLP.png" style="margin: 10px 0;" width="90%"/>
+El equipo organizó el desarrollo del frontend de la aplicación web en ramas para abordar cada sección de forma independiente, optimizando así el mantenimiento y la colaboración durante el sprint. Se siguieron las convenciones estándar de GitFlow, por lo que se crearon ramas de desarrollo y de funcionalidad (bounded-context) según la necesidad. A continuación, se detallan las tareas asignadas a cada miembro del equipo, así como los comentarios del equipo a través de la plataforma GitHub:
 
+| Alumno                         | Actividad                                                                                                                                                                                        |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Chavez Uribe, Ario Joel  | Se encargo de la revisión y cumlinación del informe, cumpliendo con la mayor cantidad de requerimientos |
+| Cruz Ticona, Aaron Alejandro | Se encargó de la gestión del equipo, asignación de trabajos y superivsión del proyecto |
+| Oshiro Yamashita, Daiki Oscar | Se encargo de la implementación del código, su funcionamiento adecuado siguiendo los lineamientos estipulados |
+| Rivera Ayala, Gabriel Alejandro | Se encargó de brindar soporte al código mediante funciones faltantes al programa |
+| Zuniga Calle, Sebastian Gabriel | Apoyó en la creación de la lógica del negocio, desde el planteamineto de la idea inicial del proyecto como del contexto |
+
+A continuación, se mostrará la tabla de colaboradores en el repositorio de GitHub, con el objetivo de identificar a cada miembro del equipo.
+
+Tabla de integrantes:
+
+| Username (GitHub) | Nombre                         |
+| ----------------- | ------------------------------ |
+| AaronAlejandrou  | Cruz Ticona, Aaron Alejandro |
+| feg06             | Chavez Uribe, Ario Joel  |
+| DaikiOY        | Oshiro Yamashita, Daiki Oscar |
+| GabrielRiveraOfficial | Rivera Ayala, Gabriel Alejandro |
+| SeZuu             | Zuniga Calle, Sebastian Gabriel   |
+
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+Anexo: Flujo de trabajo entre las ramas.
+
+<img src="./img/gitflow2.png">
+
+Anexo: Tablas de commits en el periodo de 1 mes.
+
+<img src="./img/commit2.png">
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 3 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 30/10/2024 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 23:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Virtual (Google Meet) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Chavez Uribe, Ario Joel </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td>
+      Cruz Ticona, Aaron Alejandro<br>
+      Chavez Uribe, Ario Joel<br>
+      Oshiro Yamashita, Daiki Oscar<br>
+      Rivera Ayala, Gabriel Alejandro<br>
+      Zuniga Calle, Sebastian Gabriel
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
+    <td> Este sprint estuvo enfocado en el desarrollo del back-end y la implementación básica para el registro de base de datos de TakeMyCar. Las funcionalidades claves de la landing page fueron completadas y el front-end presenta una labor del 90% de su totalidad, permitiendo que los usuarios exploren el servicio. Las secciones desarrolladas incluyen el diseño de la barra de navegación, La selección de un vehículo y registro del mismo. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
+    <td> Aunque fue un sprint de desarrollo, el equipo identificó algunas áreas de mejora en la comunicación durante el proceso de implementación. La retroalimentación se centró en ajustar los tiempos de reunión y mejorar la distribución de tareas en el equipo. Se propuso mayor enfoque en la planificación de tareas individuales para evitar cuellos de botella. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Goal </td>
+    <td> El objetivo de este sprint es desarrollar e implementar el back-end de la aplicación web, permitiendo el registro de información dentro del sistema, cabe recalcar que nos encontramos en una etapa temprana de desarrollo en este apratado, por ende las implementaciones aún no son 100% compatibles. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+    <td> <strong>8 </strong><br> El equipo ha establecido una capacidad de 8 Story Points para este Sprint, tomando en cuenta el alcance del desarrollo del front-end y la carga estimada de trabajo. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 8 </td>
+  </tr>
+</table>
+
+
+#### 5.2.3.2. Sprint Backlog 3
+
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| HU06 | Publicar un vehículo para alquiler  | TS05 | Componente de Publicación de un vehículo para alquiler	 | Implementación de la funcionalidad para publicar el vehículo del propietario. | 3 | Daiki | Done                                   |
+| HU07 | Buscar vehículos disponibles   | TS06 | Implementación de la Búsqueda de vehículos disponibles  	 | Creación de la Búsqueda de vehiculos, permitiendo un acceso a diferentes opciones en base a disponibilidad. | 5               | Aaron   | Done                          |
+| HU13 | 	Ver historial de alquileres | TS07 | Implementación de historial de alquileres	| Implementación de historial respecto a la entrega del vehículo | 5 | José  | Done
+| HU11 | 	Calcular tarifas de alquiler  | TS08 | 	Desarrollo del cálculo respecto a las tarifas de alquiler | Creación del método de disponibilidad de un vehículo. | 12   | Daiki | Done                                   |
+
+En este sprint se implementaron funcionalidades clave como la realización de ingreso a la aplicación, opciones básicas de conexión con la base de datos que incluye búsqueda, selección y entrega del vehículo, mantenemos un enfoque de facilidad para el programador, de modo que no le tome mucho tiempo entender dichas operaciones.
+
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| [TakeMyCar <br> BackEnd](https://snazzy-mooncake-161ed9.netlify.app) | main | 888051d | initial commit |  | 27/10/2024 |
+| BackEnd | main | 3a26b2c | Updated InicioSesion | 93f6427 | 31/10/2024 |
+| BackEnd | main | 3a26b2c | Updated README   | 696f064 | 31/10/2024 |
+| BackEnd | main | 3a26b2c | Updated RegistroSesion   | 2af556c | 31/10/2024 |
+
+Link del Github del Backend: https://github.com/WebPioneers-Grupo-1/backend
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando la herramienta Gherkin. Puedes encontrar los escenarios de estas pruebas dando click aqui: [https://github.com/WebPioneers-Grupo-1/TakeMyCar-Acceptance-Tests](https://github.com/WebPioneers-Grupo-1/TakeMyCar-Acceptance-Tests)
+
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| TakeMyCar <br> Acceptance Tests | main | 4bbda94 | Initial commit |  | 30/10/2024 |
+| TakeMyCar | main | 66c33e5 | feat: added acceptance tests |  | 30/10/2024 |
+| TakeMyCar  | main | 91e4297 | feat: added images |  | 30/10/2024 |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+En esta entrega, el equipo TakeMyCar ha logrado completar parcialmente la creación del BackEnd.
+
+Enlace del deployment de la Landing Page: https://snazzy-mooncake-161ed9.netlify.app/
+Enlace del deployment del FrontEnd: https://take-my-car-app.netlify.app/
+
+Registro de nuevo usuario:
+
+<div align="center"> <img src="./img/evi1.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del nuevo usuario en la base de datos:
+
+<div align="center"> <img src="./img/evi2.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Ingreso a la Galeria de Autos:
+
+<div align="center"> <img src="./img/evi3.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del auto que el usuario alquiló:
+
+<div align="center"> <img src="./img/evi4.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del auto que el usuario alquiló en base de datos:
+
+<div align="center"> <img src="./img/evi5.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Cancelar el alquiler:
+
+<div align="center"> <img src="./img/evi6.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización de cancelar el alquiler en base de datos:
+
+<div align="center"> <img src="./img/evi7.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Añadir nuevo auto a la Galeria:
+
+<div align="center"> <img src="./img/evi8.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del nuevo auto en la Galeria:
+
+<div align="center"> <img src="./img/evi9.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del nuevo auto en la base de datos:
+
+<div align="center"> <img src="./img/evi10.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+En el alcance del sprint 3, se ha dado prioridad a la mejora del FrontEnd y la implementación del BackEnd.
+
+Capturas de pantalla que ilustran la implementación exitosa del backend en Railway:
+<div align="center"> <img src="./img/deployment3.png" style="margin: 10px 0;" width="70%"/> </div>
+
+Capura de pantalla de swagger de nuestra API:
+<div align="center"> <img src="./img/Swa.png" style="margin: 10px 0;" width="70%"/> </div>
+
+Link del Backend en Github: https://github.com/WebPioneers-Grupo-1/backend
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+Durante este sprint, se ha completado el desarrollo del frontend de la aplicación web. Para el despliegue, se utilizaron las siguientes herramientas y servicios:
+
+Git: Sistema de control de versiones que utilizamos para trabajar de forma colaborativa y monitorear las versiones de la aplicación web en un repositorio remoto.
+Gitflow: Este flujo de trabajo colaborativo nos ha permitido dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilita la colaboración en el desarrollo.
+GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
+
+<div align="center"> <img src="./img/deployment.png" style="margin: 10px 0;" width="70%"/> </div>
+
+<div align="center"> <img src="./img/deployment2.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/back1.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/back2.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/back3.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+El equipo organizó el desarrollo del frontend de la aplicación web en ramas para abordar cada sección de forma independiente, optimizando así el mantenimiento y la colaboración durante el sprint. Se siguieron las convenciones estándar de GitFlow, por lo que se crearon ramas de desarrollo y de funcionalidad (bounded-context) según la necesidad. A continuación, se detallan las tareas asignadas a cada miembro del equipo, así como los comentarios del equipo a través de la plataforma GitHub:
+
+| Alumno                         | Actividad                                                                                                                                                                                        |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Chavez Uribe, Ario Joel  | Se encargo de la revisión y culminación del informe, cumpliendo con los requerimientos solicitados |
+| Cruz Ticona, Aaron Alejandro | Se encargó de la gestión del equipo y asignación de trabajos  |
+| Oshiro Yamashita, Daiki Oscar | Se encargo de la implementación del código, su funcionamiento adecuado siguiendo los lineamientos estipulados |
+| Rivera Ayala, Gabriel Alejandro | Se encargó de brindar soporte al código mediante funciones faltantes al programa |
+| Zuniga Calle, Sebastian Gabriel | Apoyó en la creación de la lógica del negocio y mejoró los boundend context |
+
+A continuación, se mostrará la tabla de colaboradores en el repositorio de GitHub, con el objetivo de identificar a cada miembro del equipo.
+
+Tabla de integrantes:
+
+| Username (GitHub) | Nombre                         |
+| ----------------- | ------------------------------ |
+| AaronAlejandrou  | Cruz Ticona, Aaron Alejandro |
+| feg06             | Chavez Uribe, Ario Joel  |
+| DaikiOY        | Oshiro Yamashita, Daiki Oscar |
+| GabrielRiveraOfficial | Rivera Ayala, Gabriel Alejandro |
+| SeZuu             | Zuniga Calle, Sebastian Gabriel   |
+
+<div align="center"> <img src="./img/contriback.png" style="margin: 10px 0;" width="70%"/> </div>
 
 
 ## 5.3. Validation Interviews 
 
-### 5.3.1. Diseño de Entrrevistas
+### 5.3.1. Diseño de Entrevistas
+
+#### Preguntas sobre la persona
+
+¿Cuál es tu nombre completo?
+
+¿Cuál es tu edad?
+
+¿En qué distrito vives actualmente?
+
+
+#### Preguntas realizadas luego de usar la aplicación
+
+¿Te resultó clara y bien definida la tarea desde el inicio?
+
+¿Hubo algún proceso que consideres podría ser optimizado o simplificado?
+
+¿Hubo algún aspecto que encontraste particularmente desafiante o confuso?
+
+
 ### 5.3.2. Registro de Entrevistas
+
+#### Entrevista 1:
+
+
+Link de la entrevista: https://youtu.be/4fcSmhcB854
+
+
+<div align="center"> <img src="./img/entrevista1a.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+#### Entrevista 2:
+
+
+Link de la entrevista: [Entrevista_Propietario](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/ETHyuvLrZXhLmqV_pMxqQxIBUdHaBcifcz16Ryaiduyupw?e=mfLYPM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+<div align="center"> <img src="./img/entrevista2a.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+#### Entrevista 3: [Entrevista_Arrendatario](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/ESA0OUCpDpRFg3iX2jSqVtUBJlfsqyW7zDXPzV3oDFnI1g?e=L3A2wX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+<div align="center"> <img src="./img/entrevista3a.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+
 ### 5.3.3. Evaluaciones según heurísticas
+
+Problema de Redirección Incorrecta al Utilizar Botones del Navegador
+
+<div align="center"> <img src="./img/h1.png" style="margin: 10px 0;" width="70%"/> </div>
+Severidad: 3
+
+Heurística Violada: Libertad y Control del Usuario
+
+Descripción: Al intentar utilizar los botones "Atrás" o "Adelante" del navegador, los usuarios de TakeMyCar encuentran páginas de error 404. Esto afecta la experiencia de navegación libre, generando frustración.
+
+Recomendación: Implementar un sistema de navegación consistente y mantener un historial de navegación claro, especialmente en el catálogo de vehículos, para evitar errores de redirección.
+
+
+
+Problemas con la Personalización del Historial de Alquiler
+
+<div align="center"> <img src="./img/h2.png" style="margin: 10px 0;" width="70%"/> </div>
+Severidad: 3
+
+Heurística Violada: Flexibilidad y Eficiencia de Uso
+
+Descripción: La plataforma carece de opciones personalizables para el historial de alquileres, lo que limita la eficiencia en la gestión de información relevante para usuarios frecuentes.
+
+Recomendación: Incorporar opciones que permitan a los usuarios agregar notas o marcar elementos importantes en el historial de alquileres para un acceso rápido. Este tipo de personalización mejoraría la funcionalidad para los usuarios avanzados.
+
+
+
+Inconsistencias en el Menú de Navegación
+
+<div align="center"> <img src="./img/h3.png" style="margin: 10px 0;" width="70%"/> </div>
+Severidad: 3
+
+Heurística Violada: Consistencia y Estándares
+
+Descripción: En el menú de navegación de TakeMyCar, algunas opciones aparecen o desaparecen según el contexto, lo que genera confusión para los usuarios que esperan una estructura de menú constante en todas las páginas. 
+
+Además, ciertos términos y estilos de botones cambian en diferentes secciones, afectando la experiencia de usuario.
+
+Recomendación: Estandarizar el menú de navegación y asegurar que las opciones y estilos sean consistentes en todas las páginas. Es recomendable incluir un menú fijo y claro que permita al usuario acceder a las principales funciones de la aplicación en todo momento, evitando que elementos desaparezcan de forma inesperada.
+
+
+
+Dificultad para Filtrar Vehículos en Función de Preferencias Específicas
+
+<div align="center"> <img src="./img/h4.png" style="margin: 10px 0;" width="70%"/> </div>
+Severidad: 3
+
+Heurística Violada: Flexibilidad y Eficiencia de Uso
+
+Descripción: La plataforma actualmente ofrece opciones de búsqueda limitadas, lo cual restringe la posibilidad de que los usuarios encuentren rápidamente vehículos que se ajusten a sus preferencias específicas, como 
+tipo de transmisión, año o características de seguridad.
+
+Recomendación: Ampliar los filtros de búsqueda con opciones avanzadas para personalizar la búsqueda según las necesidades del usuario, mejorando así la eficiencia de uso y adaptándose a las preferencias de cada cliente.
+
+
+
+Problemas de Retroalimentación Inmediata al Seleccionar Opciones
+
+<div align="center"> <img src="./img/h5.png" style="margin: 10px 0;" width="70%"/> </div>
+
+Severidad: 2
+
+Heurística Violada: Visibilidad del Estado del Sistema
+
+Descripción: Al realizar acciones como elegir un vehículo o iniciar el proceso de alquiler, los usuarios no reciben confirmaciones visuales inmediatas, lo que provoca dudas sobre si la acción fue registrada correctamente.
+
+Recomendación: Implementar mensajes de confirmación rápidos y claros para cada acción importante, como la selección de vehículos y confirmación de reservas. Este feedback inmediato mejoraría la confianza del usuario en la interacción con el sistema.
+
 
 ## 5.4. Video About-the-Product
 
+
+<div align="center"> <img src="./img/fotoqw.png" style="margin: 10px 0;" width="90%"/> </div>
+
+<br>https://youtu.be/F0f1vnUtpII<br>
+
 <div style="page-break-after: always;"></div>
+
+<div style="page-break-after: always;"></div>
+
 
 # Conclusiones
 
 ## Conclusiones y recomendaciones
 
+<br>La startup TakeMyCar tiene un gran potencial en el mercado al aprovechar los vehículos particulares y responder a la creciente necesidad de opciones accesibles para el alquiler de automóviles.<br>
+
+<br>TakeMyCar puede también reducir la congestión vehicular y promover prácticas de movilidad sostenibles, al maximizar el uso de vehículos existentes. La plataforma permite que los propietarios generen ingresos adicionales al alquilar sus autos cuando no los están usando, lo cual resulta en un incentivo financiero muy atractivo.<br>
+
+<br>Diferenciarse de otras plataformas de alquiler es clave para TakeMyCar. Ofrecer características únicas y servicios innovadores ayudará a establecer una identidad sólida en el mercado y atraer a un público fiel.<br>
+
+<br>Es vital solucionar cualquier problema técnico, como botones que no respondan adecuadamente en la sección "Añadir Vehículo", para asegurar que la experiencia de usuario sea óptima y sin frustraciones.<br>
+
 El proyecto ha avanzado significativamente en términos de diseño, funcionalidad e interactividad. Las mejoras en el estilo, la implementación de funciones clave y la coherencia del diseño contribuyen a una experiencia de usuario más fluida y profesional. Continuar con las pruebas y ajustes basados en la retroalimentación del usuario ayudará a perfeccionar aún más la plataforma.
 
 <div style="page-break-after: always;"></div>
+
+El proyecto ha avanzado significativamente en términos de diseño, funcionalidad e interactividad. Las mejoras en el estilo, la implementación de funciones clave y la coherencia del diseño contribuyen a una experiencia de usuario más fluida y profesional. Continuar con las pruebas y ajustes basados en la retroalimentación del usuario ayudará a perfeccionar aún más la plataforma.
+
+<div style="page-break-after: always;"></div>
+
 
 # Bibliografía
 
