@@ -1081,8 +1081,24 @@ Tabla de integrantes:
 
 ## 5.3. Validation Interviews 
 
-### 5.3.1. Diseño de Entrrevistas
+### 5.3.1. Diseño de Entrevistas
 
+#### Preguntas sobre la persona
+
+¿Cuál es tu nombre completo?
+
+¿Cuál es tu edad?
+
+¿En qué distrito vives actualmente?
+
+
+#### Preguntas realizadas luego de usar la aplicación
+
+¿Te resultó clara y bien definida la tarea desde el inicio?
+
+¿Hubo algún proceso que consideres podría ser optimizado o simplificado?
+
+¿Hubo algún aspecto que encontraste particularmente desafiante o confuso?
 
 
 ### 5.3.2. Registro de Entrevistas
@@ -1094,7 +1110,6 @@ Tabla de integrantes:
 Problema de Redirección Incorrecta al Utilizar Botones del Navegador
 
 <div align="center"> <img src="./img/h1.png" style="margin: 10px 0;" width="90%"/> </div>
-
 Severidad: 3
 
 Heurística Violada: Libertad y Control del Usuario
@@ -1108,7 +1123,6 @@ Recomendación: Implementar un sistema de navegación consistente y mantener un 
 Problemas con la Personalización del Historial de Alquiler
 
 <div align="center"> <img src="./img/h2.png" style="margin: 10px 0;" width="90%"/> </div>
-
 Severidad: 3
 
 Heurística Violada: Flexibilidad y Eficiencia de Uso
@@ -1122,7 +1136,6 @@ Recomendación: Incorporar opciones que permitan a los usuarios agregar notas o 
 Inconsistencias en el Menú de Navegación
 
 <div align="center"> <img src="./img/h3.png" style="margin: 10px 0;" width="90%"/> </div>
-
 Severidad: 3
 
 Heurística Violada: Consistencia y Estándares
@@ -1138,7 +1151,6 @@ Recomendación: Estandarizar el menú de navegación y asegurar que las opciones
 Dificultad para Filtrar Vehículos en Función de Preferencias Específicas
 
 <div align="center"> <img src="./img/h4.png" style="margin: 10px 0;" width="90%"/> </div>
-
 Severidad: 3
 
 Heurística Violada: Flexibilidad y Eficiencia de Uso
