@@ -1042,7 +1042,67 @@ Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 En esta entrega, el equipo PawFect Care ha logrado completar parcialmente la creación del BackEnd.
 
-Enlace del deployment de la Landing Page: []()
+Enlace del deployment de la Landing Page: https://snazzy-mooncake-161ed9.netlify.app/
+
+Registro de nuevo usuario:
+
+<div align="center"> <img src="./img/evi1.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del nuevo usuario en la base de datos:
+
+<div align="center"> <img src="./img/evi2.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Ingreso a la Galeria de Autos:
+
+<div align="center"> <img src="./img/evi3.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del auto que el usuario alquiló:
+
+<div align="center"> <img src="./img/evi4.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del auto que el usuario alquiló en base de datos:
+
+<div align="center"> <img src="./img/evi5.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Cancelar el alquiler:
+
+<div align="center"> <img src="./img/evi6.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización de cancelar el alquiler en base de datos:
+
+<div align="center"> <img src="./img/evi7.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Añadir nuevo auto a la Galeria:
+
+<div align="center"> <img src="./img/evi8.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del nuevo auto en la Galeria:
+
+<div align="center"> <img src="./img/evi9.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del nuevo auto en la base de datos:
+
+<div align="center"> <img src="./img/evi10.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 En el alcance del sprint 3, se ha dado prioridad a la mejora del FrontEnd y la implementación del BackEnd.
@@ -1055,6 +1115,7 @@ Gitflow: Este flujo de trabajo colaborativo nos ha permitido dividir el trabajo 
 GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
 
 <div align="center"> <img src="./img/deployment.png" style="margin: 10px 0;" width="70%"/> </div>
+
 
 <div align="center"> <img src="./img/deployment2.png" style="margin: 10px 0;" width="70%"/> </div>
 
@@ -1115,7 +1176,7 @@ Tabla de integrantes:
 
 Problema de Redirección Incorrecta al Utilizar Botones del Navegador
 
-<div align="center"> <img src="./img/h1.png" style="margin: 10px 0;" width="90%"/> </div>
+<div align="center"> <img src="./img/h1.png" style="margin: 10px 0;" width="70%"/> </div>
 Severidad: 3
 
 Heurística Violada: Libertad y Control del Usuario
@@ -1128,7 +1189,7 @@ Recomendación: Implementar un sistema de navegación consistente y mantener un 
 
 Problemas con la Personalización del Historial de Alquiler
 
-<div align="center"> <img src="./img/h2.png" style="margin: 10px 0;" width="90%"/> </div>
+<div align="center"> <img src="./img/h2.png" style="margin: 10px 0;" width="70%"/> </div>
 Severidad: 3
 
 Heurística Violada: Flexibilidad y Eficiencia de Uso
@@ -1141,7 +1202,7 @@ Recomendación: Incorporar opciones que permitan a los usuarios agregar notas o 
 
 Inconsistencias en el Menú de Navegación
 
-<div align="center"> <img src="./img/h3.png" style="margin: 10px 0;" width="90%"/> </div>
+<div align="center"> <img src="./img/h3.png" style="margin: 10px 0;" width="70%"/> </div>
 Severidad: 3
 
 Heurística Violada: Consistencia y Estándares
@@ -1156,7 +1217,7 @@ Recomendación: Estandarizar el menú de navegación y asegurar que las opciones
 
 Dificultad para Filtrar Vehículos en Función de Preferencias Específicas
 
-<div align="center"> <img src="./img/h4.png" style="margin: 10px 0;" width="90%"/> </div>
+<div align="center"> <img src="./img/h4.png" style="margin: 10px 0;" width="70%"/> </div>
 Severidad: 3
 
 Heurística Violada: Flexibilidad y Eficiencia de Uso
@@ -1170,7 +1231,7 @@ Recomendación: Ampliar los filtros de búsqueda con opciones avanzadas para per
 
 Problemas de Retroalimentación Inmediata al Seleccionar Opciones
 
-<div align="center"> <img src="./img/h5.png" style="margin: 10px 0;" width="90%"/> </div>
+<div align="center"> <img src="./img/h5.png" style="margin: 10px 0;" width="70%"/> </div>
 
 Severidad: 2
 
