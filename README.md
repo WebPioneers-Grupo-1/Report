@@ -898,6 +898,16 @@ En esta entrega, el equipo PawFect Care ha logrado completar parcialmente la cre
 
 Enlace del deployment de la Landing Page: [https://webpioneers-grupo-1.github.io/frontend/](https://webpioneers-grupo-1.github.io/frontend/)
 
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+En el alcance del sprint 2, se ha dado prioridad al desarrollo del frontend de la aplicación web, lo que significa que en este sprint no se observa la utilización de servicios web.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Durante este sprint, se ha completado el desarrollo del frontend de la aplicación web. Para el despliegue, se utilizaron las siguientes herramientas y servicios:
+
+Git: Sistema de control de versiones que utilizamos para trabajar de forma colaborativa y monitorear las versiones de la aplicación web en un repositorio remoto.
+Gitflow: Este flujo de trabajo colaborativo nos ha permitido dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilita la colaboración en el desarrollo.
+GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
+
 ## 5.3. Validation Interviews 
 
 ### 5.3.1. Diseño de Entrrevistas
