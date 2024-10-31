@@ -1107,6 +1107,9 @@ Visualización del nuevo auto en la base de datos:
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 En el alcance del sprint 3, se ha dado prioridad a la mejora del FrontEnd y la implementación del BackEnd.
 
+Capturas de pantalla que ilustran la implementación exitosa del backend en Railway:
+<div align="center"> <img src="./img/deployment3.png" style="margin: 10px 0;" width="70%"/> </div>
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 Durante este sprint, se ha completado el desarrollo del frontend de la aplicación web. Para el despliegue, se utilizaron las siguientes herramientas y servicios:
 
