@@ -1054,6 +1054,10 @@ Git: Sistema de control de versiones que utilizamos para trabajar de forma colab
 Gitflow: Este flujo de trabajo colaborativo nos ha permitido dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilita la colaboración en el desarrollo.
 GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
 
+<div align="center"> <img src="./img/deployment.png" style="margin: 10px 0;" width="70%"/> </div>
+
+<div align="center"> <img src="./img/deployment2.png" style="margin: 10px 0;" width="70%"/> </div>
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 
@@ -1078,6 +1082,8 @@ Tabla de integrantes:
 | DaikiOY        | Oshiro Yamashita, Daiki Oscar |
 | GabrielRiveraOfficial | Rivera Ayala, Gabriel Alejandro |
 | SeZuu             | Zuniga Calle, Sebastian Gabriel   |
+
+<div align="center"> <img src="./img/contriback.png" style="margin: 10px 0;" width="70%"/> </div>
 
 ## 5.3. Validation Interviews 
 
