@@ -2613,9 +2613,9 @@ Recomendación: Implementar mensajes de confirmación rápidos y claros para cad
 ## 5.4. Video About-the-Product
 
 
-<div align="center"> <img src="./img/fotoqw.png" style="margin: 10px 0;" width="90%"/> </div>
+<div align="center"> <img src="./img/THEPRODUCT.png" style="margin: 10px 0;" width="90%"/> </div>
 
-<br>https://youtu.be/F0f1vnUtpII<br>
+<br>https://youtu.be/P0IcS8M2wzI<br>
 
 <div style="page-break-after: always;"></div>
 
