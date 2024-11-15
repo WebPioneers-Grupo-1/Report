@@ -2523,11 +2523,19 @@ Tabla de integrantes:
 <div align="center"> <img src="./img/contriback.png" style="margin: 10px 0;" width="70%"/> </div>
 
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
 
-#### 5.2.3.5. Execution Evidence for Sprint Review
-#### 5.2.3.6. Services Documentation Evidence for Sprint Review
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review
-#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+<div align="center"> <img src="./img/trello3.png" style="margin: 10px 0;" width="70%"/> </div>
+
+#### 5.2.4.2. Sprint Backlog 4
+#### 5.2.4.3. Development Evidence for Sprint Review
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+#### 5.2.4.5. Execution Evidence for Sprint Review
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+#### 5.2.4.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews 
 
