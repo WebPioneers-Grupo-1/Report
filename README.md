@@ -549,7 +549,7 @@ Esta clase gestiona el añadir los autos a la galeria de alquileres. El usuario 
 
 ### 4.8.1. Database Diagram
 
-<p align = "center"> <img  alt="component-diagram-publisher" src="img/databased.png"> </p>
+<p align = "center"> <img  alt="component-diagram-publisher" src="img/database.png"> </p>
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
