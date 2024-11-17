@@ -2688,9 +2688,6 @@ En el alcance del sprint 3, se ha dado prioridad a la mejora del FrontEnd y la i
 Capturas de pantalla que ilustran la implementación exitosa del backend en Railway:
 <div align="center"> <img src="./img/deployment3.png" style="margin: 10px 0;" width="70%"/> </div>
 
-Capura de pantalla de swagger de nuestra API:
-<div align="center"> <img src="./img/APIF.png" style="margin: 10px 0;" width="70%"/> </div>
-
 Link del Backend en Github: https://github.com/WebPioneers-Grupo-1/backend
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
@@ -2701,7 +2698,10 @@ Gitflow: Este flujo de trabajo colaborativo nos ha permitido dividir el trabajo 
 GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
 
 <div align="center"> <img src="./img/deployment.png" style="margin: 10px 0;" width="70%"/> </div>
-
+<div align="center"> <img src="./img/APIF.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/j1.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/j2.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/j3.png" style="margin: 10px 0;" width="70%"/> </div>
 <div align="center"> <img src="./img/deployment2.png" style="margin: 10px 0;" width="70%"/> </div>
 <div align="center"> <img src="./img/back1.png" style="margin: 10px 0;" width="70%"/> </div>
 <div align="center"> <img src="./img/back2.png" style="margin: 10px 0;" width="70%"/> </div>
