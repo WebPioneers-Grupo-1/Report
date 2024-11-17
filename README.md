@@ -2524,18 +2524,68 @@ Tabla de integrantes:
 
 
 ### 5.2.4. Sprint 4
-#### 5.2.4.1. Sprint Planning 4
 
+#### 5.2.4.1. Sprint Planning 4
 
 <div align="center"> <img src="./img/trello3.png" style="margin: 10px 0;" width="70%"/> </div>
 
 #### 5.2.4.2. Sprint Backlog 4
+
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| HU17 | Landing Page Intuitiva | TS05 | Aplicación funcional que cumpla con los objetivos finales del proyecto | Implementación de la funcionalidad interactuar sin problemas con la aplicación. | 3 | Daiki | Done                                   |
+
+En este sprint se realizaron las implementaciones finales para la interacción entre el Front-End y el Back-End, para ello se creó un nuevo repositorio donde se puede visualizar la conexión final de nuestra aplicación, esto siendo de utilidad para el usuario ya que no solo estaría visualizando el posible proyecto en una fase de vía de desarrollo, sino a nvel práctico y real.
+
+
 #### 5.2.4.3. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| [TakeMyCar <br> SwaggerAPI](https://github.com/WebPioneers-Grupo-1/Swagger-API) | main | dc8bc78 | initial commit |  | 17/11/2024 |
+| BackEnd | main | 3a26b2c | Updated InicioSesion | 93f6427 | 31/10/2024 |
+| BackEnd | main | 3a26b2c | Updated README   | 696f064 | 31/10/2024 |
+| BackEnd | main | 3a26b2c | Updated RegistroSesion   | 2af556c | 31/10/2024 |
+
+Link del Github del Backend: https://github.com/WebPioneers-Grupo-1/backend
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+Durante este sprint, hemos llevado a cabo la verificación de test de aceptación utilizando la herramienta Gherkin. Puedes encontrar los escenarios de estas pruebas dando click aqui: [https://github.com/WebPioneers-Grupo-1/TakeMyCar-Acceptance-Tests](https://github.com/WebPioneers-Grupo-1/TakeMyCar-Acceptance-Tests)
+
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| TakeMyCar <br> Acceptance Tests | main | 4bbda94 | Initial commit |  | 30/10/2024 |
+| TakeMyCar | main | 66c33e5 | feat: added acceptance tests |  | 30/10/2024 |
+| TakeMyCar  | main | 91e4297 | feat: added images |  | 30/10/2024 |
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 #### 5.2.4.8. Team Collaboration Insights during Sprint
+
+El equipo organizó el desarrollo de la aplicación web en ramas para abordar cada sección de forma independiente, optimizando así el mantenimiento y la colaboración durante el sprint. Se siguieron las convenciones estándar de GitFlow, por lo que se crearon ramas de desarrollo y de funcionalidad (bounded-context) según la necesidad. A continuación, se detallan las tareas asignadas a cada miembro del equipo, así como los comentarios del equipo a través de la plataforma GitHub:
+
+| Alumno                         | Actividad                                                                                                                                                                                        |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Chavez Uribe, Ario Joel  | Se encargo de la revisión y culminación del informe, cumpliendo con los requerimientos solicitados |
+| Cruz Ticona, Aaron Alejandro | Se encargó de la gestión del equipo y asignación de trabajos  |
+| Oshiro Yamashita, Daiki Oscar | Se encargo de la implementación del código, su funcionamiento adecuado siguiendo los lineamientos solicitados |
+| Rivera Ayala, Gabriel Alejandro | Se encargó de brindar soporte al código mediante funciones faltantes al programa |
+| Zuniga Calle, Sebastian Gabriel | Apoyó en la creación de la lógica del negocio y mejoró los boundend context |
+
+A continuación, se mostrará la tabla de colaboradores en el repositorio de GitHub, con el objetivo de identificar a cada miembro del equipo.
+
+Tabla de integrantes:
+
+| Username (GitHub) | Nombre                         |
+| ----------------- | ------------------------------ |
+| AaronAlejandrou  | Cruz Ticona, Aaron Alejandro |
+| feg06             | Chavez Uribe, Ario Joel  |
+| DaikiOY        | Oshiro Yamashita, Daiki Oscar |
+| GabrielRiveraOfficial | Rivera Ayala, Gabriel Alejandro |
+| SeZuu             | Zuniga Calle, Sebastian Gabriel   |
+
 
 ## 5.3. Validation Interviews 
 
