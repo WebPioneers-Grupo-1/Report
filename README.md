@@ -2476,7 +2476,7 @@ Capturas de pantalla que ilustran la implementación exitosa del backend en Rail
 <div align="center"> <img src="./img/deployment3.png" style="margin: 10px 0;" width="70%"/> </div>
 
 Capura de pantalla de swagger de nuestra API:
-<div align="center"> <img src="./img/Swa.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/APIF.png" style="margin: 10px 0;" width="70%"/> </div>
 
 Link del Backend en Github: https://github.com/WebPioneers-Grupo-1/backend
 
