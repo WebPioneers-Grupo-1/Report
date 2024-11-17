@@ -2524,8 +2524,66 @@ Tabla de integrantes:
 
 
 ### 5.2.4. Sprint 4
-
 #### 5.2.4.1. Sprint Planning 4
+
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 3 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 12/11/2024 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 23:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Virtual (Google Meet) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Chavez Uribe, Ario Joel </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td>
+      Cruz Ticona, Aaron Alejandro<br>
+      Chavez Uribe, Ario Joel<br>
+      Oshiro Yamashita, Daiki Oscar<br>
+      Rivera Ayala, Gabriel Alejandro<br>
+      Zuniga Calle, Sebastian Gabriel
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
+    <td> Este sprint estuvo enfocado en la mejora del back-end y la mejora de base de datos de TakeMyCar. Así como corecciones de las anteriores entergas. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
+    <td> Aunque fue un sprint de desarrollo, el equipo identificó algunas áreas de mejora en la comunicación durante el proceso de implementación. La retroalimentación se centró en ajustar los tiempos de reunión y mejorar la distribución de tareas en el equipo. Se propuso mayor enfoque en la planificación de tareas individuales para evitar cuellos de botella. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Goal </td>
+    <td> El objetivo de este sprint es la mejora de todas las partes del proyecto para su correcto funcionamiento. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+    <td> <strong>8 </strong><br> El equipo ha establecido una capacidad de 7 Story Points para este Sprint, tomando en cuenta el alcance del desarrollo del back-end y la carga estimada de trabajo. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 7 </td>
+  </tr>
+</table>
 
 <div align="center"> <img src="./img/trello3.png" style="margin: 10px 0;" width="70%"/> </div>
 
@@ -2533,25 +2591,26 @@ Tabla de integrantes:
 
 | id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
 | ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
-| HU17 | Landing Page Intuitiva | TS05 | Aplicación funcional que cumpla con los objetivos finales del proyecto | Implementación de la funcionalidad interactuar sin problemas con la aplicación. | 3 | Daiki | Done                                   |
+| No aplica | No aplica | WI01 | Mejora del backend	 | Mejora la estructura y funcionalidad del backend. | 4 | Daiki | Done                                   |
+| No aplica | No aplica  | WI02 | Mejora de la database   	 |Mejorar la conección a la database. | 3 | Aaron   | Done                          |
+| No aplica | No aplica | WI03 | Security	| Security. | 4 | Gabriel  | Done
+| No aplica | No aplica  | WI04 | Conección del backend con la database  | Mejorar la conección entre el backend y la database. | 5 | Daiki | Done                                   |
 
-En este sprint se realizaron las implementaciones finales para la interacción entre el Front-End y el Back-End, para ello se creó un nuevo repositorio donde se puede visualizar la conexión final de nuestra aplicación, esto siendo de utilidad para el usuario ya que no solo estaría visualizando el posible proyecto en una fase de vía de desarrollo, sino a nvel práctico y real.
-
+En este sprint se implementaron mejoras en el backend y database.
 
 #### 5.2.4.3. Development Evidence for Sprint Review
 
 | Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
 |:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
-| [TakeMyCar <br> SwaggerAPI](https://github.com/WebPioneers-Grupo-1/Swagger-API) | main | dc8bc78 | initial commit |  | 17/11/2024 |
+| [TakeMyCar <br> BackEnd](https://snazzy-mooncake-161ed9.netlify.app) | main | 888051d | initial commit |  | 27/10/2024 |
 | BackEnd | main | 3a26b2c | Updated InicioSesion | 93f6427 | 31/10/2024 |
 | BackEnd | main | 3a26b2c | Updated README   | 696f064 | 31/10/2024 |
 | BackEnd | main | 3a26b2c | Updated RegistroSesion   | 2af556c | 31/10/2024 |
 
 Link del Github del Backend: https://github.com/WebPioneers-Grupo-1/backend
 
-#### 5.2.3.4. Testing Suite Evidence for Sprint Review
-
-Durante este sprint, hemos llevado a cabo la verificación de test de aceptación utilizando la herramienta Gherkin. Puedes encontrar los escenarios de estas pruebas dando click aqui: [https://github.com/WebPioneers-Grupo-1/TakeMyCar-Acceptance-Tests](https://github.com/WebPioneers-Grupo-1/TakeMyCar-Acceptance-Tests)
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando la herramienta Gherkin. Puedes encontrar los escenarios de estas pruebas dando click aqui: [https://github.com/WebPioneers-Grupo-1/TakeMyCar-Acceptance-Tests](https://github.com/WebPioneers-Grupo-1/TakeMyCar-Acceptance-Tests)
 
 | Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
 |:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
@@ -2559,18 +2618,106 @@ Durante este sprint, hemos llevado a cabo la verificación de test de aceptació
 | TakeMyCar | main | 66c33e5 | feat: added acceptance tests |  | 30/10/2024 |
 | TakeMyCar  | main | 91e4297 | feat: added images |  | 30/10/2024 |
 
-#### 5.2.4.5. Execution Evidence for Sprint Review
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+En esta entrega, el equipo TakeMyCar ha logrado completar la creación del BackEnd y DataBase.
+
+Enlace del deployment de la Landing Page: https://snazzy-mooncake-161ed9.netlify.app/
+Enlace del deployment del FrontEnd: https://take-my-car-app.netlify.app/
+
+Registro de nuevo usuario:
+
+<div align="center"> <img src="./img/evi1.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del nuevo usuario en la base de datos:
+
+<div align="center"> <img src="./img/evi2.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Ingreso a la Galeria de Autos:
+
+<div align="center"> <img src="./img/evi3.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del auto que el usuario alquiló:
+
+<div align="center"> <img src="./img/evi4.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del auto que el usuario alquiló en base de datos:
+
+<div align="center"> <img src="./img/evi5.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Cancelar el alquiler:
+
+<div align="center"> <img src="./img/evi6.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización de cancelar el alquiler en base de datos:
+
+<div align="center"> <img src="./img/evi7.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Añadir nuevo auto a la Galeria:
+
+<div align="center"> <img src="./img/evi8.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del nuevo auto en la Galeria:
+
+<div align="center"> <img src="./img/evi9.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del nuevo auto en la base de datos:
+
+<div align="center"> <img src="./img/evi10.png" style="margin: 10px 0;" width="70%"/> </div>
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+En el alcance del sprint 3, se ha dado prioridad a la mejora del FrontEnd y la implementación del BackEnd.
+
+Capturas de pantalla que ilustran la implementación exitosa del backend en Railway:
+<div align="center"> <img src="./img/deployment3.png" style="margin: 10px 0;" width="70%"/> </div>
+
+Capura de pantalla de swagger de nuestra API:
+<div align="center"> <img src="./img/APIF.png" style="margin: 10px 0;" width="70%"/> </div>
+
+Link del Backend en Github: https://github.com/WebPioneers-Grupo-1/backend
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+Durante este sprint, se ha completado el desarrollo del frontend de la aplicación web. Para el despliegue, se utilizaron las siguientes herramientas y servicios:
+
+Git: Sistema de control de versiones que utilizamos para trabajar de forma colaborativa y monitorear las versiones de la aplicación web en un repositorio remoto.
+Gitflow: Este flujo de trabajo colaborativo nos ha permitido dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilita la colaboración en el desarrollo.
+GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
+
+<div align="center"> <img src="./img/deployment.png" style="margin: 10px 0;" width="70%"/> </div>
+
+<div align="center"> <img src="./img/deployment2.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/back1.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/back2.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/back3.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
-El equipo organizó el desarrollo de la aplicación web en ramas para abordar cada sección de forma independiente, optimizando así el mantenimiento y la colaboración durante el sprint. Se siguieron las convenciones estándar de GitFlow, por lo que se crearon ramas de desarrollo y de funcionalidad (bounded-context) según la necesidad. A continuación, se detallan las tareas asignadas a cada miembro del equipo, así como los comentarios del equipo a través de la plataforma GitHub:
+
+El equipo organizó el desarrollo del frontend de la aplicación web en ramas para abordar cada sección de forma independiente, optimizando así el mantenimiento y la colaboración durante el sprint. Se siguieron las convenciones estándar de GitFlow, por lo que se crearon ramas de desarrollo y de funcionalidad (bounded-context) según la necesidad. A continuación, se detallan las tareas asignadas a cada miembro del equipo, así como los comentarios del equipo a través de la plataforma GitHub:
 
 | Alumno                         | Actividad                                                                                                                                                                                        |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Chavez Uribe, Ario Joel  | Se encargo de la revisión y culminación del informe, cumpliendo con los requerimientos solicitados |
 | Cruz Ticona, Aaron Alejandro | Se encargó de la gestión del equipo y asignación de trabajos  |
-| Oshiro Yamashita, Daiki Oscar | Se encargo de la implementación del código, su funcionamiento adecuado siguiendo los lineamientos solicitados |
+| Oshiro Yamashita, Daiki Oscar | Se encargo de la implementación del código, su funcionamiento adecuado siguiendo los lineamientos estipulados |
 | Rivera Ayala, Gabriel Alejandro | Se encargó de brindar soporte al código mediante funciones faltantes al programa |
 | Zuniga Calle, Sebastian Gabriel | Apoyó en la creación de la lógica del negocio y mejoró los boundend context |
 
@@ -2585,6 +2732,8 @@ Tabla de integrantes:
 | DaikiOY        | Oshiro Yamashita, Daiki Oscar |
 | GabrielRiveraOfficial | Rivera Ayala, Gabriel Alejandro |
 | SeZuu             | Zuniga Calle, Sebastian Gabriel   |
+
+<div align="center"> <img src="./img/contriback.png" style="margin: 10px 0;" width="70%"/> </div>
 
 
 ## 5.3. Validation Interviews 
