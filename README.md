@@ -189,8 +189,7 @@
 |Criterio específico| Acciones realizadas | Conclusiones |
 |:------ | :--------------------------- | :--------- |
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta | *Chavez Uribe, Ario Joel* <br> *TB1*: Consulté con mi equipo la problemática que enfrentaría nuestra startup. <br> *TP1*: Realizé junto al equipo la aplicacion FrontEnd. <br> *TB2*: Fomenté reuniones para planificar la estructura de la API. <br> *TF1*: Apoyé en mi equipo a culminar con las correciones para el API. <br> <br> *Cruz Ticona, Aaron Alejandro* <br> *TB1*: Establecí junto al equipo las metas que nuestro Startup debe enfrentar en el Lean UX Process Empathy Map y As-Is Scenario. También establecí un Style Guidelines que se adecúe a los objetivos de nuestro equipo. <br> *TP1*: Realicé una Landing Page que se adecúa a las metas del equipo. <br> *TB2*: Junto al equipo colaboré en el realizar el API. <br> *TF1*: Con el apoyo del equipo realizamos las correciones de la API. <br> <br> *Oshiro Yamashita, Daiki Oscar* <br> *TB1*: Definí junto a mi equipo un Landing Page UI Design y un Web Applications UX Design que brinde la mejor experiencia para nuestros usuario.s <br> *TP1*: Realicé una Front End Web Application que se adecúa a las metas del equipo.<br> *TB2*: Realizé el desarrollo del backend y mejoras en las partes anteriores del trabajo. *TF1*: Realicé las correciones restantes del trabajo. <br> <br> *Rivera Ayala, Gabriel Alejandro* <br> *TB1*: Realicé junto a mi equipo un análisis de los competidores de nuestra startup para formular tácticas para destacar. <br> *TP1*: Definí el Ubiquitous Language necesario para mantener una comunicación clara. <br> *TB2*: He ayudado a planificar en grupo la estructura de nuestra API. <br> *TF*: En equipo hemos culminado las correciones que se plantearon para nuestro proyecto. <br> <br> Zuniga Calle, Sebastian Gabriel <br> *TB1*: Definí junto a mi equipo los componentes a incluir en el Domain Driven Software Architecture <br> *TP1*: He ayudado en el despliegue del front end application. <br> *TB2*: He ayudado a realizar el API para la app. <br> *TF1*: He colaborado a solucionar los errores faltantes del reporte. <br> <br> | Se concluye que la plataforma debe priorizar la seguridad tanto de los vehículos como de los usuarios. Esto incluye funciones que permitan realizar inspecciones técnicas automáticas y verificaciones del historial del automóvil para asegurar que los vehículos alquilados cumplan con las normativas de seguridad vial. Además, la plataforma puede incluir alertas sobre mantenimiento necesario para evitar accidentes.|
-|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos| *Chavez Uribe, Ario Joel* <br> *TB1*: Establecí las metas que debe alcanzar nuestra empresa en el Impact Mapping. Tambien planifiqué las tareas a realizar en el desarrollo de la Landing Page a través del Product Backlog. <br> *TP1*: Planifiqué el desarrollo del FrontEnd usando el Sprint Backlog. <br> *TB2*: Trabajando en equipo realice la API de la app. <br> *TF1*: Trabajando en equipo terminamos las correciones necesarias para nuestro trabajo. <br> <br> *Cruz Ticona, Aaron Alejandro* <br> *TB1*: Establecí la Information Architecture necesaria para lograr un producto web que brinde un entorno inclusivo. *TP1*: Realicé una Landing Page que se adecúa a las metas del equipo. <br> <br> *Oshiro Yamashita, Daiki Oscar* <br> *TB1*: Definí la misión y visión de nuestra Startup. <br> *TP1*: Realicé una Front End Web Application que se adecúa a las metas del equipo. <br> *TP1*: Establecí la creación del backend y el api de nuestra aplicación. <br> <br> *Rivera Ayala, Gabriel Alejandro* <br> *TB1*: Establecí la User Task Matrix que serviría para definir las features a incluir en las User Stories. <br> *TP*: Definí el Ubiquitous Language necesario para mantener una comunicación clara. <br>  *TB2*: Colaboré en la realización de la plataforma backend de TakeMyCar. <br> *TF*: He colaborado con mi equipo para mejorar los puntos pendientes por mejorar del proyecto.<br> <br> *Zuniga Calle, Sebastian Gabriel* <br> *TB1*: Establecí los Segmentos Objetivo que nuestro producto atenderá. <br> *TP*: Definí los User Stories que regirán las funcionalidades de nuestro producto. <br> |Validar el diseño de TakeMyCar desde estos criterios asegura que la plataforma no solo cumple con su propósito funcional, sino que también contribuye positivamente a la seguridad, el bienestar social y la sostenibilidad. Realizar pruebas de usabilidad, encuestas a usuarios, análisis de datos ambientales y económicos, y adaptación a normativas globales garantizará que la solución responda a los desafíos locales y globales, generando un impacto positivo y sostenible a largo plazo.|
-
+|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos| *Chavez Uribe, Ario Joel* <br> *TB1*: Establecí las metas que debe alcanzar nuestra empresa en el Impact Mapping. Tambien planifiqué las tareas a realizar en el desarrollo de la Landing Page a través del Product Backlog. <br> *TP1*: Planifiqué el desarrollo del FrontEnd usando el Sprint Backlog. <br> *TB2*: Trabajando en equipo realice la API de la app. <br> *TF1*: Trabajando en equipo terminamos las correciones necesarias para nuestro trabajo. <br> <br> *Cruz Ticona, Aaron Alejandro* <br>*TB1*: Establecí la Information Architecture necesaria para lograr un producto web que brinde un entorno inclusivo. *TP1*: Realicé una Landing Page que se adecúa a las metas del equipo. <br> *TB2*: Fui parte de la colaboracion grupal para continua y finalizar el avance del FrontEnd para luego pasar al Backend de forma grupal. <br>*TF*: Conclui la revision de correciones y culmine el trabajo a realizar en la medida de lo posible. <br> <br> *Oshiro Yamashita, Daiki Oscar* <br> *TB1*: Definí la misión y visión de nuestra Startup. <br> *TP1*: Realicé una Front End Web Application que se adecúa a las metas del equipo. <br> *TB2*: Establecí la creación del backend y el api de nuestra aplicación. *TF1* Apoye en la correccion de errores del proyecto. <br> <br> *Rivera Ayala, Gabriel Alejandro* <br> *TB1*: Establecí la User Task Matrix que serviría para definir las features a incluir en las User Stories. <br> *TP*: Definí el Ubiquitous Language necesario para mantener una comunicación clara. <br>  *TB2*: Colaboré en la realización de la plataforma backend de TakeMyCar. <br> *TF*: He colaborado con mi equipo para mejorar los puntos pendientes por mejorar del proyecto.<br> <br> *Zuniga Calle, Sebastian Gabriel* <br> *TB1*: Establecí los Segmentos Objetivo que nuestro producto atenderá. <br> *TP*: Definí los User Stories que regirán las funcionalidades de nuestro producto. <br> |Validar el diseño de TakeMyCar desde estos criterios asegura que la plataforma no solo cumple con su propósito funcional, sino que también contribuye positivamente a la seguridad, el bienestar social y la sostenibilidad. Realizar pruebas de usabilidad, encuestas a usuarios, análisis de datos ambientales y económicos, y adaptación a normativas globales garantizará que la solución responda a los desafíos locales y globales, generando un impacto positivo y sostenible a largo plazo.|
 
 <div style="page-break-after: always;"></div>
 
@@ -1915,8 +1914,11 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
         </td>
     </tr>
     <tr align="left">
-        <td colspan="2">
+        <td>
             <b>Sprint Goal & User Stories</b>
+        </td>
+        <td>
+            El sprint goal fue desarrollar la landing page de forma intuitiva, precisa y con la información correcta para nuestros usuarios, que sea simple pero no básica y que sea de fácil entendimiento para todo aquel que visite nuestra página.
         </td>
     </tr>
       <tr align="left">
@@ -1967,7 +1969,7 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
        <td>T01</td>
        <td>Estructura de la landing</td>
        <td>Programar el landing page comenzando por el HTML </td>
-       <td>0.1</td>
+       <td>4</td>
        <td>Aaron Cruz</td>
        <td>Done</td>
     </tr>
@@ -1975,7 +1977,7 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
        <td>T02</td>
        <td>Agregar CSS styles</td>
        <td>Asignar stilos generales para la página</td>
-       <td>0.1</td>
+       <td>4</td>
        <td>Aaron Cruz</td>
        <td>Done</td>
     </tr>
@@ -1984,7 +1986,7 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
        <td>T10</td>
        <td>Estructura Navbar</td>
        <td>Crear HTML del navbar con direccionamiento a secciones</td>
-       <td>0.5</td>
+       <td>4</td>
        <td>Aaron Cruz</td>
        <td>Done</td>
     </tr>
@@ -1992,7 +1994,7 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
        <td>T11</td>
        <td>Estilos Navbar</td>
        <td>Asignar stilos al navbar</td>
-       <td>0.5</td>
+       <td>4</td>
        <td>Aaron Cruz</td>
        <td>Done</td>
     </tr>
@@ -2002,7 +2004,7 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
        <td>T12</td>
        <td>Main responsive</td>
        <td>Agregar CSS media queries a las diferentes secciones del main</td>
-       <td>1.0</td>
+       <td>4</td>
        <td>Aaron Cruz</td>
        <td>Done</td>
     </tr>
@@ -2010,7 +2012,7 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
        <td>T13</td>
        <td>Navbar responsive</td>
        <td>Agregar CSS media queries al navbar</td>
-       <td>0.5</td>
+       <td>4</td>
        <td>Aaron Cruz</td>
        <td>Done</td>
     </tr>
@@ -2179,10 +2181,7 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
     <td> Aunque fue un sprint de desarrollo, el equipo identificó algunas áreas de mejora en la comunicación durante el proceso de implementación. La retroalimentación se centró en ajustar los tiempos de reunión y mejorar la distribución de tareas en el equipo. Se propuso mayor enfoque en la planificación de tareas individuales para evitar cuellos de botella. </td>
   </tr>
   <tr>
-    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Sprint 2 Goal </td>
+    <td style="font-weight: bold;"> Sprint 2 Goal & User Stories </td>
     <td> El objetivo de este sprint es desarrollar e implementar el front-end de la aplicación web, permitiendo a los usuarios navegar de manera intuitiva y explorar las principales características de TakeMyCar. Se busca tener una Landing Page completamente funcional que muestre los beneficios del servicio. </td>
   </tr>
   <tr>
@@ -2207,7 +2206,7 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 | HU06 | Publicar un vehículo para alquiler  | TS01 | Componente de Publicación de un vehículo para alquiler	 | Implementación de la funcionalidad para publicar el vehículo del propietario. | 4 | Daiki | Done                                   |
 | HU07 | Buscar vehículos disponibles   | TS02 | Implementación de la Búsqueda de vehículos disponibles  	 | Creación de la Búsqueda de vehiculos, permitiendo un acceso a diferentes opciones en base a disponibilidad. | 5               | Aaron   | Done                          |
 | HU13 | 	Ver historial de alquileres | TS03 | Implementación de historial de alquileres	| Implementación de historial respecto a la entrega del vehículo | 5 | José  | Done
-| HU11 | 	Calcular tarifas de alquiler  | TS04 | 	Desarrollo del cálculo respecto a las tarifas de alquiler | Creación del método de disponibilidad de un vehículo. | 6 | Daiki | Done                                   |
+| HU11 | 	Calcular tarifas de alquiler  | TS04 | 	Desarrollo del cálculo respecto a las tarifas de alquiler | Creación del método de disponibilidad de un vehículo. | 8   | Daiki | Done                                   |
 
 En este sprint se implementaron funcionalidades clave como la realización de ingresoa la aplicación, opciones básicas de interacción como búsqueda, selección y entrega del vehículo, mantenemos un enfoque de facilidad para el usuario, de modo que no le tome mucho tiempo realizar dichas operaciones.
 
@@ -2372,10 +2371,7 @@ Anexo: Tablas de commits en el periodo de 1 mes.
     <td> Aunque fue un sprint de desarrollo, el equipo identificó algunas áreas de mejora en la comunicación durante el proceso de implementación. La retroalimentación se centró en ajustar los tiempos de reunión y mejorar la distribución de tareas en el equipo. Se propuso mayor enfoque en la planificación de tareas individuales para evitar cuellos de botella. </td>
   </tr>
   <tr>
-    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Sprint 3 Goal </td>
+    <td style="font-weight: bold;"> Sprint 3 Goal & User Stories</td>
     <td> El objetivo de este sprint es desarrollar e implementar el back-end de la aplicación web, permitiendo el registro de información dentro del sistema, cabe recalcar que nos encontramos en una etapa temprana de desarrollo en este apratado, por ende las implementaciones aún no son 100% compatibles. </td>
   </tr>
   <tr>
@@ -2781,7 +2777,24 @@ Tabla de integrantes:
 
 ### 5.3.2. Registro de Entrevistas
 
+#### Segmento Objetivo 1: Propietarios de vehículos
+
 #### Entrevista 1:
+
+- Nombre: Kevin
+- Apellidos: Jharol
+- Edad: 25 años
+- Distrito: Surco
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213502_upc_edu_pe/ERfRi4cI3GdAvV7B_LCybu4B56-OAtcaORWy8X00-t_--Q?e=D2WtxO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Entrevista </a> 
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="./img/entrevista1b.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+
+#### Entrevista 2:
 
 
 Link de la entrevista: https://youtu.be/4fcSmhcB854
@@ -2790,7 +2803,9 @@ Link de la entrevista: https://youtu.be/4fcSmhcB854
 <div align="center"> <img src="./img/entrevista1a.png" style="margin: 10px 0;" width="70%"/> </div>
 
 
-#### Entrevista 2:
+#### Segmento Objetivo 2: Usuarios Arrendatarios
+
+#### Entrevista 3:
 
 
 Link de la entrevista: [Entrevista_Propietario](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/ETHyuvLrZXhLmqV_pMxqQxIBUdHaBcifcz16Ryaiduyupw?e=mfLYPM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
@@ -2799,7 +2814,7 @@ Link de la entrevista: [Entrevista_Propietario](https://upcedupe-my.sharepoint.c
 <div align="center"> <img src="./img/entrevista2a.png" style="margin: 10px 0;" width="70%"/> </div>
 
 
-#### Entrevista 3: [Entrevista_Arrendatario](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/ESA0OUCpDpRFg3iX2jSqVtUBJlfsqyW7zDXPzV3oDFnI1g?e=L3A2wX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+#### Entrevista 4: [Entrevista_Arrendatario](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/ESA0OUCpDpRFg3iX2jSqVtUBJlfsqyW7zDXPzV3oDFnI1g?e=L3A2wX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 <div align="center"> <img src="./img/entrevista3a.png" style="margin: 10px 0;" width="70%"/> </div>
@@ -2914,6 +2929,16 @@ El proyecto ha avanzado significativamente en términos de diseño, funcionalida
 
 <div style="page-break-after: always;"></div>
 
+## 5.4. Video About-the-Team
+
+
+<div align="center"> <img src="./img/abouttheteam.png" style="margin: 10px 0;" width="90%"/> </div>
+
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213502_upc_edu_pe/EUwfQGcUeopArQPtT_JcswUBgrk4dGXEun5lOqc07tSWLA?e=aRZTIW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Enlace Video About-the-Team</a>
+              
+<div style="page-break-after: always;"></div>
+
+<div style="page-break-after: always;"></div>
 
 # Bibliografía
 
@@ -2925,6 +2950,12 @@ Avis Budget Group. (2024). Innovations in car rental services. Recuperado de htt
 
 Holdings. (2024). Sustainability and technology in fleet management. Recuperado de https://www.enterpriseholdings.com/sustainability
 
-<div style="page-break-after: always;"></div>
+=========
+---
 
+# Bibliografía
+
+---
+
+>>>>>>>>> Temporary merge branch 2
 # Anexos
