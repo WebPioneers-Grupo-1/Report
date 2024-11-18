@@ -2514,7 +2514,24 @@ Tabla de integrantes:
 
 ### 5.3.2. Registro de Entrevistas
 
+#### Segmento Objetivo 1: Propietarios de vehículos
+
 #### Entrevista 1:
+
+- Nombre: Kevin
+- Apellidos: Jharol
+- Edad: 25 años
+- Distrito: Surco
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213502_upc_edu_pe/ERfRi4cI3GdAvV7B_LCybu4B56-OAtcaORWy8X00-t_--Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ULxJrR">Entrevista Link: https://www.youtube.com/watch?v=eoOJoZDcQu8</a> 
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="./img/entrevista1b.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+
+#### Entrevista 2:
 
 
 Link de la entrevista: https://youtu.be/4fcSmhcB854
@@ -2523,7 +2540,9 @@ Link de la entrevista: https://youtu.be/4fcSmhcB854
 <div align="center"> <img src="./img/entrevista1a.png" style="margin: 10px 0;" width="70%"/> </div>
 
 
-#### Entrevista 2:
+#### Segmento Objetivo 2: Usuarios Arrendatarios
+
+#### Entrevista 3:
 
 
 Link de la entrevista: [Entrevista_Propietario](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/ETHyuvLrZXhLmqV_pMxqQxIBUdHaBcifcz16Ryaiduyupw?e=mfLYPM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
