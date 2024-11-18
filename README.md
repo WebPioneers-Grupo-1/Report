@@ -146,6 +146,33 @@
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 2](#521-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5211-sprint-planning-2)
+    - [5.2.2.2. Sprint Backlog 2](#5212-sprint-backlog-2)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.1. Sprint 3](#521-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5211-sprint-planning-3)
+    - [5.2.3.2. Sprint Backlog 3](#5212-sprint-backlog-3)
+    - [5.2.3.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+    - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.4. Sprint 4](#521-sprint-4)
+    - [5.2.4.1. Sprint Planning 1](#5211-sprint-planning-4)
+    - [5.2.4.2. Sprint Backlog 1](#5212-sprint-backlog-4)
+    - [5.2.4.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+    - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
 [Conclusiones](#conclusiones-1)
 
@@ -161,8 +188,9 @@
 
 |Criterio específico| Acciones realizadas | Conclusiones |
 |:------ | :--------------------------- | :--------- |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | *Chavez Uribe, Ario Joel* <br> *TB1*: Consulté con mi equipo la problemática que enfrentaría nuestra startup. <br> *TP1*: <br> <br> *Cruz Ticona, Aaron Alejandro* <br> *TB1*: Establecí junto al equipo las metas que nuestro Startup debe enfrentar en el Lean UX Process Empathy Map y As-Is Scenario. También establecí un Style Guidelines que se adecúe a los objetivos de nuestro equipo. <br> *TP1*: Realicé una Landing Page que se adecúa a las metas del equipo. <br> <br> *Oshiro Yamashita, Daiki Oscar* <br> *TB1*: Definí junto a mi equipo un Landing Page UI Design y un Web Applications UX Design que brinde la mejor experiencia para nuestros usuario.s <br> *TP1*: Realicé una Front End Web Application que se adecúa a las metas del equipo.<br> *TB2*: Realizé el desarrollo del backend y mejoras en las partes anteriores del trabajo. <br>. <br> *TF1*: Realizé el desarrollo del backend y mejoras en las partes anteriores del trabajo. <br> <br> *Rivera Ayala, Gabriel Alejandro* <br> *TB1*: Realicé junto a mi equipo un análisis de los competidores de nuestra startup para formular tácticas para destacar. <br> *TP1*: Definí el Ubiquitous Language necesario para mantener una comunicación clara. <br> <br> Zuniga Calle, Sebastian Gabriel <br> *TB1*: Definí junto a mi equipo los componentes a incluir en el Domain Driven Software Architecture <br> *TP1*: <br> <br> | Se concluye que la plataforma debe priorizar la seguridad tanto de los vehículos como de los usuarios. Esto incluye funciones que permitan realizar inspecciones técnicas automáticas y verificaciones del historial del automóvil para asegurar que los vehículos alquilados cumplan con las normativas de seguridad vial. Además, la plataforma puede incluir alertas sobre mantenimiento necesario para evitar accidentes.|
-|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos| *Chavez Uribe, Ario Joel* <br> *TB1*: Establecí las metas que debe alcanzar nuestra empresa en el Impact Mapping. Tambien planifiqué las tareas a realizar en el desarrollo de la Landing Page a través del Product Backlog. <br> *TP1*: <br> <br> *Cruz Ticona, Aaron Alejandro* <br> *TB1*: Establecí la Information Architecture necesaria para lograr un producto web que brinde un entorno inclusivo. *TP1*: Realicé una Landing Page que se adecúa a las metas del equipo. <br> <br> *Oshiro Yamashita, Daiki Oscar* <br> *TB1*: Definí la misión y visión de nuestra Startup. <br> *TP1*: Realicé una Front End Web Application que se adecúa a las metas del equipo. <br> *TP1*: Establecí la creación del backend y el api de nuestra aplicación. <br> <br> *TF1*: Realizé el desarrollo del backend y mejoras en las partes anteriores del trabajo. <br> <br> *Rivera Ayala, Gabriel Alejandro* <br> *TB1*: Establecí la User Task Matrix que serviría para definir las features a incluir en las User Stories. <br> *TB2*: Definí el Ubiquitous Language necesario para mantener una comunicación clara. <br> <br> *Zuniga Calle, Sebastian Gabriel* <br> *TB1*: Establecí los Segmentos Objetivo que nuestro producto atenderá. <br> *TB2*: Definí los User Stories que regirán las funcionalidades de nuestro producto. <br> |Validar el diseño de TakeMyCar desde estos criterios asegura que la plataforma no solo cumple con su propósito funcional, sino que también contribuye positivamente a la seguridad, el bienestar social y la sostenibilidad. Realizar pruebas de usabilidad, encuestas a usuarios, análisis de datos ambientales y económicos, y adaptación a normativas globales garantizará que la solución responda a los desafíos locales y globales, generando un impacto positivo y sostenible a largo plazo.|
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | *Chavez Uribe, Ario Joel* <br> *TB1*: Consulté con mi equipo la problemática que enfrentaría nuestra startup. <br> *TP1*: Realizé junto al equipo la aplicacion FrontEnd. <br> *TB2*: Fomenté reuniones para planificar la estructura de la API. <br> *TF1*: Apoyé en mi equipo a culminar con las correciones para el API. <br> <br> *Cruz Ticona, Aaron Alejandro* <br> *TB1*: Establecí junto al equipo las metas que nuestro Startup debe enfrentar en el Lean UX Process Empathy Map y As-Is Scenario. También establecí un Style Guidelines que se adecúe a los objetivos de nuestro equipo. <br> *TP1*: Realicé una Landing Page que se adecúa a las metas del equipo. <br> *TB2*: Junto al equipo colaboré en el realizar el API. <br> *TF1*: Con el apoyo del equipo realizamos las correciones de la API. <br> <br> *Oshiro Yamashita, Daiki Oscar* <br> *TB1*: Definí junto a mi equipo un Landing Page UI Design y un Web Applications UX Design que brinde la mejor experiencia para nuestros usuario.s <br> *TP1*: Realicé una Front End Web Application que se adecúa a las metas del equipo.<br> *TB2*: Realizé el desarrollo del backend y mejoras en las partes anteriores del trabajo. *TF1*: Realicé las correciones restantes del trabajo. <br> <br> *Rivera Ayala, Gabriel Alejandro* <br> *TB1*: Realicé junto a mi equipo un análisis de los competidores de nuestra startup para formular tácticas para destacar. <br> *TP1*: Definí el Ubiquitous Language necesario para mantener una comunicación clara. <br> *TB2*: He ayudado a planificar en grupo la estructura de nuestra API. <br> *TF*: En equipo hemos culminado las correciones que se plantearon para nuestro proyecto. <br> <br> Zuniga Calle, Sebastian Gabriel <br> *TB1*: Definí junto a mi equipo los componentes a incluir en el Domain Driven Software Architecture <br> *TP1*: He ayudado en el despliegue del front end application. <br> *TB2*: He ayudado a realizar el API para la app. <br> *TF1*: He colaborado a solucionar los errores faltantes del reporte. <br> <br> | Se concluye que la plataforma debe priorizar la seguridad tanto de los vehículos como de los usuarios. Esto incluye funciones que permitan realizar inspecciones técnicas automáticas y verificaciones del historial del automóvil para asegurar que los vehículos alquilados cumplan con las normativas de seguridad vial. Además, la plataforma puede incluir alertas sobre mantenimiento necesario para evitar accidentes.|
+|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos| *Chavez Uribe, Ario Joel* <br> *TB1*: Establecí las metas que debe alcanzar nuestra empresa en el Impact Mapping. Tambien planifiqué las tareas a realizar en el desarrollo de la Landing Page a través del Product Backlog. <br> *TP1*: Planifiqué el desarrollo del FrontEnd usando el Sprint Backlog. <br> *TB2*: Trabajando en equipo realice la API de la app. <br> *TF1*: Trabajando en equipo terminamos las correciones necesarias para nuestro trabajo. <br> <br> *Cruz Ticona, Aaron Alejandro* <br> *TB1*: Establecí la Information Architecture necesaria para lograr un producto web que brinde un entorno inclusivo. *TP1*: Realicé una Landing Page que se adecúa a las metas del equipo. <br> <br> *Oshiro Yamashita, Daiki Oscar* <br> *TB1*: Definí la misión y visión de nuestra Startup. <br> *TP1*: Realicé una Front End Web Application que se adecúa a las metas del equipo. <br> *TP1*: Establecí la creación del backend y el api de nuestra aplicación. <br> <br> *Rivera Ayala, Gabriel Alejandro* <br> *TB1*: Establecí la User Task Matrix que serviría para definir las features a incluir en las User Stories. <br> *TP*: Definí el Ubiquitous Language necesario para mantener una comunicación clara. <br>  *TB2*: Colaboré en la realización de la plataforma backend de TakeMyCar. <br> *TF*: He colaborado con mi equipo para mejorar los puntos pendientes por mejorar del proyecto.<br> <br> *Zuniga Calle, Sebastian Gabriel* <br> *TB1*: Establecí los Segmentos Objetivo que nuestro producto atenderá. <br> *TP*: Definí los User Stories que regirán las funcionalidades de nuestro producto. <br> |Validar el diseño de TakeMyCar desde estos criterios asegura que la plataforma no solo cumple con su propósito funcional, sino que también contribuye positivamente a la seguridad, el bienestar social y la sostenibilidad. Realizar pruebas de usabilidad, encuestas a usuarios, análisis de datos ambientales y económicos, y adaptación a normativas globales garantizará que la solución responda a los desafíos locales y globales, generando un impacto positivo y sostenible a largo plazo.|
+
 
 <div style="page-break-after: always;"></div>
 
@@ -2168,14 +2196,18 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 </table>
 
 
+<div align="center"> <img src="./img/trello2.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
 #### 5.2.2.2. Sprint Backlog 2
 
 | id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
 | ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
-| HU06 | Publicar un vehículo para alquiler  | TS01 | Componente de Publicación de un vehículo para alquiler	 | Implementación de la funcionalidad para publicar el vehículo del propietario. | 3 | Daiki | Done                                   |
+| HU06 | Publicar un vehículo para alquiler  | TS01 | Componente de Publicación de un vehículo para alquiler	 | Implementación de la funcionalidad para publicar el vehículo del propietario. | 4 | Daiki | Done                                   |
 | HU07 | Buscar vehículos disponibles   | TS02 | Implementación de la Búsqueda de vehículos disponibles  	 | Creación de la Búsqueda de vehiculos, permitiendo un acceso a diferentes opciones en base a disponibilidad. | 5               | Aaron   | Done                          |
 | HU13 | 	Ver historial de alquileres | TS03 | Implementación de historial de alquileres	| Implementación de historial respecto a la entrega del vehículo | 5 | José  | Done
-| HU11 | 	Calcular tarifas de alquiler  | TS04 | 	Desarrollo del cálculo respecto a las tarifas de alquiler | Creación del método de disponibilidad de un vehículo. | 12   | Daiki | Done                                   |
+| HU11 | 	Calcular tarifas de alquiler  | TS04 | 	Desarrollo del cálculo respecto a las tarifas de alquiler | Creación del método de disponibilidad de un vehículo. | 6 | Daiki | Done                                   |
 
 En este sprint se implementaron funcionalidades clave como la realización de ingresoa la aplicación, opciones básicas de interacción como búsqueda, selección y entrega del vehículo, mantenemos un enfoque de facilidad para el usuario, de modo que no le tome mucho tiempo realizar dichas operaciones.
 
@@ -2356,15 +2388,17 @@ Anexo: Tablas de commits en el periodo de 1 mes.
   </tr>
 </table>
 
+<div align="center"> <img src="./img/trello3.png" style="margin: 10px 0;" width="70%"/> </div>
+
 
 #### 5.2.3.2. Sprint Backlog 3
 
 | id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
 | ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
-| HU06 | Publicar un vehículo para alquiler  | TS05 | Componente de Publicación de un vehículo para alquiler	 | Implementación de la funcionalidad para publicar el vehículo del propietario. | 3 | Daiki | Done                                   |
+| HU06 | Publicar un vehículo para alquiler  | TS05 | Componente de Publicación de un vehículo para alquiler	 | Implementación de la funcionalidad para publicar el vehículo del propietario. | 4 | Daiki | Done                                   |
 | HU07 | Buscar vehículos disponibles   | TS06 | Implementación de la Búsqueda de vehículos disponibles  	 | Creación de la Búsqueda de vehiculos, permitiendo un acceso a diferentes opciones en base a disponibilidad. | 5               | Aaron   | Done                          |
 | HU13 | 	Ver historial de alquileres | TS07 | Implementación de historial de alquileres	| Implementación de historial respecto a la entrega del vehículo | 5 | José  | Done
-| HU11 | 	Calcular tarifas de alquiler  | TS08 | 	Desarrollo del cálculo respecto a las tarifas de alquiler | Creación del método de disponibilidad de un vehículo. | 12   | Daiki | Done                                   |
+| HU11 | 	Calcular tarifas de alquiler  | TS08 | 	Desarrollo del cálculo respecto a las tarifas de alquiler | Creación del método de disponibilidad de un vehículo. | 8 | Daiki | Done                                   |
 
 En este sprint se implementaron funcionalidades clave como la realización de ingreso a la aplicación, opciones básicas de conexión con la base de datos que incluye búsqueda, selección y entrega del vehículo, mantenemos un enfoque de facilidad para el programador, de modo que no le tome mucho tiempo entender dichas operaciones.
 
@@ -2463,7 +2497,7 @@ Capturas de pantalla que ilustran la implementación exitosa del backend en Rail
 <div align="center"> <img src="./img/deployment3.png" style="margin: 10px 0;" width="70%"/> </div>
 
 Capura de pantalla de swagger de nuestra API:
-<div align="center"> <img src="./img/Swa.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/APIF.png" style="margin: 10px 0;" width="70%"/> </div>
 
 Link del Backend en Github: https://github.com/WebPioneers-Grupo-1/backend
 
@@ -2483,6 +2517,219 @@ GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro rep
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+El equipo organizó el desarrollo del frontend de la aplicación web en ramas para abordar cada sección de forma independiente, optimizando así el mantenimiento y la colaboración durante el sprint. Se siguieron las convenciones estándar de GitFlow, por lo que se crearon ramas de desarrollo y de funcionalidad (bounded-context) según la necesidad. A continuación, se detallan las tareas asignadas a cada miembro del equipo, así como los comentarios del equipo a través de la plataforma GitHub:
+
+| Alumno                         | Actividad                                                                                                                                                                                        |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Chavez Uribe, Ario Joel  | Se encargo de la revisión y culminación del informe, cumpliendo con los requerimientos solicitados |
+| Cruz Ticona, Aaron Alejandro | Se encargó de la gestión del equipo y asignación de trabajos  |
+| Oshiro Yamashita, Daiki Oscar | Se encargo de la implementación del código, su funcionamiento adecuado siguiendo los lineamientos estipulados |
+| Rivera Ayala, Gabriel Alejandro | Se encargó de brindar soporte al código mediante funciones faltantes al programa |
+| Zuniga Calle, Sebastian Gabriel | Apoyó en la creación de la lógica del negocio y mejoró los boundend context |
+
+A continuación, se mostrará la tabla de colaboradores en el repositorio de GitHub, con el objetivo de identificar a cada miembro del equipo.
+
+Tabla de integrantes:
+
+| Username (GitHub) | Nombre                         |
+| ----------------- | ------------------------------ |
+| AaronAlejandrou  | Cruz Ticona, Aaron Alejandro |
+| feg06             | Chavez Uribe, Ario Joel  |
+| DaikiOY        | Oshiro Yamashita, Daiki Oscar |
+| GabrielRiveraOfficial | Rivera Ayala, Gabriel Alejandro |
+| SeZuu             | Zuniga Calle, Sebastian Gabriel   |
+
+<div align="center"> <img src="./img/contriback.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 3 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 12/11/2024 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 23:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Virtual (Google Meet) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Chavez Uribe, Ario Joel </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td>
+      Cruz Ticona, Aaron Alejandro<br>
+      Chavez Uribe, Ario Joel<br>
+      Oshiro Yamashita, Daiki Oscar<br>
+      Rivera Ayala, Gabriel Alejandro<br>
+      Zuniga Calle, Sebastian Gabriel
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
+    <td> Este sprint estuvo enfocado en la mejora del back-end y la mejora de base de datos de TakeMyCar. Así como corecciones de las anteriores entergas. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
+    <td> Aunque fue un sprint de desarrollo, el equipo identificó algunas áreas de mejora en la comunicación durante el proceso de implementación. La retroalimentación se centró en ajustar los tiempos de reunión y mejorar la distribución de tareas en el equipo. Se propuso mayor enfoque en la planificación de tareas individuales para evitar cuellos de botella. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Goal </td>
+    <td> El objetivo de este sprint es la mejora de todas las partes del proyecto para su correcto funcionamiento. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+    <td> <strong>7 </strong><br> El equipo ha establecido una capacidad de 7 Story Points para este Sprint, tomando en cuenta el alcance del desarrollo del back-end y la carga estimada de trabajo. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 7 </td>
+  </tr>
+</table>
+
+<div align="center"> <img src="./img/trello3.png" style="margin: 10px 0;" width="70%"/> </div>
+
+#### 5.2.4.2. Sprint Backlog 4
+
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| No aplica | No aplica | WI01 | Mejora del backend	 | Mejora la estructura y funcionalidad del backend. | 4 | Daiki | Done                                   |
+| No aplica | No aplica  | WI02 | Mejora de la database   	 |Mejorar la conección a la database. | 4 | Aaron   | Done                          |
+| No aplica | No aplica | WI03 | Security	| Security. | 4 | Gabriel  | Done
+| No aplica | No aplica  | WI04 | Conección del backend con la database  | Mejorar la conección entre el backend y la database. | 8 | Daiki | Done                                   |
+
+En este sprint se implementaron mejoras en el backend y database.
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| [TakeMyCar <br> BackEnd](https://snazzy-mooncake-161ed9.netlify.app) | main | 888051d | initial commit |  | 27/10/2024 |
+| BackEnd | main | 3a26b2c | Updated InicioSesion | 93f6427 | 31/10/2024 |
+| BackEnd | main | 3a26b2c | Updated README   | 696f064 | 31/10/2024 |
+| BackEnd | main | 3a26b2c | Updated RegistroSesion   | 2af556c | 31/10/2024 |
+
+Link del Github del Backend: https://github.com/WebPioneers-Grupo-1/backend
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando la herramienta Gherkin. Puedes encontrar los escenarios de estas pruebas dando click aqui: [https://github.com/WebPioneers-Grupo-1/TakeMyCar-Acceptance-Tests](https://github.com/WebPioneers-Grupo-1/TakeMyCar-Acceptance-Tests)
+
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| TakeMyCar <br> Acceptance Tests | main | 4bbda94 | Initial commit |  | 30/10/2024 |
+| TakeMyCar | main | 66c33e5 | feat: added acceptance tests |  | 30/10/2024 |
+| TakeMyCar  | main | 91e4297 | feat: added images |  | 30/10/2024 |
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+En esta entrega, el equipo TakeMyCar ha logrado completar la creación del BackEnd y DataBase.
+
+Enlace del deployment de la Landing Page: https://snazzy-mooncake-161ed9.netlify.app/
+Enlace del deployment del FrontEnd: https://take-my-car-app.netlify.app/
+
+Registro de nuevo usuario:
+
+<div align="center"> <img src="./img/evi1.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del nuevo usuario en la base de datos:
+
+<div align="center"> <img src="./img/evi2.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Ingreso a la Galeria de Autos:
+
+<div align="center"> <img src="./img/evi3.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del auto que el usuario alquiló:
+
+<div align="center"> <img src="./img/evi4.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del auto que el usuario alquiló en base de datos:
+
+<div align="center"> <img src="./img/evi5.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Cancelar el alquiler:
+
+<div align="center"> <img src="./img/evi6.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización de cancelar el alquiler en base de datos:
+
+<div align="center"> <img src="./img/evi7.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Añadir nuevo auto a la Galeria:
+
+<div align="center"> <img src="./img/evi8.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del nuevo auto en la Galeria:
+
+<div align="center"> <img src="./img/evi9.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+
+Visualización del nuevo auto en la base de datos:
+
+<div align="center"> <img src="./img/evi10.png" style="margin: 10px 0;" width="70%"/> </div>
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+En el alcance del sprint 3, se ha dado prioridad a la mejora del FrontEnd y la implementación del BackEnd.
+
+Capturas de pantalla que ilustran la implementación exitosa del backend en Railway:
+<div align="center"> <img src="./img/deployment3.png" style="margin: 10px 0;" width="70%"/> </div>
+
+Link del Backend en Github: https://github.com/WebPioneers-Grupo-1/backend
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+Durante este sprint, se ha completado el desarrollo del frontend de la aplicación web. Para el despliegue, se utilizaron las siguientes herramientas y servicios:
+
+Git: Sistema de control de versiones que utilizamos para trabajar de forma colaborativa y monitorear las versiones de la aplicación web en un repositorio remoto.
+Gitflow: Este flujo de trabajo colaborativo nos ha permitido dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilita la colaboración en el desarrollo.
+GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
+
+<div align="center"> <img src="./img/deployment.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/AAPI1.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/AAPI2.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/AAP13.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/AAPI4.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/deployment2.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/back1.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/back2.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/back3.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
 
 
 El equipo organizó el desarrollo del frontend de la aplicación web en ramas para abordar cada sección de forma independiente, optimizando así el mantenimiento y la colaboración durante el sprint. Se siguieron las convenciones estándar de GitFlow, por lo que se crearon ramas de desarrollo y de funcionalidad (bounded-context) según la necesidad. A continuación, se detallan las tareas asignadas a cada miembro del equipo, así como los comentarios del equipo a través de la plataforma GitHub:
@@ -2557,6 +2804,11 @@ Link de la entrevista: [Entrevista_Propietario](https://upcedupe-my.sharepoint.c
 
 <div align="center"> <img src="./img/entrevista3a.png" style="margin: 10px 0;" width="70%"/> </div>
 
+
+#### Entrevista 4: [Entrevista_Propietario](https://shorturl.at/Zx2MI) https://shorturl.at/Zx2MI
+
+
+<div align="center"> <img src="./img/entrevista4a.png" style="margin: 10px 0;" width="70%"/> </div>
 
 
 
@@ -2633,9 +2885,9 @@ Recomendación: Implementar mensajes de confirmación rápidos y claros para cad
 ## 5.4. Video About-the-Product
 
 
-<div align="center"> <img src="./img/fotoqw.png" style="margin: 10px 0;" width="90%"/> </div>
+<div align="center"> <img src="./img/THEPRODUCT.png" style="margin: 10px 0;" width="90%"/> </div>
 
-<br>https://youtu.be/F0f1vnUtpII<br>
+<br>https://youtu.be/P0IcS8M2wzI<br>
 
 <div style="page-break-after: always;"></div>
 
