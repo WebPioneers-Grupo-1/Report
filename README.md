@@ -1867,8 +1867,11 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
         </td>
     </tr>
     <tr align="left">
-        <td colspan="2">
+        <td>
             <b>Sprint Goal & User Stories</b>
+        </td>
+        <td>
+            El sprint goal fue desarrollar la landing page de forma intuitiva, precisa y con la información correcta para nuestros usuarios, que sea simple pero no básica y que sea de fácil entendimiento para todo aquel que visite nuestra página.
         </td>
     </tr>
       <tr align="left">
