@@ -2784,6 +2784,11 @@ Link de la entrevista: [Entrevista_Propietario](https://upcedupe-my.sharepoint.c
 <div align="center"> <img src="./img/entrevista3a.png" style="margin: 10px 0;" width="70%"/> </div>
 
 
+#### Entrevista 4: [Entrevista_Propietario](https://shorturl.at/Zx2MI) https://shorturl.at/Zx2MI
+
+
+<div align="center"> <img src="./img/entrevista4a.png" style="margin: 10px 0;" width="70%"/> </div>
+
 
 
 ### 5.3.3. Evaluaciones según heurísticas
