@@ -42,6 +42,7 @@
 |TB1|05/09/2024|Chavez,Cruz,Oshiro,Rivera y Zuniga|Se añadió los capítulos 1 al 4|
 |TP1|29/09/2024|Chavez,Cruz,Oshiro,Rivera y Zuniga|Se añadió el capítulo 5|
 |TB2|30/10/2024|Chavez,Cruz,Oshiro,Rivera|Se arreglares errores y nuevo contenido al capítulo 5 del backend|
+|TF|17/11/2024|Chavez,Cruz,Oshiro,Rivera|Correciones finales|
 
 # Project Report Collaboration Insights
 
