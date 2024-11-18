@@ -2548,7 +2548,7 @@ Link de la entrevista: [Entrevista_Propietario](https://upcedupe-my.sharepoint.c
 <div align="center"> <img src="./img/entrevista2a.png" style="margin: 10px 0;" width="70%"/> </div>
 
 
-#### Entrevista 3: [Entrevista_Arrendatario](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/ESA0OUCpDpRFg3iX2jSqVtUBJlfsqyW7zDXPzV3oDFnI1g?e=L3A2wX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+#### Entrevista 4: [Entrevista_Arrendatario](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/ESA0OUCpDpRFg3iX2jSqVtUBJlfsqyW7zDXPzV3oDFnI1g?e=L3A2wX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 <div align="center"> <img src="./img/entrevista3a.png" style="margin: 10px 0;" width="70%"/> </div>
