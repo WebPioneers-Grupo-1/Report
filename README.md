@@ -1546,7 +1546,7 @@ facilitando la gestión de las relaciones entre ellos y asegurando la consistenc
 
 ### 4.7.1. Class Diagrams
 
-<p align = "center"> <img  alt="component-diagram-publisher" src="img/diagramaclases.png"> </p>
+<p align = "center"> <img  alt="component-diagram-publisher" src="img/classD.png"> </p>
 
 link: https://lucid.app/lucidchart/ff78de06-e621-4070-b910-0f5d6735f089/edit?invitationId=inv_7d0c6110-83bd-4ad9-8db9-37434ecb2367&page=HWEp-vi-RSFO# 
 
@@ -1576,12 +1576,32 @@ Clase que representa el proceso mediante el cual un arrendatario reserva un veh�
 
 Esta clase gestiona la información de los pagos realizados por los arrendatarios por el alquiler de vehículos.
 
+7. Alquilados:
+
+Esta clase gestiona los autos que están en estado de alquilados por los usuarios.
+
+8. Galeria:
+
+Esta clase muestra todos los autos disponibles para alquilar. Únicamente se muestran los que tienen estado disponible.
+
+9. Estado:
+
+Esta clase muestra el estado de los autos, ya sean disponibles o alquilados.
+
+10. MetodosPago
+
+Esta clase gestiona los métodos de pago que se hacen al momento de realizar el pago para alquilar los autos disponibles en la galeria de alquileres.
+
+11. AnadirAutos:
+
+Esta clase gestiona el añadir los autos a la galeria de alquileres. El usuario aquí sube su auto para que esté disponible su estado de alquilable.
+
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
 
-<p align = "center"> <img  alt="component-diagram-publisher" src="img/databased.png"> </p>
+<p align = "center"> <img  alt="component-diagram-publisher" src="img/database.png"> </p>
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
