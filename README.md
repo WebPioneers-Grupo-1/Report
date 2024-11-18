@@ -191,6 +191,7 @@
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta | *Chavez Uribe, Ario Joel* <br> *TB1*: Consulté con mi equipo la problemática que enfrentaría nuestra startup. <br> *TP1*: Realizé junto al equipo la aplicacion FrontEnd. <br> *TB2*: Fomenté reuniones para planificar la estructura de la API. <br> *TF1*: Apoyé en mi equipo a culminar con las correciones para el API. <br> <br> *Cruz Ticona, Aaron Alejandro* <br> *TB1*: Establecí junto al equipo las metas que nuestro Startup debe enfrentar en el Lean UX Process Empathy Map y As-Is Scenario. También establecí un Style Guidelines que se adecúe a los objetivos de nuestro equipo. <br> *TP1*: Realicé una Landing Page que se adecúa a las metas del equipo. <br> *TB2*: Junto al equipo colaboré en el realizar el API. <br> *TF1*: Con el apoyo del equipo realizamos las correciones de la API. <br> <br> *Oshiro Yamashita, Daiki Oscar* <br> *TB1*: Definí junto a mi equipo un Landing Page UI Design y un Web Applications UX Design que brinde la mejor experiencia para nuestros usuario.s <br> *TP1*: Realicé una Front End Web Application que se adecúa a las metas del equipo.<br> *TB2*: Realizé el desarrollo del backend y mejoras en las partes anteriores del trabajo. *TF1*: Realicé las correciones restantes del trabajo. <br> <br> *Rivera Ayala, Gabriel Alejandro* <br> *TB1*: Realicé junto a mi equipo un análisis de los competidores de nuestra startup para formular tácticas para destacar. <br> *TP1*: Definí el Ubiquitous Language necesario para mantener una comunicación clara. <br> *TB2*: He ayudado a planificar en grupo la estructura de nuestra API. <br> *TF*: En equipo hemos culminado las correciones que se plantearon para nuestro proyecto. <br> <br> Zuniga Calle, Sebastian Gabriel <br> *TB1*: Definí junto a mi equipo los componentes a incluir en el Domain Driven Software Architecture <br> *TP1*: He ayudado en el despliegue del front end application. <br> *TB2*: He ayudado a realizar el API para la app. <br> *TF1*: He colaborado a solucionar los errores faltantes del reporte. <br> <br> | Se concluye que la plataforma debe priorizar la seguridad tanto de los vehículos como de los usuarios. Esto incluye funciones que permitan realizar inspecciones técnicas automáticas y verificaciones del historial del automóvil para asegurar que los vehículos alquilados cumplan con las normativas de seguridad vial. Además, la plataforma puede incluir alertas sobre mantenimiento necesario para evitar accidentes.|
 |Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos| *Chavez Uribe, Ario Joel* <br> *TB1*: Establecí las metas que debe alcanzar nuestra empresa en el Impact Mapping. Tambien planifiqué las tareas a realizar en el desarrollo de la Landing Page a través del Product Backlog. <br> *TP1*: Planifiqué el desarrollo del FrontEnd usando el Sprint Backlog. <br> *TB2*: Trabajando en equipo realice la API de la app. <br> *TF1*: Trabajando en equipo terminamos las correciones necesarias para nuestro trabajo. <br> <br> *Cruz Ticona, Aaron Alejandro* <br> *TB1*: Establecí la Information Architecture necesaria para lograr un producto web que brinde un entorno inclusivo. *TP1*: Realicé una Landing Page que se adecúa a las metas del equipo. <br> <br> *Oshiro Yamashita, Daiki Oscar* <br> *TB1*: Definí la misión y visión de nuestra Startup. <br> *TP1*: Realicé una Front End Web Application que se adecúa a las metas del equipo. <br> *TP1*: Establecí la creación del backend y el api de nuestra aplicación. <br> <br> *Rivera Ayala, Gabriel Alejandro* <br> *TB1*: Establecí la User Task Matrix que serviría para definir las features a incluir en las User Stories. <br> *TP*: Definí el Ubiquitous Language necesario para mantener una comunicación clara. <br>  *TB2*: Colaboré en la realización de la plataforma backend de TakeMyCar. <br> *TF*: He colaborado con mi equipo para mejorar los puntos pendientes por mejorar del proyecto.<br> <br> *Zuniga Calle, Sebastian Gabriel* <br> *TB1*: Establecí los Segmentos Objetivo que nuestro producto atenderá. <br> *TP*: Definí los User Stories que regirán las funcionalidades de nuestro producto. <br> |Validar el diseño de TakeMyCar desde estos criterios asegura que la plataforma no solo cumple con su propósito funcional, sino que también contribuye positivamente a la seguridad, el bienestar social y la sostenibilidad. Realizar pruebas de usabilidad, encuestas a usuarios, análisis de datos ambientales y económicos, y adaptación a normativas globales garantizará que la solución responda a los desafíos locales y globales, generando un impacto positivo y sostenible a largo plazo.|
 
+
 <div style="page-break-after: always;"></div>
 
 # Capitulo I: Introduccion
@@ -1573,7 +1574,7 @@ facilitando la gestión de las relaciones entre ellos y asegurando la consistenc
 
 ### 4.7.1. Class Diagrams
 
-<p align = "center"> <img  alt="component-diagram-publisher" src="img/diagramaclases.png"> </p>
+<p align = "center"> <img  alt="component-diagram-publisher" src="img/classD.png"> </p>
 
 link: https://lucid.app/lucidchart/ff78de06-e621-4070-b910-0f5d6735f089/edit?invitationId=inv_7d0c6110-83bd-4ad9-8db9-37434ecb2367&page=HWEp-vi-RSFO# 
 
@@ -1603,12 +1604,32 @@ Clase que representa el proceso mediante el cual un arrendatario reserva un veh�
 
 Esta clase gestiona la información de los pagos realizados por los arrendatarios por el alquiler de vehículos.
 
+7. Alquilados:
+
+Esta clase gestiona los autos que están en estado de alquilados por los usuarios.
+
+8. Galeria:
+
+Esta clase muestra todos los autos disponibles para alquilar. Únicamente se muestran los que tienen estado disponible.
+
+9. Estado:
+
+Esta clase muestra el estado de los autos, ya sean disponibles o alquilados.
+
+10. MetodosPago
+
+Esta clase gestiona los métodos de pago que se hacen al momento de realizar el pago para alquilar los autos disponibles en la galeria de alquileres.
+
+11. AnadirAutos:
+
+Esta clase gestiona el añadir los autos a la galeria de alquileres. El usuario aquí sube su auto para que esté disponible su estado de alquilable.
+
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
 
-<p align = "center"> <img  alt="component-diagram-publisher" src="img/databased.png"> </p>
+<p align = "center"> <img  alt="component-diagram-publisher" src="img/database.png"> </p>
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
