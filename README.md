@@ -2134,10 +2134,7 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
     <td> Aunque fue un sprint de desarrollo, el equipo identificó algunas áreas de mejora en la comunicación durante el proceso de implementación. La retroalimentación se centró en ajustar los tiempos de reunión y mejorar la distribución de tareas en el equipo. Se propuso mayor enfoque en la planificación de tareas individuales para evitar cuellos de botella. </td>
   </tr>
   <tr>
-    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Sprint 2 Goal </td>
+    <td style="font-weight: bold;"> Sprint 2 Goal & User Stories </td>
     <td> El objetivo de este sprint es desarrollar e implementar el front-end de la aplicación web, permitiendo a los usuarios navegar de manera intuitiva y explorar las principales características de TakeMyCar. Se busca tener una Landing Page completamente funcional que muestre los beneficios del servicio. </td>
   </tr>
   <tr>
@@ -2155,10 +2152,10 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 
 | id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
 | ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
-| HU06 | Publicar un vehículo para alquiler  | TS01 | Componente de Publicación de un vehículo para alquiler	 | Implementación de la funcionalidad para publicar el vehículo del propietario. | 3 | Daiki | Done                                   |
+| HU06 | Publicar un vehículo para alquiler  | TS01 | Componente de Publicación de un vehículo para alquiler	 | Implementación de la funcionalidad para publicar el vehículo del propietario. | 4 | Daiki | Done                                   |
 | HU07 | Buscar vehículos disponibles   | TS02 | Implementación de la Búsqueda de vehículos disponibles  	 | Creación de la Búsqueda de vehiculos, permitiendo un acceso a diferentes opciones en base a disponibilidad. | 5               | Aaron   | Done                          |
 | HU13 | 	Ver historial de alquileres | TS03 | Implementación de historial de alquileres	| Implementación de historial respecto a la entrega del vehículo | 5 | José  | Done
-| HU11 | 	Calcular tarifas de alquiler  | TS04 | 	Desarrollo del cálculo respecto a las tarifas de alquiler | Creación del método de disponibilidad de un vehículo. | 12   | Daiki | Done                                   |
+| HU11 | 	Calcular tarifas de alquiler  | TS04 | 	Desarrollo del cálculo respecto a las tarifas de alquiler | Creación del método de disponibilidad de un vehículo. | 8   | Daiki | Done                                   |
 
 En este sprint se implementaron funcionalidades clave como la realización de ingresoa la aplicación, opciones básicas de interacción como búsqueda, selección y entrega del vehículo, mantenemos un enfoque de facilidad para el usuario, de modo que no le tome mucho tiempo realizar dichas operaciones.
 
@@ -2323,10 +2320,7 @@ Anexo: Tablas de commits en el periodo de 1 mes.
     <td> Aunque fue un sprint de desarrollo, el equipo identificó algunas áreas de mejora en la comunicación durante el proceso de implementación. La retroalimentación se centró en ajustar los tiempos de reunión y mejorar la distribución de tareas en el equipo. Se propuso mayor enfoque en la planificación de tareas individuales para evitar cuellos de botella. </td>
   </tr>
   <tr>
-    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Sprint 3 Goal </td>
+    <td style="font-weight: bold;"> Sprint 3 Goal & User Stories</td>
     <td> El objetivo de este sprint es desarrollar e implementar el back-end de la aplicación web, permitiendo el registro de información dentro del sistema, cabe recalcar que nos encontramos en una etapa temprana de desarrollo en este apratado, por ende las implementaciones aún no son 100% compatibles. </td>
   </tr>
   <tr>
