@@ -2664,7 +2664,7 @@ El proyecto ha avanzado significativamente en términos de diseño, funcionalida
 <div align="center"> <img src="./img/abouttheteam.png" style="margin: 10px 0;" width="90%"/> </div>
 
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213502_upc_edu_pe/EUwfQGcUeopArQPtT_JcswUBgrk4dGXEun5lOqc07tSWLA?e=aRZTIW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Enlace Video About-the-Team</a>
-              
+
 <div style="page-break-after: always;"></div>
 
 <div style="page-break-after: always;"></div>
@@ -2679,12 +2679,6 @@ Avis Budget Group. (2024). Innovations in car rental services. Recuperado de htt
 
 Holdings. (2024). Sustainability and technology in fleet management. Recuperado de https://www.enterpriseholdings.com/sustainability
 
-=========
----
 
-# Bibliografía
 
----
-
->>>>>>>>> Temporary merge branch 2
 # Anexos
