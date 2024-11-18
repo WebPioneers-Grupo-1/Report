@@ -2522,7 +2522,7 @@ Tabla de integrantes:
 - Apellidos: Jharol
 - Edad: 25 años
 - Distrito: Surco
-- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213502_upc_edu_pe/ERfRi4cI3GdAvV7B_LCybu4B56-OAtcaORWy8X00-t_--Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ULxJrR">Entrevista Link: https://www.youtube.com/watch?v=eoOJoZDcQu8</a> 
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213502_upc_edu_pe/ERfRi4cI3GdAvV7B_LCybu4B56-OAtcaORWy8X00-t_--Q?e=D2WtxO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Entrevista </a> 
 
 Evidencia de la reunión:
 
