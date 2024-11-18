@@ -1922,7 +1922,7 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
        <td>T01</td>
        <td>Estructura de la landing</td>
        <td>Programar el landing page comenzando por el HTML </td>
-       <td>0.1</td>
+       <td>4</td>
        <td>Aaron Cruz</td>
        <td>Done</td>
     </tr>
@@ -1930,7 +1930,7 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
        <td>T02</td>
        <td>Agregar CSS styles</td>
        <td>Asignar stilos generales para la página</td>
-       <td>0.1</td>
+       <td>4</td>
        <td>Aaron Cruz</td>
        <td>Done</td>
     </tr>
@@ -1939,7 +1939,7 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
        <td>T10</td>
        <td>Estructura Navbar</td>
        <td>Crear HTML del navbar con direccionamiento a secciones</td>
-       <td>0.5</td>
+       <td>4</td>
        <td>Aaron Cruz</td>
        <td>Done</td>
     </tr>
@@ -1947,7 +1947,7 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
        <td>T11</td>
        <td>Estilos Navbar</td>
        <td>Asignar stilos al navbar</td>
-       <td>0.5</td>
+       <td>4</td>
        <td>Aaron Cruz</td>
        <td>Done</td>
     </tr>
@@ -1957,7 +1957,7 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
        <td>T12</td>
        <td>Main responsive</td>
        <td>Agregar CSS media queries a las diferentes secciones del main</td>
-       <td>1.0</td>
+       <td>4</td>
        <td>Aaron Cruz</td>
        <td>Done</td>
     </tr>
@@ -1965,7 +1965,7 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
        <td>T13</td>
        <td>Navbar responsive</td>
        <td>Agregar CSS media queries al navbar</td>
-       <td>0.5</td>
+       <td>4</td>
        <td>Aaron Cruz</td>
        <td>Done</td>
     </tr>
