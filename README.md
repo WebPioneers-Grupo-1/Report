@@ -2577,7 +2577,7 @@ Tabla de integrantes:
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 3 Velocity </td>
-    <td> <strong>8 </strong><br> El equipo ha establecido una capacidad de 7 Story Points para este Sprint, tomando en cuenta el alcance del desarrollo del back-end y la carga estimada de trabajo. </td>
+    <td> <strong>7 </strong><br> El equipo ha establecido una capacidad de 7 Story Points para este Sprint, tomando en cuenta el alcance del desarrollo del back-end y la carga estimada de trabajo. </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sum of Story Points </td>
