@@ -1720,7 +1720,7 @@ GitHub facilitará la colaboración en equipo mediante pull requests para revisa
 
 URL del repositorio del Report en GitHub: [https://github.com/WebPioneers-Grupo-1/Report](https://github.com/WebPioneers-Grupo-1/Report)
 
-URL del repositorio del Landing Page en GitHub: https://takemycarlandingpage.netlify.app/ 
+URL del repositorio del Landing Page en GitHub: https://github.com/WebPioneers-Grupo-1/Landing-page  
 
 URL del repositorio del FrontEnd en GitHub: [https://github.com/WebPioneers-Grupo-1/frontend](https://github.com/WebPioneers-Grupo-1/frontend)
 
