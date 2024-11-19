@@ -1720,7 +1720,7 @@ GitHub facilitará la colaboración en equipo mediante pull requests para revisa
 
 URL del repositorio del Report en GitHub: [https://github.com/WebPioneers-Grupo-1/Report](https://github.com/WebPioneers-Grupo-1/Report)
 
-URL del repositorio del Landing Page en GitHub: [https://github.com/WebPioneers-Grupo-1/Landing-page](https://github.com/WebPioneers-Grupo-1/Landing-page)
+URL del repositorio del Landing Page en GitHub: https://takemycarlandingpage.netlify.app/ 
 
 URL del repositorio del FrontEnd en GitHub: [https://github.com/WebPioneers-Grupo-1/frontend](https://github.com/WebPioneers-Grupo-1/frontend)
 
@@ -2023,7 +2023,7 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
 
 A continuación, se muestran los commits realizados en el repositorio para el Landing Page, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
 
-Repositorio de la Landing Page en GitHub: <a href="https://github.com/WebPioneers-Grupo-1/Landing-page">Enlace</a>
+Repositorio de la Landing Page en GitHub: https://github.com/WebPioneers-Grupo-1/Landing-page
 
 <table  align="left" border="1" width="100%">
     <tr>
@@ -2424,7 +2424,7 @@ Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 En esta entrega, el equipo TakeMyCar ha logrado completar parcialmente la creación del BackEnd.
 
-Enlace del deployment de la Landing Page: https://snazzy-mooncake-161ed9.netlify.app/
+Enlace del deployment de la Landing Page: https://takemycarlandingpage.netlify.app/
 Enlace del deployment del FrontEnd: https://take-my-car-app.netlify.app/
 
 Registro de nuevo usuario:
@@ -2639,8 +2639,8 @@ Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 En esta entrega, el equipo TakeMyCar ha logrado completar la creación del BackEnd y DataBase.
 
-Enlace del deployment de la Landing Page: https://snazzy-mooncake-161ed9.netlify.app/
-Enlace del deployment del FrontEnd: https://take-my-car-app.netlify.app/
+Enlace del deployment de la Landing Page: https://takemycarlandingpage.netlify.app/
+Enlace del deployment del FrontEnd: https://snazzy-mooncake-161ed9.netlify.app/ 
 
 Registro de nuevo usuario:
 
