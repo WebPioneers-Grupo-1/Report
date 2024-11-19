@@ -1574,7 +1574,7 @@ facilitando la gestión de las relaciones entre ellos y asegurando la consistenc
 
 ### 4.7.1. Class Diagrams
 
-<p align = "center"> <img  alt="component-diagram-publisher" src="img/classD.png"> </p>
+<p align = "center"> <img  alt="component-diagram-publisher" src="img/newclass.png"> </p>
 
 link: https://lucid.app/lucidchart/ff78de06-e621-4070-b910-0f5d6735f089/edit?invitationId=inv_7d0c6110-83bd-4ad9-8db9-37434ecb2367&page=HWEp-vi-RSFO# 
 
